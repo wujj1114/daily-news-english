@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <title>NEWS IN 10 每日新聞英語</title>
     <link>https://wujj1114.github.io/daily-news-english</link>
     <language>zh-tw</language>
-    <description>每日 10 分鐘，精選臺灣與全球財經、AI、生活旅遊時事，用中英雙語與單字拆解輕鬆學英文。</description>
+    <description>每日 10 分鐘，精選臺灣與全球 AI 發展、生活旅遊與財經時事新聞。每句採英文慢速朗讀搭配臺灣繁體中文翻譯，並拆解國三升高一程度關鍵單字與逐字母拼讀，適合通勤與開車輕鬆學英文。</description>
+    <itunes:summary>每日 10 分鐘，精選臺灣與全球 AI 發展、生活旅遊與財經時事新聞。每句採英文慢速朗讀搭配臺灣繁體中文翻譯，並拆解國三升高一程度關鍵單字與逐字母拼讀，適合通勤與開車輕鬆學英文。</itunes:summary>
     <atom:link href="https://wujj1114.github.io/daily-news-english/feed.xml" rel="self" type="application/rss+xml"/>
+    <podcast:locked>no</podcast:locked>
+    <podcast:guid>c1afed2a-1b0f-52e9-8d8b-1ce39e4fd02d</podcast:guid>
     <itunes:author>NEWS IN 10</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://wujj1114.github.io/daily-news-english/cover.jpg"/>
@@ -77,8 +80,8 @@ Bitcoin Plunges to Multi-Month Low Amid Market Volatility
   https://beincrypto.com/bitcoin-plunges-62000-market-manipulation-claims/</description>
       <guid isPermaLink="false">news-in-10-2026-11-15</guid>
       <pubDate>Sun, 15 Nov 2026 06:00:00 +0800</pubDate>
-      <enclosure url="https://github.com/wujj1114/daily-news-english/releases/download/ep-2026-11-15/episode.mp3" length="5695709" type="audio/mpeg"/>
-      <itunes:duration>00:07:54</itunes:duration>
+      <enclosure url="https://github.com/wujj1114/daily-news-english/releases/download/ep-2026-11-15/episode.mp3" length="5094341" type="audio/mpeg"/>
+      <itunes:duration>00:07:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

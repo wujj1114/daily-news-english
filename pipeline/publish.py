@@ -7,6 +7,7 @@ import logging
 import os
 import shutil
 import subprocess
+import uuid
 import xml.etree.ElementTree as ET
 from datetime import datetime
 from email.utils import format_datetime
@@ -22,9 +23,11 @@ logger = logging.getLogger(__name__)
 
 ITUNES_NS = "http://www.itunes.com/dtds/podcast-1.0.dtd"
 ATOM_NS = "http://www.w3.org/2005/Atom"
+PODCAST_NS = "https://podcastindex.org/namespace/1.0"
 
 ET.register_namespace("itunes", ITUNES_NS)
 ET.register_namespace("atom", ATOM_NS)
+ET.register_namespace("podcast", PODCAST_NS)
 
 
 def _format_duration_hms(seconds: float) -> str:
@@ -123,11 +126,15 @@ def update_rss_feed(
     ET.SubElement(channel, "link").text = podcast["site_url"]
     ET.SubElement(channel, "language").text = show.get("language", "zh-tw")
     ET.SubElement(channel, "description").text = show["description"]
+    ET.SubElement(channel, f"{{{ITUNES_NS}}}summary").text = show["description"]
     ET.SubElement(
         channel,
         f"{{{ATOM_NS}}}link",
         {"href": podcast["feed_url"], "rel": "self", "type": "application/rss+xml"},
     )
+    ET.SubElement(channel, f"{{{PODCAST_NS}}}locked").text = "no"
+    feed_guid = str(uuid.uuid5(uuid.NAMESPACE_URL, podcast["feed_url"]))
+    ET.SubElement(channel, f"{{{PODCAST_NS}}}guid").text = feed_guid
     ET.SubElement(channel, f"{{{ITUNES_NS}}}author").text = show.get("author", show["name_en"])
     ET.SubElement(channel, f"{{{ITUNES_NS}}}explicit").text = "true" if podcast.get("explicit") else "false"
     ET.SubElement(channel, f"{{{ITUNES_NS}}}image", {"href": podcast["cover_url"]})
