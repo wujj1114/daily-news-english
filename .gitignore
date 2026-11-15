@@ -1,0 +1,22 @@
+# 環境變數與金鑰
+.env
+*.token.json
+client_secret*.json
+
+# Python 虛擬環境與快取
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# 每日產出媒體與暫存檔（不提交媒體檔至 Git）
+episodes/**/*.mp3
+episodes/**/*.mp4
+episodes/**/*.wav
+episodes/**/*.ass
+episodes/**/cache/
+.tts_cache/
+
+# 作業系統暫存
+.DS_Store
+Thumbs.db

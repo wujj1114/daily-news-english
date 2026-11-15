@@ -1,0 +1,63 @@
+show:
+  name_en: "NEWS IN 10"
+  name_zh: "NEWS IN 10 每日新聞英語"
+  description: "每日 10 分鐘，精選臺灣與全球財經、AI、生活旅遊時事，用中英雙語與單字拆解輕鬆學英文。"
+  author: "NEWS IN 10"
+  language: "zh-tw"
+
+content:
+  topics:
+    - "臺灣"
+    - "AI 發展"
+    - "生活"
+    - "旅遊"
+    - "財經"
+  stories_per_episode: 3
+  sentences_per_story_min: 4
+  sentences_per_story_max: 5
+  max_en_words_per_sentence: 22
+  vocab_level: "CEFR A2-B1（臺灣國三剛升高一程度）"
+  vocab_min_total: 8
+  vocab_max_total: 12
+  vocab_max_per_sentence: 2
+  target_duration_min_sec: 540   # 9 分鐘
+  target_duration_max_sec: 660   # 11 分鐘
+  avoid_topics:
+    - "血腥暴力細節"
+    - "未經證實的謠言"
+    - "主觀政治評論"
+
+tts:
+  engine: "gemini"
+  voices:
+    en:
+      name: "Leda"      # 年輕有活力的女聲
+      lang: "en-US"
+      rate: 0.85        # 英文慢速朗讀
+    zh:
+      name: "Aoede"     # 自然親切的女聲
+      lang: "zh-TW"
+      rate: 1.0
+  pauses_sec:
+    after_en_sentence: 0.8
+    after_zh_sentence: 0.6
+    vocab_element: 0.4
+    between_stories: 1.5
+    after_intro: 1.0
+    before_outro: 1.0
+  audio:
+    sample_rate: 24000
+    channels: 1
+    mp3_bitrate: "96k"
+    target_lufs: -16.0
+
+podcast:
+  audio_host: "github_releases"
+  site_url: "https://wujj1114.github.io/daily-news-english"
+  feed_url: "https://wujj1114.github.io/daily-news-english/feed.xml"
+  cover_url: "https://wujj1114.github.io/daily-news-english/cover.jpg"
+  email: "wujj1114@gmail.com"   # Apple Podcasts Connect 驗證用聯絡信箱
+  category: "Education"
+  subcategory: "Language Learning"
+  explicit: false
+

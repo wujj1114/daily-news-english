@@ -1,0 +1,206 @@
+{
+  "date": "2026-11-15",
+  "title_en": "NEWS IN 10 — Nov 15",
+  "title_zh": "NEWS IN 10 每日新聞英語｜11 月 15 日",
+  "stories": [
+    {
+      "topic": "人工智慧發展",
+      "headline_en": "Nvidia CEO Jensen Huang Resigns Amid Scandal, Impacting Chip Industry",
+      "headline_zh": "輝達執行長黃仁勳因醜聞辭職，衝擊晶片產業",
+      "sources": [
+        "https://www.forbes.com/sites/charlesbovaird/2026/11/13/jensen-huang-ousted-timeline-of-the-nvidia-scandal/",
+        "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-resigns-nvidia-ceo-alleged-affairs"
+      ],
+      "sentences": [
+        {
+          "id": "s01",
+          "en": "Nvidia's CEO, Jensen Huang, recently **resigned** from his position.",
+          "zh": "輝達執行長黃仁勳最近已辭去其職位。",
+          "vocab": [
+            {
+              "word": "resigned",
+              "ipa": "/ɹɪzˈaɪnd/",
+              "pos": "v.",
+              "zh": "辭職"
+            }
+          ]
+        },
+        {
+          "id": "s02",
+          "en": "Reports suggest his departure followed an investigation into **alleged** affairs.",
+          "zh": "報導指出，他的離職是因一項針對其被指控婚外情的調查。",
+          "vocab": [
+            {
+              "word": "alleged",
+              "ipa": "/əlˈɛdʒd/",
+              "pos": "adj.",
+              "zh": "被指控的"
+            }
+          ]
+        },
+        {
+          "id": "s03",
+          "en": "These included a suspected Chinese spy and an Nvidia executive.",
+          "zh": "其中包括一名疑似中國間諜和一名輝達高階主管。",
+          "vocab": []
+        },
+        {
+          "id": "s04",
+          "en": "This news has caused significant concern across the global semiconductor industry.",
+          "zh": "這則新聞已在全球晶片產業中引起了廣泛關注。",
+          "vocab": []
+        },
+        {
+          "id": "s05",
+          "en": "His exit could challenge Nvidia's supply chain and market standing.",
+          "zh": "他的離職可能會對輝達的供應鏈和市場地位構成挑戰。",
+          "vocab": []
+        }
+      ]
+    },
+    {
+      "topic": "生活",
+      "headline_en": "AI Enhances Bionic Vision Technology for Blind Patients",
+      "headline_zh": "人工智慧提升仿生視覺技術，造福盲人患者",
+      "sources": [
+        "https://www.sciencedaily.com/releases/2026/11/261110103000.htm",
+        "https://mindplex.ai/article/ai-helps-an-experimental-bionic-eye-adapt-to-a-persons-brain"
+      ],
+      "sentences": [
+        {
+          "id": "s01",
+          "en": "Scientists have developed an **advanced** AI system for bionic vision technology.",
+          "zh": "科學家們開發了一套用於仿生視覺技術的先進人工智慧系統。",
+          "vocab": [
+            {
+              "word": "advanced",
+              "ipa": "/ədvˈænst/",
+              "pos": "adj.",
+              "zh": "先進的"
+            }
+          ]
+        },
+        {
+          "id": "s02",
+          "en": "This new approach makes experimental **bionic** vision more **precise**.",
+          "zh": "這種新方法使實驗性的仿生視覺更加精確。",
+          "vocab": [
+            {
+              "word": "bionic",
+              "ipa": "/bˌaɪˈɔnɪk/",
+              "pos": "adj.",
+              "zh": "仿生學的"
+            },
+            {
+              "word": "precise",
+              "ipa": "/pɹɪsˈaɪs/",
+              "pos": "adj.",
+              "zh": "精確的"
+            }
+          ]
+        },
+        {
+          "id": "s03",
+          "en": "It helps predict light flashes and shapes **perceived** by blind individuals.",
+          "zh": "它有助於預測盲人所感知到的光線閃爍和形狀。",
+          "vocab": [
+            {
+              "word": "perceived",
+              "ipa": "/pɚsˈivd/",
+              "pos": "v.",
+              "zh": "感知；察覺"
+            }
+          ]
+        },
+        {
+          "id": "s04",
+          "en": "The AI learns how a patient's brain implant processes visual information.",
+          "zh": "這套人工智慧學習患者腦部植入物如何處理視覺資訊。",
+          "vocab": []
+        },
+        {
+          "id": "s05",
+          "en": "This **breakthrough** could greatly improve life quality for many.",
+          "zh": "這項突破有望大幅改善許多人的生活品質。",
+          "vocab": [
+            {
+              "word": "breakthrough",
+              "ipa": "/bɹˈeɪkθɹˌu/",
+              "pos": "n.",
+              "zh": "突破"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "財經",
+      "headline_en": "Bitcoin Plunges to Multi-Month Low Amid Market Volatility",
+      "headline_zh": "比特幣在市場波動中暴跌至數月新低",
+      "sources": [
+        "https://www.forbes.com/sites/charlesbovaird/2026/11/13/bitcoin-falls-below-70000-to-reach-lowest-since-august/",
+        "https://beincrypto.com/bitcoin-plunges-62000-market-manipulation-claims/"
+      ],
+      "sentences": [
+        {
+          "id": "s01",
+          "en": "Bitcoin's value recently **tumbled** to a four-month low.",
+          "zh": "比特幣的價值最近暴跌至四個月來的最低點。",
+          "vocab": [
+            {
+              "word": "tumbled",
+              "ipa": "/tˈʌmbəld/",
+              "pos": "v.",
+              "zh": "暴跌"
+            }
+          ]
+        },
+        {
+          "id": "s02",
+          "en": "The **cryptocurrency** fell below the significant $70,000 threshold.",
+          "zh": "這種加密貨幣跌破了重要的七萬美元關卡。",
+          "vocab": [
+            {
+              "word": "cryptocurrency",
+              "ipa": "",
+              "pos": "n.",
+              "zh": "加密貨幣"
+            }
+          ]
+        },
+        {
+          "id": "s03",
+          "en": "This decline was due to aggressive market **liquidations**.",
+          "zh": "這次下跌是由於市場上積極的清算活動。",
+          "vocab": [
+            {
+              "word": "liquidations",
+              "ipa": "/lˌɪkwɪdˈeɪʃənz/",
+              "pos": "n.",
+              "zh": "清算"
+            }
+          ]
+        },
+        {
+          "id": "s04",
+          "en": "Hot **macroeconomic** inflation figures also contributed to the selling pressure.",
+          "zh": "火熱的宏觀經濟通膨數據也加劇了拋售壓力。",
+          "vocab": [
+            {
+              "word": "macroeconomic",
+              "ipa": "/mˌækɹoʊɛkənˈɑmɪk/",
+              "pos": "adj.",
+              "zh": "宏觀經濟的"
+            }
+          ]
+        },
+        {
+          "id": "s05",
+          "en": "Investors are now closely watching for further market movements.",
+          "zh": "投資人目前正密切關注市場的進一步動向。",
+          "vocab": []
+        }
+      ]
+    }
+  ]
+}

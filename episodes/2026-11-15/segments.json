@@ -1,0 +1,1057 @@
+{
+  "date": "2026-11-15",
+  "total_duration_sec": 423.912,
+  "cache_hits": 104,
+  "cache_misses": 0,
+  "segments": [
+    {
+      "type": "intro",
+      "lang": "en",
+      "text": "Welcome to NEWS IN 10 — Nov 15.",
+      "start_sec": 0.0,
+      "end_sec": 5.135,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\81ce2c0c47214e591c38806b95970c1cba7c48bf5c58c07731ed3df6685e7e68.wav"
+    },
+    {
+      "type": "intro",
+      "lang": "zh",
+      "text": "歡迎收聽 NEWS IN 10 每日新聞英語｜11 月 15 日。",
+      "start_sec": 5.535,
+      "end_sec": 11.066,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\6cc79a5dad2777d512238cb288ffc575b27bed901d7fe96fd373e24e7ee5c47f.wav"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "第 1 則新聞：輝達執行長黃仁勳因醜聞辭職，衝擊晶片產業",
+      "start_sec": 12.066,
+      "end_sec": 18.597,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\7474855ac9947153b7a13660dc11aa596103abdb664e9a8b477f9f9af953f505.wav",
+      "story_index": 1
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Nvidia's CEO, Jensen Huang, recently **resigned** from his position.",
+      "start_sec": 19.197,
+      "end_sec": 26.072,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\dc50065e8a9e6f6c83b88599f27fe0c52ffb82e592b6276fbe16ec3278b99e25.wav",
+      "story_index": 1,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "輝達執行長黃仁勳最近已辭去其職位。",
+      "start_sec": 26.872,
+      "end_sec": 30.763,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\5d5d2ec09c004fbd13b51ed9ddcb15850d3be61d5838d794ee7e4209de740d42.wav",
+      "story_index": 1,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "resigned",
+      "start_sec": 31.363,
+      "end_sec": 32.965,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\5e2216d3a1de58dd27083ef361cb2c33e81e02bbd49e5d478116125acbd20b3c.wav",
+      "story_index": 1,
+      "sentence_id": "s01",
+      "word": "resigned"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "R, E, S, I, G, N, E, D",
+      "start_sec": 33.365,
+      "end_sec": 42.353,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\59b72cea041d3598d9aaf2bca6f207db5527e50cc0087e79645386c9db695ccc.wav",
+      "story_index": 1,
+      "sentence_id": "s01",
+      "word": "resigned"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "resigned",
+      "start_sec": 42.753,
+      "end_sec": 44.356,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\5e2216d3a1de58dd27083ef361cb2c33e81e02bbd49e5d478116125acbd20b3c.wav",
+      "story_index": 1,
+      "sentence_id": "s01",
+      "word": "resigned"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，辭職。",
+      "start_sec": 44.756,
+      "end_sec": 47.887,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\654d8fcd3ca0125b3e91197fdcc372f2051881caafefc7cef20eaf9802f7a70f.wav",
+      "story_index": 1,
+      "sentence_id": "s01",
+      "word": "resigned"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Reports suggest his departure followed an investigation into **alleged** affairs.",
+      "start_sec": 48.287,
+      "end_sec": 55.013,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\cf774beb25145dfa5caaede2c06243380528f0cebcc1598f5567fc9bafdb984b.wav",
+      "story_index": 1,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "報導指出，他的離職是因一項針對其被指控婚外情的調查。",
+      "start_sec": 55.813,
+      "end_sec": 61.464,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\6d22a64b737349d763d4b8e295def31c21882eb17eb99bcecad481d28fa6c81e.wav",
+      "story_index": 1,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "alleged",
+      "start_sec": 62.064,
+      "end_sec": 63.434,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\7afce59983458851ac3fee4c0c2726d629e76dafd70a2729c230878549bb13cb.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "alleged"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "A, L, L, E, G, E, D",
+      "start_sec": 63.834,
+      "end_sec": 65.156,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\1816fcb00e48a668227d3b30d403a2b273e36818b3de21fbb0ce2d4353feed04.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "alleged"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "alleged",
+      "start_sec": 65.556,
+      "end_sec": 66.926,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\7afce59983458851ac3fee4c0c2726d629e76dafd70a2729c230878549bb13cb.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "alleged"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，被指控的。",
+      "start_sec": 67.326,
+      "end_sec": 70.737,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\ec27a95c9f7d4b60d3a8000e4062fb59f17e380dcdb2548c9cd1a3d6043470ec.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "alleged"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "These included a suspected Chinese spy and an Nvidia executive.",
+      "start_sec": 71.137,
+      "end_sec": 76.761,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\9903875537c130cda50cb114f5a8a005ab42e3f3da9f6f5c839e0ef8f7a6a3ea.wav",
+      "story_index": 1,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "其中包括一名疑似中國間諜和一名輝達高階主管。",
+      "start_sec": 77.561,
+      "end_sec": 82.892,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\7ae23d21f8664d0c3f3894fe5c6eb54853a45f62cd67fa3f9a4052d8c5d4c2a1.wav",
+      "story_index": 1,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "This news has caused significant concern across the global semiconductor industry.",
+      "start_sec": 83.492,
+      "end_sec": 89.94,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\f98d9336f33df0892e1514dde7c9cdda5a640bbed6585f482c8a621ee13c1ba1.wav",
+      "story_index": 1,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這則新聞已在全球晶片產業中引起了廣泛關注。",
+      "start_sec": 90.74,
+      "end_sec": 95.511,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\f4d1b3dffc69e1c73b5cdeda6dc540a4a6e741f535df58c4f142e3f9bf8db3ae.wav",
+      "story_index": 1,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "His exit could challenge Nvidia's supply chain and market standing.",
+      "start_sec": 96.111,
+      "end_sec": 101.987,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\3d6d613c1a3180e9123894ae9c0eede485aaf268e66c3b811b6de800a58b99a5.wav",
+      "story_index": 1,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "他的離職可能會對輝達的供應鏈和市場地位構成挑戰。",
+      "start_sec": 102.787,
+      "end_sec": 107.878,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\b7d6d27592043f81accc2df55925595b741e0b1b4b24da50617b7fcc232681e0.wav",
+      "story_index": 1,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "第 2 則新聞：人工智慧提升仿生視覺技術，造福盲人患者",
+      "start_sec": 109.978,
+      "end_sec": 116.109,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\0aa06f11a62ecf5d2b9bf1d26f9d77260ba6b1696f0afef183117f722f8fbcb6.wav",
+      "story_index": 2
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Scientists have developed an **advanced** AI system for bionic vision technology.",
+      "start_sec": 116.709,
+      "end_sec": 123.437,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\30282338b1418b5d7864f069a601dcb2f45bb21514475930147b46ef1eef72a6.wav",
+      "story_index": 2,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "科學家們開發了一套用於仿生視覺技術的先進人工智慧系統。",
+      "start_sec": 124.237,
+      "end_sec": 129.728,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\80e98531a3958e063bfb6872929ef90842a401a4f1273277f22ab63cba16ad4d.wav",
+      "story_index": 2,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "advanced",
+      "start_sec": 130.328,
+      "end_sec": 131.448,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\381becb5e6f6002f82a79dd5e0a21dd2b3750c8b19aa5b2c14594f82d710cbee.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "advanced"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "A, D, V, A, N, C, E, D",
+      "start_sec": 131.848,
+      "end_sec": 133.406,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\47ccc86ef37ed375b67bd5f849359df7b874c8c1c30ef0a78402f5b087436eee.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "advanced"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "advanced",
+      "start_sec": 133.806,
+      "end_sec": 134.927,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\381becb5e6f6002f82a79dd5e0a21dd2b3750c8b19aa5b2c14594f82d710cbee.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "advanced"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，先進的。",
+      "start_sec": 135.327,
+      "end_sec": 138.578,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\31645032fb7e65ab024e050c29cc9d998f8ae1cb8e39169b1aad916886f9abbf.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "advanced"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "This new approach makes experimental **bionic** vision more **precise**.",
+      "start_sec": 138.978,
+      "end_sec": 144.574,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\f66fb9d45a944c2b1c0831b83438b36e4add6a6cb1d368b6535c784f1ec4b4d1.wav",
+      "story_index": 2,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這種新方法使實驗性的仿生視覺更加精確。",
+      "start_sec": 145.374,
+      "end_sec": 150.025,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\90b599d728c04ce826eeccf9a7882b958f7cf65dce890232137d94cccb6bc988.wav",
+      "story_index": 2,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "bionic",
+      "start_sec": 150.625,
+      "end_sec": 152.231,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\106d854159ec43723a50453c26068ce43e6161cf2322f63c843b388df0418aa2.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "bionic"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "B, I, O, N, I, C",
+      "start_sec": 152.631,
+      "end_sec": 154.187,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\3e430022230308771b1d8d2b59966381d3f4bb3cfd0d597b1ac5a7104773198f.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "bionic"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "bionic",
+      "start_sec": 154.587,
+      "end_sec": 156.193,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\106d854159ec43723a50453c26068ce43e6161cf2322f63c843b388df0418aa2.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "bionic"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，仿生學的。",
+      "start_sec": 156.593,
+      "end_sec": 159.484,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\e542306026eeedfe0dfffe8384afe06b38787cd699e3a167e25bfcb05cd4c09a.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "bionic"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "precise",
+      "start_sec": 159.884,
+      "end_sec": 161.242,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\6a2c9baedf3589e4c3d043e244f5eddc435d10453b121f7172dad70a511e13a0.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "precise"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "P, R, E, C, I, S, E",
+      "start_sec": 161.642,
+      "end_sec": 163.335,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\d57936938c31d4458e534e89b5446f7d9eab9a5af18ece7d915f33808f3ec78a.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "precise"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "precise",
+      "start_sec": 163.735,
+      "end_sec": 165.093,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\6a2c9baedf3589e4c3d043e244f5eddc435d10453b121f7172dad70a511e13a0.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "precise"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，精確的。",
+      "start_sec": 165.493,
+      "end_sec": 168.504,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\c78c858057b0ee275f6dd6a481d9579f061d4e758d1196412a80f2db6cf83715.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "precise"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "It helps predict light flashes and shapes **perceived** by blind individuals.",
+      "start_sec": 168.904,
+      "end_sec": 174.835,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\1a3ea687ef3c95a44f0d6a5ac5905ab92575f0ef215fd274036ccc4dd93c0e05.wav",
+      "story_index": 2,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "它有助於預測盲人所感知到的光線閃爍和形狀。",
+      "start_sec": 175.635,
+      "end_sec": 180.446,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\7790df190f7ac21f739cba2080ba4ae1425edfddc4fa9f59182f18780afe40a9.wav",
+      "story_index": 2,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "perceived",
+      "start_sec": 181.046,
+      "end_sec": 182.531,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\0022158b84ac36cd22bf46a3372f103fcc044c0f47d1a3d851aced6d8b2686df.wav",
+      "story_index": 2,
+      "sentence_id": "s03",
+      "word": "perceived"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "P, E, R, C, E, I, V, E, D",
+      "start_sec": 182.931,
+      "end_sec": 189.896,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\2f5ad72097fcabc921c0e9e2c7431af92b46b580fe52377a7e88bf0bf23612a4.wav",
+      "story_index": 2,
+      "sentence_id": "s03",
+      "word": "perceived"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "perceived",
+      "start_sec": 190.296,
+      "end_sec": 191.782,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\0022158b84ac36cd22bf46a3372f103fcc044c0f47d1a3d851aced6d8b2686df.wav",
+      "story_index": 2,
+      "sentence_id": "s03",
+      "word": "perceived"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，感知；察覺。",
+      "start_sec": 192.182,
+      "end_sec": 196.473,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\ac4ef37ba226076ed656a71a369397e574fd1c9324828bcec05af8d560a85837.wav",
+      "story_index": 2,
+      "sentence_id": "s03",
+      "word": "perceived"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "The AI learns how a patient's brain implant processes visual information.",
+      "start_sec": 196.873,
+      "end_sec": 203.356,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\4a7dd938b6fde15a0c473f27e2fee7ded68de38513299a64b6eb1bfcbe53b835.wav",
+      "story_index": 2,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這套人工智慧學習患者腦部植入物如何處理視覺資訊。",
+      "start_sec": 204.156,
+      "end_sec": 210.727,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\b6e41d5bbfa6c965b0c37c238ca9f60b90ee86782d3e5cfb06c31679764bd7d6.wav",
+      "story_index": 2,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "This **breakthrough** could greatly improve life quality for many.",
+      "start_sec": 211.327,
+      "end_sec": 216.031,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\dab155913a92eff3d02ad2c7d5acb86b9401a904a587459f6869c34abcbc225c.wav",
+      "story_index": 2,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這項突破有望大幅改善許多人的生活品質。",
+      "start_sec": 216.831,
+      "end_sec": 220.442,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\07925aecea9010f3f6c638ef50325b43f98b5414b05498ce1806bcc706bf1007.wav",
+      "story_index": 2,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "breakthrough",
+      "start_sec": 221.042,
+      "end_sec": 222.439,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\282be31769798f56a4d647f59a2dac1e38c067a0304f024403dac56533e8fb3d.wav",
+      "story_index": 2,
+      "sentence_id": "s05",
+      "word": "breakthrough"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "B, R, E, A, K, T, H, R, O, U, G, H",
+      "start_sec": 222.839,
+      "end_sec": 224.341,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\c38451bb8ce4fc45332153af3c4590b59c1f668c9c4ba763280dca91883f6d44.wav",
+      "story_index": 2,
+      "sentence_id": "s05",
+      "word": "breakthrough"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "breakthrough",
+      "start_sec": 224.741,
+      "end_sec": 226.139,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\282be31769798f56a4d647f59a2dac1e38c067a0304f024403dac56533e8fb3d.wav",
+      "story_index": 2,
+      "sentence_id": "s05",
+      "word": "breakthrough"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，突破。",
+      "start_sec": 226.539,
+      "end_sec": 229.43,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\963f4fc671e7cd92b60cb521592424460052f0690e2c9cb27860292198ebddeb.wav",
+      "story_index": 2,
+      "sentence_id": "s05",
+      "word": "breakthrough"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "第 3 則新聞：比特幣在市場波動中暴跌至數月新低",
+      "start_sec": 231.33,
+      "end_sec": 236.701,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\3ff77a7734b5c17c5dd6fd80c6f291519c6b54e3013fc8bfe8601e9dda106138.wav",
+      "story_index": 3
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Bitcoin's value recently **tumbled** to a four-month low.",
+      "start_sec": 237.301,
+      "end_sec": 241.775,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\ef04ce930b9b35c75029ded66535626edca9597792eea51e5eb9c332baf8ba01.wav",
+      "story_index": 3,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "比特幣的價值最近暴跌至四個月來的最低點。",
+      "start_sec": 242.575,
+      "end_sec": 246.906,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\1ac6968eed3d076e534a4078a009e2e4d7e291c674ad1c9923e5a67eeff99b55.wav",
+      "story_index": 3,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "tumbled",
+      "start_sec": 247.506,
+      "end_sec": 248.816,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\f504062784ed071a29a590ae3de6586067fbfa423ef01add7990ff116ee59e60.wav",
+      "story_index": 3,
+      "sentence_id": "s01",
+      "word": "tumbled"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "T, U, M, B, L, E, D",
+      "start_sec": 249.216,
+      "end_sec": 250.575,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\5513e3b591cb708b52c662a8f119801fdf2885e7ba020486b32eb30f7230f04b.wav",
+      "story_index": 3,
+      "sentence_id": "s01",
+      "word": "tumbled"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "tumbled",
+      "start_sec": 250.975,
+      "end_sec": 252.286,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\f504062784ed071a29a590ae3de6586067fbfa423ef01add7990ff116ee59e60.wav",
+      "story_index": 3,
+      "sentence_id": "s01",
+      "word": "tumbled"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，暴跌。",
+      "start_sec": 252.686,
+      "end_sec": 255.857,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\20064356fdb18b18d16a02106fadbfafb018eca4e13281a3f6ec711257a5bc75.wav",
+      "story_index": 3,
+      "sentence_id": "s01",
+      "word": "tumbled"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "The **cryptocurrency** fell below the significant $70,000 threshold.",
+      "start_sec": 256.257,
+      "end_sec": 262.369,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\34d4f33be0e06a255a075bffa473e10ad7995a9e6ccdb30540f0197a4a5503e0.wav",
+      "story_index": 3,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這種加密貨幣跌破了重要的七萬美元關卡。",
+      "start_sec": 263.169,
+      "end_sec": 267.5,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\71d86107488285c3ea5a14aea5a10afb4e4adc2d06f44b7018a8f645c26687b7.wav",
+      "story_index": 3,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "cryptocurrency",
+      "start_sec": 268.1,
+      "end_sec": 269.885,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\8a285849cb15c6b2ec80844789c6cf397ee8bc7d728f41c8cb963426f2059d40.wav",
+      "story_index": 3,
+      "sentence_id": "s02",
+      "word": "cryptocurrency"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "C, R, Y, P, T, O, C, U, R, R, E, N, C, Y",
+      "start_sec": 270.285,
+      "end_sec": 272.113,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\650611560d48934d4bca542d90acb9b3c989e7545f8c21f94f69c4fdbd80d941.wav",
+      "story_index": 3,
+      "sentence_id": "s02",
+      "word": "cryptocurrency"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "cryptocurrency",
+      "start_sec": 272.513,
+      "end_sec": 274.298,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\8a285849cb15c6b2ec80844789c6cf397ee8bc7d728f41c8cb963426f2059d40.wav",
+      "story_index": 3,
+      "sentence_id": "s02",
+      "word": "cryptocurrency"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，加密貨幣。",
+      "start_sec": 274.698,
+      "end_sec": 277.869,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\82b66cf386647c286e201192bc00b615a25a8bebb7b25d8b202b27d90f7c05e9.wav",
+      "story_index": 3,
+      "sentence_id": "s02",
+      "word": "cryptocurrency"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "This decline was due to aggressive market **liquidations**.",
+      "start_sec": 278.269,
+      "end_sec": 283.149,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\f3fa0f4f65197762cbb6b5c45523f2114d4f16036bb60501f2c21e9f760ad375.wav",
+      "story_index": 3,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這次下跌是由於市場上積極的清算活動。",
+      "start_sec": 283.949,
+      "end_sec": 288.28,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\919c98da1da2706b762975bdcd167f1109751bf82ea1b4590bf41a4132a1f03d.wav",
+      "story_index": 3,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "liquidations",
+      "start_sec": 288.88,
+      "end_sec": 291.046,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\5babc143be6f6da2cf6c055bc22c7ddac06c12796c8f9ac8133fd2ce293eadfe.wav",
+      "story_index": 3,
+      "sentence_id": "s03",
+      "word": "liquidations"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "L, I, Q, U, I, D, A, T, I, O, N, S",
+      "start_sec": 291.446,
+      "end_sec": 298.393,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\9c2ce64e472c84b4c230ecc9907d065d9feed7cd294a7196942d434177121d04.wav",
+      "story_index": 3,
+      "sentence_id": "s03",
+      "word": "liquidations"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "liquidations",
+      "start_sec": 298.793,
+      "end_sec": 300.959,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\5babc143be6f6da2cf6c055bc22c7ddac06c12796c8f9ac8133fd2ce293eadfe.wav",
+      "story_index": 3,
+      "sentence_id": "s03",
+      "word": "liquidations"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，清算。",
+      "start_sec": 301.359,
+      "end_sec": 304.72,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\109b7498ce458c003ee90fdfc3265ce52d90a75857c77c91e6552b59b07e720e.wav",
+      "story_index": 3,
+      "sentence_id": "s03",
+      "word": "liquidations"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Hot **macroeconomic** inflation figures also contributed to the selling pressure.",
+      "start_sec": 305.12,
+      "end_sec": 311.513,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\b3ae2c2b15f30b2ed907d77892d0720b1fa7d057e993b803507fc668f7a35d80.wav",
+      "story_index": 3,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "火熱的宏觀經濟通膨數據也加劇了拋售壓力。",
+      "start_sec": 312.313,
+      "end_sec": 316.474,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\30ad9eab5c0152a2c9050a64bb0f3c371df3ad01e9b439afe795ac53f97428ed.wav",
+      "story_index": 3,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "macroeconomic",
+      "start_sec": 317.074,
+      "end_sec": 319.311,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\88790417dbe111b2c8804ab3c14616060510cd7dc9001d30f21d0c31dc1a433e.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "macroeconomic"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "M, A, C, R, O, E, C, O, N, O, M, I, C",
+      "start_sec": 319.711,
+      "end_sec": 331.975,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\191b4459a867dc5722c942722d4d36fa548ac4f63091b58e06454755c94b59ef.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "macroeconomic"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "macroeconomic",
+      "start_sec": 332.375,
+      "end_sec": 334.612,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\88790417dbe111b2c8804ab3c14616060510cd7dc9001d30f21d0c31dc1a433e.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "macroeconomic"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，宏觀經濟的。",
+      "start_sec": 335.012,
+      "end_sec": 338.573,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\afa1f74305634fd7c62624416dc55ef0c9310c2f77abf08b31404600ab4cbd54.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "macroeconomic"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Investors are now closely watching for further market movements.",
+      "start_sec": 338.973,
+      "end_sec": 344.614,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\2e2db3623235c90eac0811374e1dd138ea9667b3ee508df5c90b0ade76fb06cc.wav",
+      "story_index": 3,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "投資人目前正密切關注市場的進一步動向。",
+      "start_sec": 345.414,
+      "end_sec": 349.335,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\81d7f51fc3ab054715701f3a6cd527ca9625c8a4be8997f6d2e16dda36db26cf.wav",
+      "story_index": 3,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "outro",
+      "lang": "zh",
+      "text": "最後讓我們快速複習今天學到的單字。",
+      "start_sec": 350.935,
+      "end_sec": 354.135,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\96a8c12ff414ac63850914dd9f7d466a5ac048c7088759e1aad393a3ce3e5747.wav"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "resigned",
+      "start_sec": 354.635,
+      "end_sec": 356.237,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\5e2216d3a1de58dd27083ef361cb2c33e81e02bbd49e5d478116125acbd20b3c.wav",
+      "word": "resigned"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，辭職。",
+      "start_sec": 356.637,
+      "end_sec": 359.768,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\654d8fcd3ca0125b3e91197fdcc372f2051881caafefc7cef20eaf9802f7a70f.wav",
+      "word": "resigned"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "alleged",
+      "start_sec": 360.168,
+      "end_sec": 361.538,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\7afce59983458851ac3fee4c0c2726d629e76dafd70a2729c230878549bb13cb.wav",
+      "word": "alleged"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，被指控的。",
+      "start_sec": 361.938,
+      "end_sec": 365.349,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\ec27a95c9f7d4b60d3a8000e4062fb59f17e380dcdb2548c9cd1a3d6043470ec.wav",
+      "word": "alleged"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "advanced",
+      "start_sec": 365.749,
+      "end_sec": 366.87,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\381becb5e6f6002f82a79dd5e0a21dd2b3750c8b19aa5b2c14594f82d710cbee.wav",
+      "word": "advanced"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，先進的。",
+      "start_sec": 367.27,
+      "end_sec": 370.521,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\31645032fb7e65ab024e050c29cc9d998f8ae1cb8e39169b1aad916886f9abbf.wav",
+      "word": "advanced"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "bionic",
+      "start_sec": 370.921,
+      "end_sec": 372.526,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\106d854159ec43723a50453c26068ce43e6161cf2322f63c843b388df0418aa2.wav",
+      "word": "bionic"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，仿生學的。",
+      "start_sec": 372.926,
+      "end_sec": 375.817,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\e542306026eeedfe0dfffe8384afe06b38787cd699e3a167e25bfcb05cd4c09a.wav",
+      "word": "bionic"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "precise",
+      "start_sec": 376.217,
+      "end_sec": 377.575,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\6a2c9baedf3589e4c3d043e244f5eddc435d10453b121f7172dad70a511e13a0.wav",
+      "word": "precise"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，精確的。",
+      "start_sec": 377.975,
+      "end_sec": 380.986,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\c78c858057b0ee275f6dd6a481d9579f061d4e758d1196412a80f2db6cf83715.wav",
+      "word": "precise"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "perceived",
+      "start_sec": 381.386,
+      "end_sec": 382.871,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\0022158b84ac36cd22bf46a3372f103fcc044c0f47d1a3d851aced6d8b2686df.wav",
+      "word": "perceived"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，感知；察覺。",
+      "start_sec": 383.271,
+      "end_sec": 387.562,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\ac4ef37ba226076ed656a71a369397e574fd1c9324828bcec05af8d560a85837.wav",
+      "word": "perceived"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "breakthrough",
+      "start_sec": 387.962,
+      "end_sec": 389.36,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\282be31769798f56a4d647f59a2dac1e38c067a0304f024403dac56533e8fb3d.wav",
+      "word": "breakthrough"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，突破。",
+      "start_sec": 389.76,
+      "end_sec": 392.651,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\963f4fc671e7cd92b60cb521592424460052f0690e2c9cb27860292198ebddeb.wav",
+      "word": "breakthrough"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "tumbled",
+      "start_sec": 393.051,
+      "end_sec": 394.361,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\f504062784ed071a29a590ae3de6586067fbfa423ef01add7990ff116ee59e60.wav",
+      "word": "tumbled"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，暴跌。",
+      "start_sec": 394.761,
+      "end_sec": 397.932,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\20064356fdb18b18d16a02106fadbfafb018eca4e13281a3f6ec711257a5bc75.wav",
+      "word": "tumbled"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "cryptocurrency",
+      "start_sec": 398.332,
+      "end_sec": 400.117,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\8a285849cb15c6b2ec80844789c6cf397ee8bc7d728f41c8cb963426f2059d40.wav",
+      "word": "cryptocurrency"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，加密貨幣。",
+      "start_sec": 400.517,
+      "end_sec": 403.688,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\82b66cf386647c286e201192bc00b615a25a8bebb7b25d8b202b27d90f7c05e9.wav",
+      "word": "cryptocurrency"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "liquidations",
+      "start_sec": 404.088,
+      "end_sec": 406.254,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\5babc143be6f6da2cf6c055bc22c7ddac06c12796c8f9ac8133fd2ce293eadfe.wav",
+      "word": "liquidations"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，清算。",
+      "start_sec": 406.654,
+      "end_sec": 410.015,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\109b7498ce458c003ee90fdfc3265ce52d90a75857c77c91e6552b59b07e720e.wav",
+      "word": "liquidations"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "macroeconomic",
+      "start_sec": 410.415,
+      "end_sec": 412.652,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\88790417dbe111b2c8804ab3c14616060510cd7dc9001d30f21d0c31dc1a433e.wav",
+      "word": "macroeconomic"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，宏觀經濟的。",
+      "start_sec": 413.052,
+      "end_sec": 416.613,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\afa1f74305634fd7c62624416dc55ef0c9310c2f77abf08b31404600ab4cbd54.wav",
+      "word": "macroeconomic"
+    },
+    {
+      "type": "outro",
+      "lang": "en",
+      "text": "Thanks for listening to NEWS IN 10. See you tomorrow!",
+      "start_sec": 417.013,
+      "end_sec": 420.992,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\8ad249f376a23a4cbbf58f606f65845bb1776f86978a4803799b18a1390cf4d3.wav"
+    },
+    {
+      "type": "outro",
+      "lang": "zh",
+      "text": "感謝收聽 NEWS IN 10，我們明天見。",
+      "start_sec": 421.392,
+      "end_sec": 423.912,
+      "audio_file": "D:\\MyProject\\每日英語新聞教學節目\\.tts_cache\\dcfa8d1f94019496e8a2ebe1525c7d9693ecc76c8b44fafc49f20caf499d410f.wav"
+    }
+  ]
+}
