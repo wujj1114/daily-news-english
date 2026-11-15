@@ -276,14 +276,14 @@ def _concat_wavs_to_mp3(
 
 
 def _write_id3_tags(mp3_path: Path, episode: dict[str, Any], show_cfg: dict[str, Any]) -> None:
-    """寫入標準 ID3 標籤至 MP3。"""
+    """寫入相容性最佳的 ID3v2.3 標籤至 MP3。"""
     show = show_cfg["show"]
     tags = ID3()
-    tags.add(TIT2(encoding=3, text=episode["title_zh"]))
-    tags.add(TPE1(encoding=3, text=show.get("author", show["name_en"])))
-    tags.add(TALB(encoding=3, text=show["name_en"]))
-    tags.add(TDRC(encoding=3, text=episode["date"]))
-    tags.save(str(mp3_path))
+    tags.add(TIT2(encoding=1, text=episode["title_zh"]))
+    tags.add(TPE1(encoding=1, text=show.get("author", show["name_en"])))
+    tags.add(TALB(encoding=1, text=show["name_en"]))
+    tags.add(TDRC(encoding=1, text=episode["date"]))
+    tags.save(str(mp3_path), v2_version=3)
 
 
 def build_tts_plan(episode: dict[str, Any], show_cfg: dict[str, Any]) -> list[dict[str, Any]]:
