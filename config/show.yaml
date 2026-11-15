@@ -52,7 +52,8 @@ tts:
     target_lufs: -16.0
 
 podcast:
-  audio_host: "github_releases"
+  audio_host: "github_pages"
+  max_hosted_episodes: 60
   site_url: "https://wujj1114.github.io/daily-news-english"
   feed_url: "https://wujj1114.github.io/daily-news-english/feed.xml"
   cover_url: "https://wujj1114.github.io/daily-news-english/cover.jpg"

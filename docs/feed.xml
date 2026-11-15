@@ -21,6 +21,7 @@
     </itunes:owner>
     <item>
       <title>NEWS IN 10 每日新聞英語｜11 月 15 日</title>
+      <link>https://wujj1114.github.io/daily-news-english/#ep-2026-11-15</link>
       <description>NEWS IN 10 每日新聞英語｜11 月 15 日
 【新聞 1】輝達執行長黃仁勳因醜聞辭職，衝擊晶片產業
 Nvidia CEO Jensen Huang Resigns Amid Scandal, Impacting Chip Industry
@@ -80,9 +81,10 @@ Bitcoin Plunges to Multi-Month Low Amid Market Volatility
   https://beincrypto.com/bitcoin-plunges-62000-market-manipulation-claims/</description>
       <guid isPermaLink="false">news-in-10-2026-11-15</guid>
       <pubDate>Sun, 15 Nov 2026 06:00:00 +0800</pubDate>
-      <enclosure url="https://github.com/wujj1114/daily-news-english/releases/download/ep-2026-11-15/episode.mp3" length="5094341" type="audio/mpeg"/>
+      <enclosure url="https://wujj1114.github.io/daily-news-english/audio/2026-11-15.mp3" length="5094341" type="audio/mpeg"/>
       <itunes:duration>00:07:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://wujj1114.github.io/daily-news-english/cover.jpg"/>
     </item>
   </channel>
 </rss>
