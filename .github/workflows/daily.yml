@@ -23,6 +23,7 @@ permissions:
 
 jobs:
   produce-and-publish:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     timeout-minutes: 30
 
@@ -89,7 +90,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/feed.xml docs/index.html
+          git add docs/feed.xml docs/index.html episodes/
           if [ -d docs/audio ]; then git add docs/audio/; fi
           if [ -f docs/cover.jpg ]; then git add docs/cover.jpg; fi
           if ! git diff --cached --quiet; then
