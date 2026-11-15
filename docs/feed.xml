@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>NEWS IN 10 每日新聞英語</title>
+    <link>https://wujj1114.github.io/daily-news-english</link>
+    <language>zh-tw</language>
+    <description>每日 10 分鐘，精選臺灣與全球財經、AI、生活旅遊時事，用中英雙語與單字拆解輕鬆學英文。</description>
+    <atom:link href="https://wujj1114.github.io/daily-news-english/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>NEWS IN 10</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://wujj1114.github.io/daily-news-english/cover.jpg"/>
+    <itunes:category text="Education">
+      <itunes:category text="Language Learning"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>NEWS IN 10</itunes:name>
+      <itunes:email>wujj1114@gmail.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>NEWS IN 10 每日新聞英語｜11 月 15 日</title>
+      <description>NEWS IN 10 每日新聞英語｜11 月 15 日
+【新聞 1】輝達執行長黃仁勳因醜聞辭職，衝擊晶片產業
+Nvidia CEO Jensen Huang Resigns Amid Scandal, Impacting Chip Industry
+• Nvidia's CEO, Jensen Huang, recently **resigned** from his position.
+  輝達執行長黃仁勳最近已辭去其職位。
+  - resigned /ɹɪzˈaɪnd/ (v.) 辭職
+• Reports suggest his departure followed an investigation into **alleged** affairs.
+  報導指出，他的離職是因一項針對其被指控婚外情的調查。
+  - alleged /əlˈɛdʒd/ (adj.) 被指控的
+• These included a suspected Chinese spy and an Nvidia executive.
+  其中包括一名疑似中國間諜和一名輝達高階主管。
+• This news has caused significant concern across the global semiconductor industry.
+  這則新聞已在全球晶片產業中引起了廣泛關注。
+• His exit could challenge Nvidia's supply chain and market standing.
+  他的離職可能會對輝達的供應鏈和市場地位構成挑戰。
+來源：
+  https://www.forbes.com/sites/charlesbovaird/2026/11/13/jensen-huang-ousted-timeline-of-the-nvidia-scandal/
+  https://www.theguardian.com/technology/2026/nov/12/jensen-huang-resigns-nvidia-ceo-alleged-affairs
+【新聞 2】人工智慧提升仿生視覺技術，造福盲人患者
+AI Enhances Bionic Vision Technology for Blind Patients
+• Scientists have developed an **advanced** AI system for bionic vision technology.
+  科學家們開發了一套用於仿生視覺技術的先進人工智慧系統。
+  - advanced /ədvˈænst/ (adj.) 先進的
+• This new approach makes experimental **bionic** vision more **precise**.
+  這種新方法使實驗性的仿生視覺更加精確。
+  - bionic /bˌaɪˈɔnɪk/ (adj.) 仿生學的
+  - precise /pɹɪsˈaɪs/ (adj.) 精確的
+• It helps predict light flashes and shapes **perceived** by blind individuals.
+  它有助於預測盲人所感知到的光線閃爍和形狀。
+  - perceived /pɚsˈivd/ (v.) 感知；察覺
+• The AI learns how a patient's brain implant processes visual information.
+  這套人工智慧學習患者腦部植入物如何處理視覺資訊。
+• This **breakthrough** could greatly improve life quality for many.
+  這項突破有望大幅改善許多人的生活品質。
+  - breakthrough /bɹˈeɪkθɹˌu/ (n.) 突破
+來源：
+  https://www.sciencedaily.com/releases/2026/11/261110103000.htm
+  https://mindplex.ai/article/ai-helps-an-experimental-bionic-eye-adapt-to-a-persons-brain
+【新聞 3】比特幣在市場波動中暴跌至數月新低
+Bitcoin Plunges to Multi-Month Low Amid Market Volatility
+• Bitcoin's value recently **tumbled** to a four-month low.
+  比特幣的價值最近暴跌至四個月來的最低點。
+  - tumbled /tˈʌmbəld/ (v.) 暴跌
+• The **cryptocurrency** fell below the significant $70,000 threshold.
+  這種加密貨幣跌破了重要的七萬美元關卡。
+  - cryptocurrency (n.) 加密貨幣
+• This decline was due to aggressive market **liquidations**.
+  這次下跌是由於市場上積極的清算活動。
+  - liquidations /lˌɪkwɪdˈeɪʃənz/ (n.) 清算
+• Hot **macroeconomic** inflation figures also contributed to the selling pressure.
+  火熱的宏觀經濟通膨數據也加劇了拋售壓力。
+  - macroeconomic /mˌækɹoʊɛkənˈɑmɪk/ (adj.) 宏觀經濟的
+• Investors are now closely watching for further market movements.
+  投資人目前正密切關注市場的進一步動向。
+來源：
+  https://www.forbes.com/sites/charlesbovaird/2026/11/13/bitcoin-falls-below-70000-to-reach-lowest-since-august/
+  https://beincrypto.com/bitcoin-plunges-62000-market-manipulation-claims/</description>
+      <guid isPermaLink="false">news-in-10-2026-11-15</guid>
+      <pubDate>Sun, 15 Nov 2026 06:00:00 +0800</pubDate>
+      <enclosure url="https://github.com/wujj1114/daily-news-english/releases/download/ep-2026-11-15/episode.mp3" length="5094341" type="audio/mpeg"/>
+      <itunes:duration>00:07:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
