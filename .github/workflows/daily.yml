@@ -64,14 +64,24 @@ jobs:
               DATE_VAL=$(echo "$CHANGED" | cut -d'/' -f2)
               echo "date=$DATE_VAL" >> "$GITHUB_OUTPUT"
               echo "from_stage=tts" >> "$GITHUB_OUTPUT"
+              echo "skip=false" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+          fi
+          if [[ "${{ github.event_name }}" == "schedule" ]]; then
+            TODAY=$(TZ="Asia/Taipei" date +%F)
+            if [[ -f "episodes/$TODAY/episode.json" ]]; then
+              echo "今日 ($TODAY) 已有外部供稿 episode.json，略過排程重跑。"
+              echo "skip=true" >> "$GITHUB_OUTPUT"
               exit 0
             fi
           fi
           echo "date=${{ inputs.date || 'today' }}" >> "$GITHUB_OUTPUT"
           echo "from_stage=${{ inputs.from_stage || 'script' }}" >> "$GITHUB_OUTPUT"
+          echo "skip=false" >> "$GITHUB_OUTPUT"
 
       - name: Run script and TTS stages
-        if: steps.target.outputs.from_stage != 'publish'
+        if: steps.target.outputs.skip != 'true' && steps.target.outputs.from_stage != 'publish'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_SCRIPT_MODEL: ${{ vars.GEMINI_SCRIPT_MODEL || 'gemini-2.5-flash' }}
@@ -80,6 +90,7 @@ jobs:
           uv run python -m pipeline.run --date "${{ steps.target.outputs.date }}" --from-stage "${{ steps.target.outputs.from_stage }}" --until tts
 
       - name: Publish Podcast (GitHub Release + RSS)
+        if: steps.target.outputs.skip != 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
@@ -87,6 +98,7 @@ jobs:
           uv run python -m pipeline.run --date "${{ steps.target.outputs.date }}" --from-stage publish --until publish
 
       - name: Commit updated RSS feed
+        if: steps.target.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

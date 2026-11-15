@@ -21,6 +21,7 @@ from google.genai import types
 from mutagen.id3 import ID3, TALB, TDRC, TIT2, TPE1
 
 from pipeline.config import AppSettings, PROJECT_ROOT, check_models_available
+from pipeline.ipa import lookup_ipa
 from pipeline.schema import validate_episode
 
 logger = logging.getLogger(__name__)
@@ -377,6 +378,22 @@ def synthesize_episode(
         raise FileNotFoundError(f"找不到腳本檔：{ep_path}")
 
     episode = json.loads(ep_path.read_text(encoding="utf-8"))
+    # 若為外部供稿（例如 Gemini Spark），順手補齊空白的 CMUdict IPA 音標並清除 ** 標記
+    ipa_updated = False
+    for story in episode.get("stories", []):
+        for sent in story.get("sentences", []):
+            if isinstance(sent.get("en"), str) and "**" in sent["en"]:
+                sent["en"] = sent["en"].replace("**", "").strip()
+                ipa_updated = True
+            for v in sent.get("vocab", []):
+                if not v.get("ipa"):
+                    filled = lookup_ipa(v.get("word", ""))
+                    if filled:
+                        v["ipa"] = filled
+                        ipa_updated = True
+    if ipa_updated:
+        ep_path.write_text(json.dumps(episode, ensure_ascii=False, indent=2), encoding="utf-8")
+
     errors = validate_episode(episode, content_cfg=show_cfg.get("content"))
     if errors:
         raise ValueError("episode.json 驗證未通過，無法進入語音階段：" + "; ".join(errors))
