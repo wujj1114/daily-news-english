@@ -1,0 +1,1119 @@
+{
+  "date": "2026-11-16",
+  "total_duration_sec": 426.176,
+  "cache_hits": 48,
+  "cache_misses": 62,
+  "segments": [
+    {
+      "type": "intro",
+      "lang": "en",
+      "text": "Welcome to NEWS IN 10 — Nov 16.",
+      "start_sec": 0.0,
+      "end_sec": 4.421,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c9fbc2da65d8ea38b9df76e60e4f1212f0d6c060b18c1678dba754e07c50d2cc.wav"
+    },
+    {
+      "type": "intro",
+      "lang": "zh",
+      "text": "歡迎收聽 NEWS IN 10 每日新聞英語｜11 月 16 日。",
+      "start_sec": 4.821,
+      "end_sec": 9.061,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/46243ef3723f536b7fafe46a46eabd06bb0740e00a485c7fb7cce92707081501.wav"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "第 1 則新聞：臺灣經濟前景看好，成長預測強勁",
+      "start_sec": 10.061,
+      "end_sec": 14.232,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c7f838600e785183b0b3a5ab4fd64d6b3a17b766560f9f434972d9c8c9ad642c.wav",
+      "story_index": 1
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Taiwan's economic forecast for 2026 has been raised to 12.16%.",
+      "start_sec": 14.832,
+      "end_sec": 23.399,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/6a1fe191d1fe651227a8e35c28c1f62c350698c70bfaed46c50873f340444f79.wav",
+      "story_index": 1,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "臺灣 2026 年的經濟預測已上調至 12.16%。",
+      "start_sec": 24.199,
+      "end_sec": 30.21,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0d76c4484c26b9a3a6b56721303658be9181ffc620ae18843100b22eeaf9fdf7.wav",
+      "story_index": 1,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "forecast",
+      "start_sec": 30.81,
+      "end_sec": 32.161,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/144e58d929aa154f78a570ff24ebb9fe8d2f43961d41d8b7b0de5cde108dfa28.wav",
+      "story_index": 1,
+      "sentence_id": "s01",
+      "word": "forecast"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "F, O, R, E, C, A, S, T",
+      "start_sec": 32.561,
+      "end_sec": 34.118,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/628945215ef1f88b9ee14129ceca24529e5e4eab80f0c7835caaf71ba9d09484.wav",
+      "story_index": 1,
+      "sentence_id": "s01",
+      "word": "forecast"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "forecast",
+      "start_sec": 34.518,
+      "end_sec": 35.869,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/144e58d929aa154f78a570ff24ebb9fe8d2f43961d41d8b7b0de5cde108dfa28.wav",
+      "story_index": 1,
+      "sentence_id": "s01",
+      "word": "forecast"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，預測。",
+      "start_sec": 36.269,
+      "end_sec": 39.28,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/16e9b1fb2c913e8514b031ed14bb09f972474e1101bb09635e42a7c0b70ddf10.wav",
+      "story_index": 1,
+      "sentence_id": "s01",
+      "word": "forecast"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "This is the highest growth rate seen in nearly four decades.",
+      "start_sec": 39.68,
+      "end_sec": 44.711,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/2b301bec753d728bf5de0ed538a4014bca33d03f00e16f5ac864a26818c4efce.wav",
+      "story_index": 1,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這是近四十年來最高的成長率。",
+      "start_sec": 45.511,
+      "end_sec": 48.762,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/08c7652f7e7473ab0d752809446cc8934d02440f56845c01eae33778d7c07515.wav",
+      "story_index": 1,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "The Chung-Hua Institution for Economic Research announced this update.",
+      "start_sec": 49.362,
+      "end_sec": 56.085,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/879b250def5623a5c425a608e3689b7c9931cc5d741a568cabda2c47ac9b96a5.wav",
+      "story_index": 1,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "中華經濟研究院公布了這項更新。",
+      "start_sec": 56.885,
+      "end_sec": 59.816,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/6958892d880557785a5e498747073e1f547ff4182cecaa5070ba8778ed2bdab4.wav",
+      "story_index": 1,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "institution",
+      "start_sec": 60.416,
+      "end_sec": 62.114,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/6bcaffde26157a35bf806469637776892fd4eccfdbebd7342607291a778de9f7.wav",
+      "story_index": 1,
+      "sentence_id": "s03",
+      "word": "institution"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "I, N, S, T, I, T, U, T, I, O, N",
+      "start_sec": 62.514,
+      "end_sec": 64.578,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/68a1cab661e4ce394113756e89a63c814fcd60e4a0d36da9131a83c041041758.wav",
+      "story_index": 1,
+      "sentence_id": "s03",
+      "word": "institution"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "institution",
+      "start_sec": 64.978,
+      "end_sec": 66.676,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/6bcaffde26157a35bf806469637776892fd4eccfdbebd7342607291a778de9f7.wav",
+      "story_index": 1,
+      "sentence_id": "s03",
+      "word": "institution"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，機構。",
+      "start_sec": 67.076,
+      "end_sec": 70.076,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/d1a0a23aedc72b8254124b3f61a04fea6416c6d781991522fd7832b65cb68504.wav",
+      "story_index": 1,
+      "sentence_id": "s03",
+      "word": "institution"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Strong global demand for artificial intelligence (AI) drives this expansion.",
+      "start_sec": 70.476,
+      "end_sec": 76.448,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f6f3e0a079e10e2b24b89a587508fd6e0a002a7f224c45a1ff6d3a92c93ed972.wav",
+      "story_index": 1,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "全球對人工智慧的強勁需求推動了這項擴張。",
+      "start_sec": 77.248,
+      "end_sec": 81.419,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/bb2eeb2f21dcf581837aec2a2e71dee6b2edc8cba9124c3296f8ed4faac12a5c.wav",
+      "story_index": 1,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "However, inflationary pressures from energy prices remain a concern.",
+      "start_sec": 82.019,
+      "end_sec": 87.662,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/e72cb73e319f94954370dce8c4e51f18988855a1e4272c39952d0897563728cc.wav",
+      "story_index": 1,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "然而，能源價格帶來的通膨壓力仍令人擔憂。",
+      "start_sec": 88.462,
+      "end_sec": 92.913,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c7c90652e9bfa46c78c239e61a123cbf1da4e00effaef55534cc5a91e6a30f5d.wav",
+      "story_index": 1,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "inflationary",
+      "start_sec": 93.513,
+      "end_sec": 95.393,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c044d8334984cefe8d2c0e76e0b6122e397689d423829787dc1060d8fde00a72.wav",
+      "story_index": 1,
+      "sentence_id": "s05",
+      "word": "inflationary"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "I, N, F, L, A, T, I, O, N, A, R, Y",
+      "start_sec": 95.793,
+      "end_sec": 98.66,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/8187fd9c80d52c3c33defb11afce513dbf8232b0ef1b7477f281fb2b7629dcf9.wav",
+      "story_index": 1,
+      "sentence_id": "s05",
+      "word": "inflationary"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "inflationary",
+      "start_sec": 99.06,
+      "end_sec": 100.94,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c044d8334984cefe8d2c0e76e0b6122e397689d423829787dc1060d8fde00a72.wav",
+      "story_index": 1,
+      "sentence_id": "s05",
+      "word": "inflationary"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，通貨膨脹的。",
+      "start_sec": 101.34,
+      "end_sec": 105.031,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5d797ddc87819e797e09b407762073e72e427d89f627068a48ebd4481ddaa48b.wav",
+      "story_index": 1,
+      "sentence_id": "s05",
+      "word": "inflationary"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "第 2 則新聞：中國在亞太經合會前夕提議與美國進行人工智慧合作",
+      "start_sec": 106.931,
+      "end_sec": 114.262,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/4f7e7295133e3aeaf58564c5074423d9350ba03632834780e442cdb2ee448ec1.wav",
+      "story_index": 2
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "China has made a diplomatic move for AI cooperation with the US.",
+      "start_sec": 114.862,
+      "end_sec": 120.322,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/1293e823fdf2f8f399bfacbe77d649b3550fe8752146d6e029cdfd9545659cb1.wav",
+      "story_index": 2,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "中國已提出與美國在人工智慧領域進行外交合作的建議。",
+      "start_sec": 121.122,
+      "end_sec": 126.453,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/97768b30b7214c902ac234188937a22589dc0e4ce7231ede2a8964153e433cfb.wav",
+      "story_index": 2,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "diplomatic",
+      "start_sec": 127.053,
+      "end_sec": 128.6,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/45515c33e90ed1b5cc5c3714d0df782cdebb7e1b57338a0abea8d81c875b9f11.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "diplomatic"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "D, I, P, L, O, M, A, T, I, C",
+      "start_sec": 129.0,
+      "end_sec": 136.473,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9d62468742b9265bd2b36b3fc5616a418d0d651c2dfd0e785f413022bef01cb4.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "diplomatic"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "diplomatic",
+      "start_sec": 136.873,
+      "end_sec": 138.42,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/45515c33e90ed1b5cc5c3714d0df782cdebb7e1b57338a0abea8d81c875b9f11.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "diplomatic"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，外交的。",
+      "start_sec": 138.82,
+      "end_sec": 141.911,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5d730d5403da35fa57ad2337d1be9c4c0ea190bb83b1f634d81c046d20196aa0.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "diplomatic"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "cooperation",
+      "start_sec": 142.311,
+      "end_sec": 144.142,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/20537d814178b3bc6938d54eab484a4f251ca4f2ceae40e7bea886da1175bbc5.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "cooperation"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "C, O, O, P, E, R, A, T, I, O, N",
+      "start_sec": 144.542,
+      "end_sec": 160.764,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5968d00d4fb52fd08d8f7c6fb2a7ec834c13bf1372dcecfa6b9c10a2dafade6e.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "cooperation"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "cooperation",
+      "start_sec": 161.164,
+      "end_sec": 162.995,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/20537d814178b3bc6938d54eab484a4f251ca4f2ceae40e7bea886da1175bbc5.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "cooperation"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，合作。",
+      "start_sec": 163.395,
+      "end_sec": 166.446,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/799ba336c7db4895221538134110b1956baf2728a47b7ac02a23854d606bcc5f.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "cooperation"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "This comes before the APEC Summit in Shenzhen.",
+      "start_sec": 166.846,
+      "end_sec": 171.691,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5cb9b5905d060dc7441b6a55b835bc386dfb1d94d902ccfbb9097baa8777725f.wav",
+      "story_index": 2,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這項提議是在深圳亞太經合會前夕提出的。",
+      "start_sec": 172.491,
+      "end_sec": 176.622,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/05801f4ad3d8069784390af3894f5539e5cc53001e44a6b1b993b4ca06ce790b.wav",
+      "story_index": 2,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "It could ease tech tensions between the two nations.",
+      "start_sec": 177.222,
+      "end_sec": 181.401,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/355496983b0a8da7116eaf8477c6580090972b2ecfce42c57f7559d6e5fd025e.wav",
+      "story_index": 2,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這可能緩解兩國之間的科技緊張關係。",
+      "start_sec": 182.201,
+      "end_sec": 185.892,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/d7ff62e188d20854746faacbb07615c7a5a4ad4a0bb70b807f82721b52d9e6ce.wav",
+      "story_index": 2,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "tensions",
+      "start_sec": 186.492,
+      "end_sec": 187.895,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/70c77a0bbd5c457c743ed349edabc6184d4c05d9dcf99847542a53a437dea0ad.wav",
+      "story_index": 2,
+      "sentence_id": "s03",
+      "word": "tensions"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "T, E, N, S, I, O, N, S",
+      "start_sec": 188.295,
+      "end_sec": 189.85,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0ee6032c8036e6add6ef5f3249ef80e4b4d7279677533498208ea5ad889235fb.wav",
+      "story_index": 2,
+      "sentence_id": "s03",
+      "word": "tensions"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "tensions",
+      "start_sec": 190.25,
+      "end_sec": 191.654,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/70c77a0bbd5c457c743ed349edabc6184d4c05d9dcf99847542a53a437dea0ad.wav",
+      "story_index": 2,
+      "sentence_id": "s03",
+      "word": "tensions"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，緊張關係。",
+      "start_sec": 192.054,
+      "end_sec": 195.144,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b47b8773753541b5b9af4d11997caf80f4815945f1164cba4b9fef28b2d36dc7.wav",
+      "story_index": 2,
+      "sentence_id": "s03",
+      "word": "tensions"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "The plan includes research and safety standards.",
+      "start_sec": 195.544,
+      "end_sec": 199.586,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b3ac4b51c21fcd2d4b1512d72eebd8841edc6bb069db5f82b4af8ec2b7e27604.wav",
+      "story_index": 2,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "該計畫包含研究與安全標準。",
+      "start_sec": 200.386,
+      "end_sec": 203.677,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/dc468b388176709158ae67b345c54d92af2f59f24b8d96cf9328973a28701d80.wav",
+      "story_index": 2,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Global leaders will discuss AI governance at the upcoming forum.",
+      "start_sec": 204.277,
+      "end_sec": 209.643,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/8608984e6017400de208f535b3059a49c9e4a44f5a9f5cf39fb3f955b064fa06.wav",
+      "story_index": 2,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "全球領袖將在即將舉行的論壇上討論人工智慧治理。",
+      "start_sec": 210.443,
+      "end_sec": 216.013,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/846a2ccede82b935e4b724a3d9ccfec41e72fc5f687966e764179f5a0fdea477.wav",
+      "story_index": 2,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "governance",
+      "start_sec": 216.613,
+      "end_sec": 218.35,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c222bd31fbaf34eb0fb5c8c3b3872d14ce9659736dd595c880e405af1c55d1b4.wav",
+      "story_index": 2,
+      "sentence_id": "s05",
+      "word": "governance"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "G, O, V, E, R, N, A, N, C, E",
+      "start_sec": 218.75,
+      "end_sec": 228.446,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5ce6055d0ba5142fe6c7f4090f98a1402b76ceb3df84a9b604a0205c985d569a.wav",
+      "story_index": 2,
+      "sentence_id": "s05",
+      "word": "governance"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "governance",
+      "start_sec": 228.846,
+      "end_sec": 230.583,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c222bd31fbaf34eb0fb5c8c3b3872d14ce9659736dd595c880e405af1c55d1b4.wav",
+      "story_index": 2,
+      "sentence_id": "s05",
+      "word": "governance"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，治理。",
+      "start_sec": 230.983,
+      "end_sec": 234.033,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/d96e9d5e0f66fd0e27e52b0f59f63df70a55547c31c4e7a05cd30b03b14a7747.wav",
+      "story_index": 2,
+      "sentence_id": "s05",
+      "word": "governance"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "第 3 則新聞：美國空中交通在全國停飛後恢復正常",
+      "start_sec": 235.933,
+      "end_sec": 242.184,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b63c24084b89023d4d85bed4e20d9b42c029d04b807458daaf1ff40d35f82cf2.wav",
+      "story_index": 3
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "US air travel is recovering after widespread disruptions.",
+      "start_sec": 242.784,
+      "end_sec": 248.047,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/8d12164626171c7871a6deada0f56054f479e24805d260eb0f07d27b21dc263b.wav",
+      "story_index": 3,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "美國空中交通在廣泛中斷後正在恢復。",
+      "start_sec": 248.847,
+      "end_sec": 252.658,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/d66f5b957c7a609147f75b27fb5464a2e82a310cb34cad5d6fe6f38fc1734656.wav",
+      "story_index": 3,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "disruptions",
+      "start_sec": 253.258,
+      "end_sec": 254.473,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/41873d3983f803fdd79bbbcb20e9091bd382995deda10d76881bbed4e056c5cc.wav",
+      "story_index": 3,
+      "sentence_id": "s01",
+      "word": "disruptions"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "D, I, S, R, U, P, T, I, O, N, S",
+      "start_sec": 254.873,
+      "end_sec": 256.807,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a8a32ce1c08ca31a54a69de9c8677edb06bb1604a0653de92840244533edaa35.wav",
+      "story_index": 3,
+      "sentence_id": "s01",
+      "word": "disruptions"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "disruptions",
+      "start_sec": 257.207,
+      "end_sec": 258.422,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/41873d3983f803fdd79bbbcb20e9091bd382995deda10d76881bbed4e056c5cc.wav",
+      "story_index": 3,
+      "sentence_id": "s01",
+      "word": "disruptions"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，中斷；混亂。",
+      "start_sec": 258.822,
+      "end_sec": 263.513,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/4dd64bfc253be77ee9d1fc00a8652a17e071c03ab6a156af9e765884f929ff57.wav",
+      "story_index": 3,
+      "sentence_id": "s01",
+      "word": "disruptions"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "A nationwide ground stop left thousands of passengers stranded.",
+      "start_sec": 263.913,
+      "end_sec": 269.278,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/6eabd1e96a581147ac8172b6e212228339b6a11f8fdf20e3cc904708a2d42d5f.wav",
+      "story_index": 3,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "全國性的停飛導致數千名旅客滯留。",
+      "start_sec": 270.078,
+      "end_sec": 273.809,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/33f9c6e75c1c6aa492f7d7ff9d6303fe71353bb297490092906cca630c574b22.wav",
+      "story_index": 3,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "stranded",
+      "start_sec": 274.409,
+      "end_sec": 275.725,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/547fd6b9adf97866280694e13dc1d81db2fb4bd97e860a0de1f87e90a0d6664b.wav",
+      "story_index": 3,
+      "sentence_id": "s02",
+      "word": "stranded"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "S, T, R, A, N, D, E, D",
+      "start_sec": 276.125,
+      "end_sec": 277.681,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a2dcc1bf576fd6c8b5aba13090b852d5f5f6beacf06b44e5e0f2ee625978fb17.wav",
+      "story_index": 3,
+      "sentence_id": "s02",
+      "word": "stranded"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "stranded",
+      "start_sec": 278.081,
+      "end_sec": 279.397,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/547fd6b9adf97866280694e13dc1d81db2fb4bd97e860a0de1f87e90a0d6664b.wav",
+      "story_index": 3,
+      "sentence_id": "s02",
+      "word": "stranded"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，滯留的。",
+      "start_sec": 279.797,
+      "end_sec": 282.888,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/fc32417491f2eab38ae39906c83471f3f44976bd36ee62bbdfee570a5bf326ff.wav",
+      "story_index": 3,
+      "sentence_id": "s02",
+      "word": "stranded"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "This was the longest such ground stop in twenty-five years.",
+      "start_sec": 283.288,
+      "end_sec": 288.787,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/06fdbdaadf4b9c7e6c025030a2d70ff6d67b5c853782609ce15e390e8f863007.wav",
+      "story_index": 3,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這是二十五年來最長的一次停飛。",
+      "start_sec": 289.587,
+      "end_sec": 292.918,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/2d1075473084f8b29edef9918920533ed732ac0197e83c1f4a1508aa6cf21d82.wav",
+      "story_index": 3,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Antiquated equipment and new technology overload were blamed.",
+      "start_sec": 293.518,
+      "end_sec": 298.463,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/1dc3dd204e965b92717622a80af044c75cfb3b84e8041b09c021ffe1233b8fe6.wav",
+      "story_index": 3,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "老舊設備和新科技超載是造成問題的原因。",
+      "start_sec": 299.263,
+      "end_sec": 303.874,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9397753c03d457bd49e73592002ef9087b666056eb22442851346d29507f4e26.wav",
+      "story_index": 3,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "antiquated",
+      "start_sec": 304.474,
+      "end_sec": 306.072,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0b9c4aa0fea72fa2f4f2afeb369e26e828ea27ca8e9b735ff5b58a7ecccaf14b.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "antiquated"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "A, N, T, I, Q, U, A, T, E, D",
+      "start_sec": 306.472,
+      "end_sec": 312.306,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/38b38f0ff6c23ba34b0ce6edb88d911a809d5ae363450ea736dce04c10c646e3.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "antiquated"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "antiquated",
+      "start_sec": 312.706,
+      "end_sec": 314.304,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0b9c4aa0fea72fa2f4f2afeb369e26e828ea27ca8e9b735ff5b58a7ecccaf14b.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "antiquated"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，老舊的。",
+      "start_sec": 314.704,
+      "end_sec": 317.875,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/82b639944ca0dfcac307f93bf13013ed403fb1cfd109eff622567ea0bf9f5656.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "antiquated"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "overload",
+      "start_sec": 318.275,
+      "end_sec": 319.861,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0832dd5cdbdd46d4818694571a6599fbfca05882eb1a9d3bb90b47b9a583f9a0.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "overload"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "O, V, E, R, L, O, A, D",
+      "start_sec": 320.261,
+      "end_sec": 321.76,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/45489ac400a717ad8d9c1b1c3b1e43d7e0b161d0e34b648c8308bbf756f8a71d.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "overload"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "overload",
+      "start_sec": 322.16,
+      "end_sec": 323.747,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0832dd5cdbdd46d4818694571a6599fbfca05882eb1a9d3bb90b47b9a583f9a0.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "overload"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，超載。",
+      "start_sec": 324.147,
+      "end_sec": 326.878,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c7646c08eea7525702465c7cc8efc3519f2ca89cb77ed946a25941a6265d04e9.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "overload"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Airlines worked to minimize delays and cancellations.",
+      "start_sec": 327.278,
+      "end_sec": 331.508,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/3cb3cae397b69d6ba2b322d472fc49143d72e7fead8be99a700308c28e0d5d64.wav",
+      "story_index": 3,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "航空公司努力將延誤和取消降到最低。",
+      "start_sec": 332.308,
+      "end_sec": 336.719,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0971eda3a2b1ddb28e01d3ecbc7fd5539be8acd93359b27fc77de321161b36c6.wav",
+      "story_index": 3,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "minimize",
+      "start_sec": 337.319,
+      "end_sec": 338.81,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/61cde586505eead05ae70b3d850747985c0f02b8af13a29fa282f16d0eddf24a.wav",
+      "story_index": 3,
+      "sentence_id": "s05",
+      "word": "minimize"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "M, I, N, I, M, I, Z, E",
+      "start_sec": 339.21,
+      "end_sec": 340.708,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/7a96b85c5c46085a7fb3c021e97194ced6f175de3365d5912cc5d8fc7035d70b.wav",
+      "story_index": 3,
+      "sentence_id": "s05",
+      "word": "minimize"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "minimize",
+      "start_sec": 341.108,
+      "end_sec": 342.598,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/61cde586505eead05ae70b3d850747985c0f02b8af13a29fa282f16d0eddf24a.wav",
+      "story_index": 3,
+      "sentence_id": "s05",
+      "word": "minimize"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，最小化。",
+      "start_sec": 342.998,
+      "end_sec": 346.169,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/13ed255337a171ed1bcb80b48f4ad56272bc746493bcd62f45ae4bf46e813994.wav",
+      "story_index": 3,
+      "sentence_id": "s05",
+      "word": "minimize"
+    },
+    {
+      "type": "outro",
+      "lang": "zh",
+      "text": "最後讓我們快速複習今天學到的單字。",
+      "start_sec": 347.569,
+      "end_sec": 351.01,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/96a8c12ff414ac63850914dd9f7d466a5ac048c7088759e1aad393a3ce3e5747.wav"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "forecast",
+      "start_sec": 351.51,
+      "end_sec": 352.861,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/144e58d929aa154f78a570ff24ebb9fe8d2f43961d41d8b7b0de5cde108dfa28.wav",
+      "word": "forecast"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，預測。",
+      "start_sec": 353.261,
+      "end_sec": 356.272,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/16e9b1fb2c913e8514b031ed14bb09f972474e1101bb09635e42a7c0b70ddf10.wav",
+      "word": "forecast"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "institution",
+      "start_sec": 356.672,
+      "end_sec": 358.37,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/6bcaffde26157a35bf806469637776892fd4eccfdbebd7342607291a778de9f7.wav",
+      "word": "institution"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，機構。",
+      "start_sec": 358.77,
+      "end_sec": 361.771,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/d1a0a23aedc72b8254124b3f61a04fea6416c6d781991522fd7832b65cb68504.wav",
+      "word": "institution"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "inflationary",
+      "start_sec": 362.171,
+      "end_sec": 364.051,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c044d8334984cefe8d2c0e76e0b6122e397689d423829787dc1060d8fde00a72.wav",
+      "word": "inflationary"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，通貨膨脹的。",
+      "start_sec": 364.451,
+      "end_sec": 368.142,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5d797ddc87819e797e09b407762073e72e427d89f627068a48ebd4481ddaa48b.wav",
+      "word": "inflationary"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "diplomatic",
+      "start_sec": 368.542,
+      "end_sec": 370.088,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/45515c33e90ed1b5cc5c3714d0df782cdebb7e1b57338a0abea8d81c875b9f11.wav",
+      "word": "diplomatic"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，外交的。",
+      "start_sec": 370.488,
+      "end_sec": 373.579,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5d730d5403da35fa57ad2337d1be9c4c0ea190bb83b1f634d81c046d20196aa0.wav",
+      "word": "diplomatic"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "cooperation",
+      "start_sec": 373.979,
+      "end_sec": 375.81,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/20537d814178b3bc6938d54eab484a4f251ca4f2ceae40e7bea886da1175bbc5.wav",
+      "word": "cooperation"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，合作。",
+      "start_sec": 376.21,
+      "end_sec": 379.261,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/799ba336c7db4895221538134110b1956baf2728a47b7ac02a23854d606bcc5f.wav",
+      "word": "cooperation"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "tensions",
+      "start_sec": 379.661,
+      "end_sec": 381.064,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/70c77a0bbd5c457c743ed349edabc6184d4c05d9dcf99847542a53a437dea0ad.wav",
+      "word": "tensions"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，緊張關係。",
+      "start_sec": 381.464,
+      "end_sec": 384.555,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b47b8773753541b5b9af4d11997caf80f4815945f1164cba4b9fef28b2d36dc7.wav",
+      "word": "tensions"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "governance",
+      "start_sec": 384.955,
+      "end_sec": 386.692,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c222bd31fbaf34eb0fb5c8c3b3872d14ce9659736dd595c880e405af1c55d1b4.wav",
+      "word": "governance"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，治理。",
+      "start_sec": 387.092,
+      "end_sec": 390.143,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/d96e9d5e0f66fd0e27e52b0f59f63df70a55547c31c4e7a05cd30b03b14a7747.wav",
+      "word": "governance"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "disruptions",
+      "start_sec": 390.543,
+      "end_sec": 391.758,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/41873d3983f803fdd79bbbcb20e9091bd382995deda10d76881bbed4e056c5cc.wav",
+      "word": "disruptions"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，中斷；混亂。",
+      "start_sec": 392.158,
+      "end_sec": 396.849,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/4dd64bfc253be77ee9d1fc00a8652a17e071c03ab6a156af9e765884f929ff57.wav",
+      "word": "disruptions"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "stranded",
+      "start_sec": 397.249,
+      "end_sec": 398.565,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/547fd6b9adf97866280694e13dc1d81db2fb4bd97e860a0de1f87e90a0d6664b.wav",
+      "word": "stranded"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，滯留的。",
+      "start_sec": 398.965,
+      "end_sec": 402.056,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/fc32417491f2eab38ae39906c83471f3f44976bd36ee62bbdfee570a5bf326ff.wav",
+      "word": "stranded"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "antiquated",
+      "start_sec": 402.456,
+      "end_sec": 404.054,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0b9c4aa0fea72fa2f4f2afeb369e26e828ea27ca8e9b735ff5b58a7ecccaf14b.wav",
+      "word": "antiquated"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，老舊的。",
+      "start_sec": 404.454,
+      "end_sec": 407.625,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/82b639944ca0dfcac307f93bf13013ed403fb1cfd109eff622567ea0bf9f5656.wav",
+      "word": "antiquated"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "overload",
+      "start_sec": 408.025,
+      "end_sec": 409.611,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0832dd5cdbdd46d4818694571a6599fbfca05882eb1a9d3bb90b47b9a583f9a0.wav",
+      "word": "overload"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，超載。",
+      "start_sec": 410.011,
+      "end_sec": 412.742,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c7646c08eea7525702465c7cc8efc3519f2ca89cb77ed946a25941a6265d04e9.wav",
+      "word": "overload"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "minimize",
+      "start_sec": 413.142,
+      "end_sec": 414.632,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/61cde586505eead05ae70b3d850747985c0f02b8af13a29fa282f16d0eddf24a.wav",
+      "word": "minimize"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，最小化。",
+      "start_sec": 415.032,
+      "end_sec": 418.203,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/13ed255337a171ed1bcb80b48f4ad56272bc746493bcd62f45ae4bf46e813994.wav",
+      "word": "minimize"
+    },
+    {
+      "type": "outro",
+      "lang": "en",
+      "text": "Thanks for listening to NEWS IN 10. See you tomorrow!",
+      "start_sec": 418.603,
+      "end_sec": 422.736,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/8ad249f376a23a4cbbf58f606f65845bb1776f86978a4803799b18a1390cf4d3.wav"
+    },
+    {
+      "type": "outro",
+      "lang": "zh",
+      "text": "感謝收聽 NEWS IN 10，我們明天見。",
+      "start_sec": 423.136,
+      "end_sec": 426.176,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/dcfa8d1f94019496e8a2ebe1525c7d9693ecc76c8b44fafc49f20caf499d410f.wav"
+    }
+  ]
+}

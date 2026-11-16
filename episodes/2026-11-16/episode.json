@@ -4,186 +4,205 @@
   "title_zh": "NEWS IN 10 每日新聞英語｜11 月 16 日",
   "stories": [
     {
-      "topic": "臺灣",
-      "headline_en": "Taiwan Passes New Laws to Expand Maternity and Childcare Leave",
-      "headline_zh": "臺灣通過修法擴大產假與育兒補助福利",
+      "topic": "財經",
+      "headline_en": "Taiwan's Economic Outlook Brightens with Strong Growth Forecast",
+      "headline_zh": "臺灣經濟前景看好，成長預測強勁",
       "sources": [
-        "https://focustaiwan.tw/society/202611150015",
-        "https://focustaiwan.tw/society/202611150001"
+        "https://www.cna.com.tw/news/afe/202610160205.aspx",
+        "https://www.wealth.com.tw/articles/f326581a-685b-489e-836e-530279641772"
       ],
       "sentences": [
         {
           "id": "s01",
-          "en": "Taiwan passed new legal changes to support working parents across the country.",
-          "zh": "臺灣通過了新的法律修正案，以支持全臺的有職家長。",
+          "en": "Taiwan's economic forecast for 2026 has been raised to 12.16%.",
+          "zh": "臺灣 2026 年的經濟預測已上調至 12.16%。",
           "vocab": [
             {
-              "word": "legal",
-              "ipa": "",
-              "pos": "adj.",
-              "zh": "法律的；合法的"
+              "word": "forecast",
+              "ipa": "/fˈɔɹkˌæst/",
+              "pos": "n.",
+              "zh": "預測"
             }
           ]
         },
         {
           "id": "s02",
-          "en": "The government hopes these friendly policies will help fix the declining birthrate.",
-          "zh": "政府希望這些友善政策能協助改善持續下降的出生率。",
-          "vocab": [
-            {
-              "word": "policy",
-              "ipa": "",
-              "pos": "n.",
-              "zh": "政策"
-            }
-          ]
+          "en": "This is the highest growth rate seen in nearly four decades.",
+          "zh": "這是近四十年來最高的成長率。",
+          "vocab": []
         },
         {
           "id": "s03",
-          "en": "Employees will receive longer parental leave and higher financial subsidies from next year.",
-          "zh": "勞工從明年起將獲得更長的育嬰假與更高的經濟補助。",
+          "en": "The Chung-Hua Institution for Economic Research announced this update.",
+          "zh": "中華經濟研究院公布了這項更新。",
           "vocab": [
             {
-              "word": "employee",
-              "ipa": "",
+              "word": "institution",
+              "ipa": "/ˌɪnstɪtˈuʃən/",
               "pos": "n.",
-              "zh": "員工；受雇者"
-            },
-            {
-              "word": "financial",
-              "ipa": "",
-              "pos": "adj.",
-              "zh": "財務的；金融的"
+              "zh": "機構"
             }
           ]
         },
         {
           "id": "s04",
-          "en": "Parents can also divide their leave hours more easily to care for newborn children.",
-          "zh": "家長也可以更靈活地分配請假時數來照顧剛出生的孩子。",
+          "en": "Strong global demand for artificial intelligence (AI) drives this expansion.",
+          "zh": "全球對人工智慧的強勁需求推動了這項擴張。",
           "vocab": []
-        }
-      ]
-    },
-    {
-      "topic": "生成式AI 發展",
-      "headline_en": "Exam Candidate Confesses to Using Generative AI to Cheat",
-      "headline_zh": "韓國考生坦承利用生成式 AI 於國家考試作弊",
-      "sources": [
-        "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
-        "https://kathmandupost.com/world/2026/11/15/top-scorer-on-south-korean-tax-exam-confesses-to-cheating-with-ai"
-      ],
-      "sentences": [
+        },
         {
           "id": "s05",
-          "en": "A top scorer on a national exam in South Korea admitted to cheating.",
-          "zh": "一名在韓國國家考試中獲得最高分的考生公開承認作弊。",
+          "en": "However, inflationary pressures from energy prices remain a concern.",
+          "zh": "然而，能源價格帶來的通膨壓力仍令人擔憂。",
           "vocab": [
             {
-              "word": "admit",
-              "ipa": "",
-              "pos": "v.",
-              "zh": "承認"
-            }
-          ]
-        },
-        {
-          "id": "s06",
-          "en": "He took photos of the test papers with a tiny hidden camera.",
-          "zh": "他用針孔微型相機拍下了試卷上的題目照片。",
-          "vocab": [
-            {
-              "word": "tiny",
-              "ipa": "",
+              "word": "inflationary",
+              "ipa": "/ˌɪnflˈeɪʃənˌɛɹi/",
               "pos": "adj.",
-              "zh": "極小的；微小的"
-            }
-          ]
-        },
-        {
-          "id": "s07",
-          "en": "The man sent images to generative AI models and read answers on his smartphone.",
-          "zh": "該男子將照片傳送至生成式 AI 模型，並在智慧型手機上讀取答案。",
-          "vocab": []
-        },
-        {
-          "id": "s08",
-          "en": "Officials promised to inspect test rooms carefully to prevent unfair behavior.",
-          "zh": "主考官員承諾將仔細檢查考場，以防止不公平的行為發生。",
-          "vocab": [
-            {
-              "word": "inspect",
-              "ipa": "",
-              "pos": "v.",
-              "zh": "檢查；查驗"
-            },
-            {
-              "word": "prevent",
-              "ipa": "",
-              "pos": "v.",
-              "zh": "預防；防止"
+              "zh": "通貨膨脹的"
             }
           ]
         }
       ]
     },
     {
-      "topic": "生活品味與旅遊",
-      "headline_en": "Singapore Retirees Explore Slow Travel Across Eight Cities",
-      "headline_zh": "新加坡退休夫妻規劃慢活旅遊走訪八座城市",
+      "topic": "AI 發展",
+      "headline_en": "China Proposes AI Cooperation with US Ahead of APEC Summit",
+      "headline_zh": "中國在亞太經合會前夕提議與美國進行人工智慧合作",
       "sources": [
-        "https://www.asiaone.com/lifestyle/singapore-retirees-travel-eight-cities",
-        "https://www.americanexpress.com/en-us/travel/discover/get-inspired/global-travel-trends"
+        "https://emergent.news/china-calls-for-ai-cooperation-with-us-at-shenzhen-summit/",
+        "https://www.cna.com.tw/news/acn/202611150165.aspx"
       ],
       "sentences": [
         {
-          "id": "s09",
-          "en": "A retired couple from Singapore shared their inspiring story of slow travel.",
-          "zh": "一對來自新加坡的退休夫妻分享了他們令人啟發的慢活旅遊故事。",
+          "id": "s01",
+          "en": "China has made a diplomatic move for AI cooperation with the US.",
+          "zh": "中國已提出與美國在人工智慧領域進行外交合作的建議。",
           "vocab": [
             {
-              "word": "retired",
-              "ipa": "",
+              "word": "diplomatic",
+              "ipa": "/dˌɪpləmˈætɪk/",
               "pos": "adj.",
-              "zh": "退休的"
-            }
-          ]
-        },
-        {
-          "id": "s10",
-          "en": "They stayed in eight foreign cities this year with a reasonable monthly budget.",
-          "zh": "他們今年以合理的每月預算，悠閒旅居了八個海外城市。",
-          "vocab": [
-            {
-              "word": "reasonable",
-              "ipa": "",
-              "pos": "adj.",
-              "zh": "合理的"
+              "zh": "外交的"
             },
             {
-              "word": "budget",
-              "ipa": "",
+              "word": "cooperation",
+              "ipa": "/koʊˌɑpɚˈeɪʃən/",
               "pos": "n.",
-              "zh": "預算"
+              "zh": "合作"
             }
           ]
         },
         {
-          "id": "s11",
-          "en": "Instead of rushing between sights, they enjoyed cooking local food at rented houses.",
-          "zh": "他們不再於景點間匆忙奔波，而是在承租的寓所親自烹煮當地食材。",
+          "id": "s02",
+          "en": "This comes before the APEC Summit in Shenzhen.",
+          "zh": "這項提議是在深圳亞太經合會前夕提出的。",
           "vocab": []
         },
         {
-          "id": "s12",
-          "en": "Many modern travelers now prefer deeper cultural immersion over crowded tours.",
-          "zh": "許多現代旅客如今更偏好深度的文化體驗，而非擁擠的走馬看花行程。",
+          "id": "s03",
+          "en": "It could ease tech tensions between the two nations.",
+          "zh": "這可能緩解兩國之間的科技緊張關係。",
           "vocab": [
             {
-              "word": "prefer",
-              "ipa": "",
+              "word": "tensions",
+              "ipa": "/tˈɛntʃənz/",
+              "pos": "n.",
+              "zh": "緊張關係"
+            }
+          ]
+        },
+        {
+          "id": "s04",
+          "en": "The plan includes research and safety standards.",
+          "zh": "該計畫包含研究與安全標準。",
+          "vocab": []
+        },
+        {
+          "id": "s05",
+          "en": "Global leaders will discuss AI governance at the upcoming forum.",
+          "zh": "全球領袖將在即將舉行的論壇上討論人工智慧治理。",
+          "vocab": [
+            {
+              "word": "governance",
+              "ipa": "/ɡˈʌvɚnəns/",
+              "pos": "n.",
+              "zh": "治理"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "旅遊",
+      "headline_en": "US Air Travel Recovers After Major Nationwide Ground Stop",
+      "headline_zh": "美國空中交通在全國停飛後恢復正常",
+      "sources": [
+        "https://www.newindianexpress.com/world/2026/nov/14/us-scramble-to-resume-flights-after-longest-nationwide-ground-stop-in-25-years-2000-flights-cancelled-2520338.html",
+        "https://www.pbs.org/newshour/nation/thousands-of-flights-canceled-as-airlines-work-to-recover-from-nationwide-ground-stop"
+      ],
+      "sentences": [
+        {
+          "id": "s01",
+          "en": "US air travel is recovering after widespread disruptions.",
+          "zh": "美國空中交通在廣泛中斷後正在恢復。",
+          "vocab": [
+            {
+              "word": "disruptions",
+              "ipa": "/dɪsɹˈʌpʃənz/",
+              "pos": "n.",
+              "zh": "中斷；混亂"
+            }
+          ]
+        },
+        {
+          "id": "s02",
+          "en": "A nationwide ground stop left thousands of passengers stranded.",
+          "zh": "全國性的停飛導致數千名旅客滯留。",
+          "vocab": [
+            {
+              "word": "stranded",
+              "ipa": "/stɹˈændɪd/",
+              "pos": "adj.",
+              "zh": "滯留的"
+            }
+          ]
+        },
+        {
+          "id": "s03",
+          "en": "This was the longest such ground stop in twenty-five years.",
+          "zh": "這是二十五年來最長的一次停飛。",
+          "vocab": []
+        },
+        {
+          "id": "s04",
+          "en": "Antiquated equipment and new technology overload were blamed.",
+          "zh": "老舊設備和新科技超載是造成問題的原因。",
+          "vocab": [
+            {
+              "word": "antiquated",
+              "ipa": "/ˈæntəkwˌeɪtɪd/",
+              "pos": "adj.",
+              "zh": "老舊的"
+            },
+            {
+              "word": "overload",
+              "ipa": "/ˈoʊvɚlˌoʊd/",
+              "pos": "n.",
+              "zh": "超載"
+            }
+          ]
+        },
+        {
+          "id": "s05",
+          "en": "Airlines worked to minimize delays and cancellations.",
+          "zh": "航空公司努力將延誤和取消降到最低。",
+          "vocab": [
+            {
+              "word": "minimize",
+              "ipa": "/mˈɪnəmˌaɪz/",
               "pos": "v.",
-              "zh": "更喜歡；偏好"
+              "zh": "最小化"
             }
           ]
         }
