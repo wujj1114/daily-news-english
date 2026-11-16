@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-16",
+  "title_en": "NEWS IN 10 — Nov 16",
+  "title_zh": "NEWS IN 10 每日新聞英語｜11 月 16 日",
+  "stories": [
+    {
+      "topic": "臺灣",
+      "headline_en": "Taiwan Passes New Laws to Expand Maternity and Childcare Leave",
+      "headline_zh": "臺灣通過修法擴大產假與育兒補助福利",
+      "sources": [
+        "https://focustaiwan.tw/society/202611150015",
+        "https://focustaiwan.tw/society/202611150001"
+      ],
+      "sentences": [
+        {
+          "id": "s01",
+          "en": "Taiwan passed new legal changes to support working parents across the country.",
+          "zh": "臺灣通過了新的法律修正案，以支持全臺的有職家長。",
+          "vocab": [
+            {
+              "word": "legal",
+              "ipa": "",
+              "pos": "adj.",
+              "zh": "法律的；合法的"
+            }
+          ]
+        },
+        {
+          "id": "s02",
+          "en": "The government hopes these friendly policies will help fix the declining birthrate.",
+          "zh": "政府希望這些友善政策能協助改善持續下降的出生率。",
+          "vocab": [
+            {
+              "word": "policy",
+              "ipa": "",
+              "pos": "n.",
+              "zh": "政策"
+            }
+          ]
+        },
+        {
+          "id": "s03",
+          "en": "Employees will receive longer parental leave and higher financial subsidies from next year.",
+          "zh": "勞工從明年起將獲得更長的育嬰假與更高的經濟補助。",
+          "vocab": [
+            {
+              "word": "employee",
+              "ipa": "",
+              "pos": "n.",
+              "zh": "員工；受雇者"
+            },
+            {
+              "word": "financial",
+              "ipa": "",
+              "pos": "adj.",
+              "zh": "財務的；金融的"
+            }
+          ]
+        },
+        {
+          "id": "s04",
+          "en": "Parents can also divide their leave hours more easily to care for newborn children.",
+          "zh": "家長也可以更靈活地分配請假時數來照顧剛出生的孩子。",
+          "vocab": []
+        }
+      ]
+    },
+    {
+      "topic": "生成式AI 發展",
+      "headline_en": "Exam Candidate Confesses to Using Generative AI to Cheat",
+      "headline_zh": "韓國考生坦承利用生成式 AI 於國家考試作弊",
+      "sources": [
+        "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+        "https://kathmandupost.com/world/2026/11/15/top-scorer-on-south-korean-tax-exam-confesses-to-cheating-with-ai"
+      ],
+      "sentences": [
+        {
+          "id": "s05",
+          "en": "A top scorer on a national exam in South Korea admitted to cheating.",
+          "zh": "一名在韓國國家考試中獲得最高分的考生公開承認作弊。",
+          "vocab": [
+            {
+              "word": "admit",
+              "ipa": "",
+              "pos": "v.",
+              "zh": "承認"
+            }
+          ]
+        },
+        {
+          "id": "s06",
+          "en": "He took photos of the test papers with a tiny hidden camera.",
+          "zh": "他用針孔微型相機拍下了試卷上的題目照片。",
+          "vocab": [
+            {
+              "word": "tiny",
+              "ipa": "",
+              "pos": "adj.",
+              "zh": "極小的；微小的"
+            }
+          ]
+        },
+        {
+          "id": "s07",
+          "en": "The man sent images to generative AI models and read answers on his smartphone.",
+          "zh": "該男子將照片傳送至生成式 AI 模型，並在智慧型手機上讀取答案。",
+          "vocab": []
+        },
+        {
+          "id": "s08",
+          "en": "Officials promised to inspect test rooms carefully to prevent unfair behavior.",
+          "zh": "主考官員承諾將仔細檢查考場，以防止不公平的行為發生。",
+          "vocab": [
+            {
+              "word": "inspect",
+              "ipa": "",
+              "pos": "v.",
+              "zh": "檢查；查驗"
+            },
+            {
+              "word": "prevent",
+              "ipa": "",
+              "pos": "v.",
+              "zh": "預防；防止"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "生活品味與旅遊",
+      "headline_en": "Singapore Retirees Explore Slow Travel Across Eight Cities",
+      "headline_zh": "新加坡退休夫妻規劃慢活旅遊走訪八座城市",
+      "sources": [
+        "https://www.asiaone.com/lifestyle/singapore-retirees-travel-eight-cities",
+        "https://www.americanexpress.com/en-us/travel/discover/get-inspired/global-travel-trends"
+      ],
+      "sentences": [
+        {
+          "id": "s09",
+          "en": "A retired couple from Singapore shared their inspiring story of slow travel.",
+          "zh": "一對來自新加坡的退休夫妻分享了他們令人啟發的慢活旅遊故事。",
+          "vocab": [
+            {
+              "word": "retired",
+              "ipa": "",
+              "pos": "adj.",
+              "zh": "退休的"
+            }
+          ]
+        },
+        {
+          "id": "s10",
+          "en": "They stayed in eight foreign cities this year with a reasonable monthly budget.",
+          "zh": "他們今年以合理的每月預算，悠閒旅居了八個海外城市。",
+          "vocab": [
+            {
+              "word": "reasonable",
+              "ipa": "",
+              "pos": "adj.",
+              "zh": "合理的"
+            },
+            {
+              "word": "budget",
+              "ipa": "",
+              "pos": "n.",
+              "zh": "預算"
+            }
+          ]
+        },
+        {
+          "id": "s11",
+          "en": "Instead of rushing between sights, they enjoyed cooking local food at rented houses.",
+          "zh": "他們不再於景點間匆忙奔波，而是在承租的寓所親自烹煮當地食材。",
+          "vocab": []
+        },
+        {
+          "id": "s12",
+          "en": "Many modern travelers now prefer deeper cultural immersion over crowded tours.",
+          "zh": "許多現代旅客如今更偏好深度的文化體驗，而非擁擠的走馬看花行程。",
+          "vocab": [
+            {
+              "word": "prefer",
+              "ipa": "",
+              "pos": "v.",
+              "zh": "更喜歡；偏好"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
