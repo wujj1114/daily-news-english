@@ -5,187 +5,193 @@
   "stories": [
     {
       "topic": "臺灣",
-      "headline_en": "Taiwan Ranks 13th in Global Digital and AI Competitiveness Report",
-      "headline_zh": "臺灣於 2026 全球數位與 AI 競爭力報告名列第 13 名",
+      "headline_en": "TSMC and AUO Collaborate on Advanced Packaging Technology",
+      "headline_zh": "台積電與友達光電合作開發先進封裝技術",
       "sources": [
-        "https://focustaiwan.tw/sci-tech/202611160022",
-        "https://www.magzter.com/stories/newspaper/Business-World-Philippines/PHILIPPINES-LAGS-ASIAPACIFIC-IN-DIGITAL-AI-RANKING"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-0ply57wmpKoUgvcrUCFf_K7OHZ4rG2buZpWYbvp5JBwMSEPgeWwRX_I1ypjrBF9bjcyhwIq4RkB7Qe95turkTdZlP9CpQCntLD3afTeUAvpKQ2CF6gkTrXoE_ypFrkWFSLzSMMv1JyI=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ5lYk5ieRsZgDaXyqdEOHBwwxtisdH3JgbxHpcf1IAhM7fdwSuH2NIILMJ34Na7Kq4W1PrkGoQMuTgS-koV_Y5SzYvhRDPjSlKG8DE6NMWZjPmFU5iALYS65GJGlhjSZ0h-NP4fH412kAJTyJ5oaxhZGVCOamH-6Rhf5QDkm16SE"
       ],
       "sentences": [
         {
           "id": "s01",
-          "en": "Taiwan ranked thirteenth among seventy economies in a new global digital and AI report.",
-          "zh": "臺灣在一項新的全球數位與人工智慧報告中，於七十個經濟體裡名列第十三名。",
+          "en": "Taiwan Semiconductor Manufacturing Company (TSMC) is partnering with AUO.",
+          "zh": "臺灣積體電路製造公司（台積電）正與友達光電合作。",
           "vocab": [
             {
-              "word": "rank",
-              "ipa": "",
-              "pos": "v.",
-              "zh": "排名"
-            },
-            {
-              "word": "economy",
-              "ipa": "",
+              "word": "manufacturing",
+              "ipa": "/mˌænjəfˈæktʃɚɪŋ/",
               "pos": "n.",
-              "zh": "經濟體"
+              "zh": "製造業；製造"
             }
           ]
         },
         {
           "id": "s02",
-          "en": "Local companies scored very high for investing in worker AI training programs.",
-          "zh": "臺灣企業在投資員工人工智慧培訓計畫方面獲得了極高評價。",
+          "en": "They will jointly develop advanced packaging using glass substrates.",
+          "zh": "他們將共同開發使用玻璃基板的先進封裝技術。",
           "vocab": [
             {
-              "word": "invest",
-              "ipa": "",
-              "pos": "v.",
-              "zh": "投資"
+              "word": "packaging",
+              "ipa": "/pˈækɪdʒɪŋ/",
+              "pos": "n.",
+              "zh": "封裝；包裝"
+            },
+            {
+              "word": "substrates",
+              "ipa": "/sˈʌbstɹˌeɪts/",
+              "pos": "n.",
+              "zh": "基板"
             }
           ]
         },
         {
           "id": "s03",
-          "en": "Businesses in Taiwan also showed strong awareness of online safety risks.",
-          "zh": "臺灣企業對網路安全風險也展現出高度的警覺意識。",
+          "en": "This partnership aims to boost Taiwan's leading role in chip tech.",
+          "zh": "這項合作旨在提升臺灣在晶片技術的領先地位。",
+          "vocab": []
+        },
+        {
+          "id": "s04",
+          "en": "It makes the nation's position in the global supply chain stronger.",
+          "zh": "這鞏固了臺灣在全球供應鏈中的地位。",
+          "vocab": []
+        },
+        {
+          "id": "s05",
+          "en": "The new process could improve performance for future AI chips.",
+          "zh": "這項新製程可望提升未來人工智慧晶片的效能。",
           "vocab": [
             {
-              "word": "awareness",
-              "ipa": "",
+              "word": "improve",
+              "ipa": "/ˌɪmpɹˈuv/",
+              "pos": "v.",
+              "zh": "改善；提升"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "AI 發展",
+      "headline_en": "Apple Launches AI Health Research to Improve Medical Information",
+      "headline_zh": "蘋果啟動人工智慧健康研究以提升醫療資訊",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsoWAGmqx5XzP5w95VXiXJ3JKB91zJzz8dmT9flnAbCxq6VZKMDtIzn_NIpSw5ZwjPDW6IMogmiG7ymk5rL2RblgCkdCAwW7Y8k2NRAAK-6BX8klGYKxRQ6nun1IMw1JyVTw83JlPe8xrHgnmLa0zYhmAuEyFYlhssTAV_4_C8enTMkLpJGZ4ke2S3giayB2m66otPyu2SBKUmdYvvh-oBHmALXg==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6hhmHNFtWCX5wvjD-vA1z1b1GZWODNA0YDfTQHKcCyTLd0hXdjWaoRG6uBIh9pxSyQt22JusOtKo4L27ERcrQeWHdiufXSJ7yD8nEKReyC0pMSZT2P5yIearwqzgeaE4L8jhmnaadHDR6uuQ9QZc0hZf-tFhE2takMg=="
+      ],
+      "sentences": [
+        {
+          "id": "s01",
+          "en": "Apple has started a new research program for AI health tools.",
+          "zh": "蘋果公司已啟動一項新的人工智慧健康工具研究計畫。",
+          "vocab": []
+        },
+        {
+          "id": "s02",
+          "en": "It aims to improve the accuracy of medical information for users.",
+          "zh": "其目標是提升使用者醫療資訊的準確性。",
+          "vocab": [
+            {
+              "word": "accuracy",
+              "ipa": "/ˈækjɚəsi/",
               "pos": "n.",
-              "zh": "意識；覺察"
+              "zh": "準確性"
+            }
+          ]
+        },
+        {
+          "id": "s03",
+          "en": "The study includes 200,000 US iPhone users over a year.",
+          "zh": "這項研究將招募二十萬名美國 iPhone 使用者，為期一年。",
+          "vocab": []
+        },
+        {
+          "id": "s04",
+          "en": "Participants will evaluate AI answers to health-related questions.",
+          "zh": "參與者將評估人工智慧對健康相關問題的回答。",
+          "vocab": [
+            {
+              "word": "evaluate",
+              "ipa": "/ɪvˈæljuˌeɪt/",
+              "pos": "v.",
+              "zh": "評估"
+            }
+          ]
+        },
+        {
+          "id": "s05",
+          "en": "This initiative focuses on scientific validation and user privacy.",
+          "zh": "這項倡議著重於科學驗證與使用者隱私。",
+          "vocab": [
+            {
+              "word": "validation",
+              "ipa": "/vˌælədˈeɪʃən/",
+              "pos": "n.",
+              "zh": "驗證"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "財經",
+      "headline_en": "Philippines Expected to Lead Asia in Interest Rate Cuts Next Year",
+      "headline_zh": "菲律賓預計明年將引領亞洲降息",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx8fyonnLcTxW8a8mbJzpQZZNKd-7y-X0ihlAFHrfq-ie49YLRsD04XnG57VxUqOOfegCjo74ojJD0ie_SM_duQe5UOipbWlX14CZFrUO2264FP3u4gSG3DYwOPQGXE1J25QGgC0-PRfENoHMJwXSsnm43Hg0ccCQ0pbEd4l70uIBgjpfsukoUeBfQ",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqjHM9UUdX8k7fHWYYUR_nG0iqsk09ETsELnRp0Mh5Iurs3BnlDaS0KIvFVlzn2y4goxvlnffQH9ccrOsrzCFKOHglC-b3lqI56JSDwV_7K2cWmMueHy4q1cNgEfYlh1xuvFo="
+      ],
+      "sentences": [
+        {
+          "id": "s01",
+          "en": "The Philippines may be the first in Asia to cut interest rates.",
+          "zh": "菲律賓可能成為亞洲首個降息的國家。",
+          "vocab": []
+        },
+        {
+          "id": "s02",
+          "en": "This is due to easing inflation and slower economic growth.",
+          "zh": "這是因為通膨趨緩與經濟成長放緩。",
+          "vocab": [
+            {
+              "word": "easing",
+              "ipa": "/ˈizɪŋ/",
+              "pos": "v.",
+              "zh": "減輕；放緩"
+            }
+          ]
+        },
+        {
+          "id": "s03",
+          "en": "Analysts predict the central bank will act next year.",
+          "zh": "分析師預測央行將於明年採取行動。",
+          "vocab": [
+            {
+              "word": "analysts",
+              "ipa": "/ˈænəlɪsts/",
+              "pos": "n.",
+              "zh": "分析師"
             }
           ]
         },
         {
           "id": "s04",
-          "en": "The digital ministry plans to use more AI tools to improve public services.",
-          "zh": "數位發展部計畫運用更多人工智慧工具來提升公共服務品質。",
-          "vocab": []
-        }
-      ]
-    },
-    {
-      "topic": "生成式AI 發展",
-      "headline_en": "OpenAI and UK Charity Launch Free AI Skills Training for Youth",
-      "headline_zh": "OpenAI 攜手英國慈善機構推動青年免費 AI 技能培訓",
-      "sources": [
-        "https://openai.com/index/the-kings-trust-and-openai/",
-        "https://www.edtechinnovationhub.com/news/openai-commits-1-million-to-the-kings-trust-for-youth-ai-skills-training"
-      ],
-      "sentences": [
+          "en": "Lower rates could boost business investment and consumer spending.",
+          "zh": "較低的利率可能刺激商業投資和消費者支出。",
+          "vocab": [
+            {
+              "word": "boost",
+              "ipa": "/bˈust/",
+              "pos": "v.",
+              "zh": "提升；刺激"
+            }
+          ]
+        },
         {
           "id": "s05",
-          "en": "OpenAI and a British charity launched a new program to help young people.",
-          "zh": "OpenAI 與一家英國慈善機構共同推出一項協助年輕人的新計畫。",
-          "vocab": [
-            {
-              "word": "charity",
-              "ipa": "",
-              "pos": "n.",
-              "zh": "慈善機構"
-            },
-            {
-              "word": "launch",
-              "ipa": "",
-              "pos": "v.",
-              "zh": "推出；發起"
-            }
-          ]
-        },
-        {
-          "id": "s06",
-          "en": "They will offer free training in practical AI skills over eighteen months.",
-          "zh": "他們將在十八個月內提供免費的實用人工智慧技能培訓。",
-          "vocab": [
-            {
-              "word": "practical",
-              "ipa": "",
-              "pos": "adj.",
-              "zh": "實用的"
-            }
-          ]
-        },
-        {
-          "id": "s07",
-          "en": "The program aims to support twenty-five thousand youth aged sixteen to thirty.",
-          "zh": "這項計畫旨在支持兩萬五千名十六至三十歲的青年。",
+          "en": "This move aims to support the nation's general economic health.",
+          "zh": "此舉旨在支持該國整體經濟健康發展。",
           "vocab": []
-        },
-        {
-          "id": "s08",
-          "en": "Students can earn useful qualifications and build confidence for future office jobs.",
-          "zh": "學員可以取得實用資格認證，並為未來的職場工作建立信心。",
-          "vocab": [
-            {
-              "word": "confidence",
-              "ipa": "",
-              "pos": "n.",
-              "zh": "信心"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "topic": "財經新聞",
-      "headline_en": "IMF Chief Warns Global Economy Relies Too Heavily on AI Spending",
-      "headline_zh": "IMF 總裁示警全球經濟過度依賴 AI 投資與融資",
-      "sources": [
-        "https://www.cnbcafrica.com/2026/standing-on-one-leg-imf-chief-warns-about-global-economy-as-ai-circular-financing-hits-1-trillion",
-        "https://www.pna.gov.ph/article/global-economy-standing-on-one-leg-as-ai-financing-risks-mount-imf-chief"
-      ],
-      "sentences": [
-        {
-          "id": "s09",
-          "en": "A top global finance leader warned that the world economy relies too much on AI.",
-          "zh": "一位全球頂尖財經領袖警告，世界經濟過度依賴人工智慧產業。",
-          "vocab": [
-            {
-              "word": "rely",
-              "ipa": "",
-              "pos": "v.",
-              "zh": "依賴"
-            }
-          ]
-        },
-        {
-          "id": "s10",
-          "en": "She explained that heavy spending on technology is currently driving most economic growth.",
-          "zh": "她指出，目前龐大的科技支出正帶動大部分的經濟成長。",
-          "vocab": []
-        },
-        {
-          "id": "s11",
-          "en": "However, rising stock values could drop sharply if company profits fail to meet expectations.",
-          "zh": "然而，若企業獲利未能達到預期，高漲的股市市值可能會大幅滑落。",
-          "vocab": [
-            {
-              "word": "profit",
-              "ipa": "",
-              "pos": "n.",
-              "zh": "獲利；利潤"
-            },
-            {
-              "word": "expectation",
-              "ipa": "",
-              "pos": "n.",
-              "zh": "預期；期望"
-            }
-          ]
-        },
-        {
-          "id": "s12",
-          "en": "Experts advise investors to stay careful because market losses can spread across countries.",
-          "zh": "專家建議投資人保持謹慎，因為市場虧損可能會跨國蔓延。",
-          "vocab": [
-            {
-              "word": "spread",
-              "ipa": "",
-              "pos": "v.",
-              "zh": "擴散；蔓延"
-            }
-          ]
         }
       ]
     }
