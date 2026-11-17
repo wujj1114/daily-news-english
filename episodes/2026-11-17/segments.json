@@ -1,0 +1,1119 @@
+{
+  "date": "2026-11-17",
+  "total_duration_sec": 482.106,
+  "cache_hits": 41,
+  "cache_misses": 69,
+  "segments": [
+    {
+      "type": "intro",
+      "lang": "en",
+      "text": "Welcome to NEWS IN 10 — Nov 17.",
+      "start_sec": 0.0,
+      "end_sec": 4.745,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0bc3e2841a03463221f936cf684458bce9c97a087b886f7d5da6cbf284ad1e3a.wav"
+    },
+    {
+      "type": "intro",
+      "lang": "zh",
+      "text": "歡迎收聽 NEWS IN 10 每日新聞英語｜11 月 17 日。",
+      "start_sec": 5.145,
+      "end_sec": 10.836,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/6fbc92d4f36c7acf95110c92f7558e233ebad923546cf505ab4f5e97bd6aa591.wav"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "第 1 則新聞：臺灣在全球數位與人工智慧準備度排名第 13",
+      "start_sec": 11.836,
+      "end_sec": 18.207,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/4cb17dd96330544a785dfdbc6bd85dd53dd9478796bd4b87ec95850cb1aafc21.wav",
+      "story_index": 1
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Taiwan ranked the 13th position in the 2026 World Digital and AI Ranking.",
+      "start_sec": 18.807,
+      "end_sec": 25.479,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/cd35010259efa8075016fc9087811f0c26b09468e77e084308f76ef4700eae25.wav",
+      "story_index": 1,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "臺灣在 2026 年世界數位與人工智慧排名中位居第 13 名。",
+      "start_sec": 26.279,
+      "end_sec": 31.64,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/d0fc654841865cbaa9c938798a591f5f3a3f00019196b7f225dbdd77f3ed583a.wav",
+      "story_index": 1,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "position",
+      "start_sec": 32.24,
+      "end_sec": 34.109,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/937fd0775d181a1586fddd48d33a91f0fa6ca9de0522621043b014ee117e1160.wav",
+      "story_index": 1,
+      "sentence_id": "s01",
+      "word": "position"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "P, O, S, I, T, I, O, N",
+      "start_sec": 34.509,
+      "end_sec": 42.779,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/2efcc1ec629699468bb9e9f411285146a50997a824abc0ac65af3ff4b95f2a53.wav",
+      "story_index": 1,
+      "sentence_id": "s01",
+      "word": "position"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "position",
+      "start_sec": 43.179,
+      "end_sec": 45.049,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/937fd0775d181a1586fddd48d33a91f0fa6ca9de0522621043b014ee117e1160.wav",
+      "story_index": 1,
+      "sentence_id": "s01",
+      "word": "position"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，位置；名次。",
+      "start_sec": 45.449,
+      "end_sec": 50.049,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/931f9d3d8001960e1e8856ebf01d1b02f33b0cc3184ba5f377c10abbb2061731.wav",
+      "story_index": 1,
+      "sentence_id": "s01",
+      "word": "position"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "This global report evaluates economies' readiness for digital transformation.",
+      "start_sec": 50.449,
+      "end_sec": 56.795,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b173777767e8679fe11252a5b39c22af10ffe36bf1dab96428076682cd520b07.wav",
+      "story_index": 1,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這份全球報告評估了各經濟體對數位轉型的準備度。",
+      "start_sec": 57.595,
+      "end_sec": 62.355,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a8c480d66f76f3a864c4fbdb11cb63ae56d823ea1ec51eb15009de616a17f4de.wav",
+      "story_index": 1,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "readiness",
+      "start_sec": 62.955,
+      "end_sec": 64.777,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/aef0c7ca352c8ba2da5cac69a2fb271ea4e1f4023ddffa090566b4a6b824ba2e.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "readiness"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "R, E, A, D, I, N, E, S, S",
+      "start_sec": 65.177,
+      "end_sec": 71.508,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/2b28e8ad3a0c5f36afd417a93e7dbc01df3586a996ef82944419e282aa1d9897.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "readiness"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "readiness",
+      "start_sec": 71.908,
+      "end_sec": 73.73,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/aef0c7ca352c8ba2da5cac69a2fb271ea4e1f4023ddffa090566b4a6b824ba2e.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "readiness"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，準備度。",
+      "start_sec": 74.13,
+      "end_sec": 77.451,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/8e32c32b613a926e0d672f0519de307de14b1b175ab437cd157cce4344e08dd3.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "readiness"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "The Swiss-based IMD institute created the comprehensive ranking.",
+      "start_sec": 77.851,
+      "end_sec": 83.391,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/e5763b0cd307eb113113787f303525389eff1c1e4f7291b6c72e90eb3ac40ff9.wav",
+      "story_index": 1,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這項全面的排名是由總部設於瑞士的 IMD 學院所編纂。",
+      "start_sec": 84.191,
+      "end_sec": 89.592,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/71f47f270dce40fc842c93860d06a458e9c8427237e2a2906b348675977a5a2d.wav",
+      "story_index": 1,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "comprehensive",
+      "start_sec": 90.192,
+      "end_sec": 92.105,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/4c7f2f8c76aaec1de797c22cb0b59cc7e1d0c6a3fe977d583feaeff38481c8f9.wav",
+      "story_index": 1,
+      "sentence_id": "s03",
+      "word": "comprehensive"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "C, O, M, P, R, E, H, E, N, S, I, V, E",
+      "start_sec": 92.505,
+      "end_sec": 105.146,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/937306edb1638e5e55a983ebeddfa92dc5c366bc794e3342852aa90d0d6157f8.wav",
+      "story_index": 1,
+      "sentence_id": "s03",
+      "word": "comprehensive"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "comprehensive",
+      "start_sec": 105.546,
+      "end_sec": 107.459,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/4c7f2f8c76aaec1de797c22cb0b59cc7e1d0c6a3fe977d583feaeff38481c8f9.wav",
+      "story_index": 1,
+      "sentence_id": "s03",
+      "word": "comprehensive"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，全面的；詳盡的。",
+      "start_sec": 107.859,
+      "end_sec": 111.78,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ae9242cdf5a15ab78bbd9e21577a2bb027355f1f6a5acf0a065d527f9071092b.wav",
+      "story_index": 1,
+      "sentence_id": "s03",
+      "word": "comprehensive"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Taiwan showed strength in technology and efficiency, ranking high.",
+      "start_sec": 112.18,
+      "end_sec": 117.862,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/4463d894e20cf8bbbf74bb186b1e8a1cf041f9624b6e6ea85ec276da7b987401.wav",
+      "story_index": 1,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "臺灣在科技和效率方面表現強勁，排名很高。",
+      "start_sec": 118.662,
+      "end_sec": 122.702,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/1e2b54f45f3ddde154b0ff447156cc7ea447c7fb8b39e066b02b6b9c165b33e9.wav",
+      "story_index": 1,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "However, its performance in public leadership was notably weaker.",
+      "start_sec": 123.302,
+      "end_sec": 128.976,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/3c637b826462176261aa977ab54f380baf1e3f73165822b705df9b95adf57b75.wav",
+      "story_index": 1,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "然而，臺灣在公共領導方面的表現顯著較弱。",
+      "start_sec": 129.776,
+      "end_sec": 133.617,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ed9741ff547c1429668cd77401d4ec8948de98604a168753adcf3bf3dd94610b.wav",
+      "story_index": 1,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "notably",
+      "start_sec": 134.217,
+      "end_sec": 135.899,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b1e4b586fc46a9e1c5b7e34faec5bc144846d94db4e4a53dc935b1591df09d25.wav",
+      "story_index": 1,
+      "sentence_id": "s05",
+      "word": "notably"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "N, O, T, A, B, L, Y",
+      "start_sec": 136.299,
+      "end_sec": 141.501,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/65d69fc04cb46213e9f29727c510a98cf6ca6d406e58ecf56f31a6bb83a64f90.wav",
+      "story_index": 1,
+      "sentence_id": "s05",
+      "word": "notably"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "notably",
+      "start_sec": 141.901,
+      "end_sec": 143.583,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b1e4b586fc46a9e1c5b7e34faec5bc144846d94db4e4a53dc935b1591df09d25.wav",
+      "story_index": 1,
+      "sentence_id": "s05",
+      "word": "notably"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，顯著地；尤其。",
+      "start_sec": 143.983,
+      "end_sec": 148.384,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/85af5031f6ba496775284c4509e34447d267b54507a2afeb3ba36bfbb1fb45c0.wav",
+      "story_index": 1,
+      "sentence_id": "s05",
+      "word": "notably"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "第 2 則新聞：人工智慧從哥德爾著作中解鎖新的數學發現",
+      "start_sec": 150.284,
+      "end_sec": 156.165,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/8457c9678909c9c1beb946463e2d0b6a2e9f8b279b5fd34a46d317d61fceb653.wav",
+      "story_index": 2
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Researchers in Helsinki used an AI model named Claude.",
+      "start_sec": 156.765,
+      "end_sec": 162.256,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9e6e901b6f8fe2b17de069ac214cbca01f32f867d861e85f5ba851fda7a2e615.wav",
+      "story_index": 2,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "赫爾辛基的研究人員使用了一個人工智慧模型，名為 Claude。",
+      "start_sec": 163.056,
+      "end_sec": 167.856,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/3a46f99f0bab15d91293ab1f9d163dfb1f6d3cfcf17a75fcac274b0525a9ad63.wav",
+      "story_index": 2,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "researchers",
+      "start_sec": 168.456,
+      "end_sec": 170.225,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/1af631b164374bd6432c3a77645ce8d04bee8d23d0fbb587a16faea66e57ca53.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "researchers"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "R, E, S, E, A, R, C, H, E, R, S",
+      "start_sec": 170.625,
+      "end_sec": 178.707,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/3077bfa12f291df00242b017a0cbd4aaeb64257f210a449cf9d3c47ed00a5ac2.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "researchers"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "researchers",
+      "start_sec": 179.107,
+      "end_sec": 180.875,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/1af631b164374bd6432c3a77645ce8d04bee8d23d0fbb587a16faea66e57ca53.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "researchers"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，研究人員。",
+      "start_sec": 181.275,
+      "end_sec": 184.836,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ad9798f164cf464bfee77919166b6fdfbf10f21a7e1466279df2cf50cede3a94.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "researchers"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "It examined complex workbooks by mathematician Kurt Gödel.",
+      "start_sec": 185.236,
+      "end_sec": 190.732,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/640afba2ad29981ec9f442f7055529395ae33a711ad67b98174bcf2c137b26ff.wav",
+      "story_index": 2,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "它檢視了數學家庫爾特·哥德爾撰寫的複雜筆記本。",
+      "start_sec": 191.532,
+      "end_sec": 196.332,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f87c83dde664e0566ad376ebb129728bfc6b0086ca8f0c95cb2a9734e88bb2b2.wav",
+      "story_index": 2,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "complex",
+      "start_sec": 196.932,
+      "end_sec": 198.699,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/27e8d348c5eeafcc94847c24f53495f6e5279adeaf6a6ddab50336c70930a3cf.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "complex"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "C, O, M, P, L, E, X",
+      "start_sec": 199.099,
+      "end_sec": 205.492,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/93b71702a9258700ba1cd64e3a6fec7df004b2163600b429fe331688b0cc07d8.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "complex"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "complex",
+      "start_sec": 205.892,
+      "end_sec": 207.659,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/27e8d348c5eeafcc94847c24f53495f6e5279adeaf6a6ddab50336c70930a3cf.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "complex"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，複雜的。",
+      "start_sec": 208.059,
+      "end_sec": 211.259,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/6048076db424f0485456ba6814d6c64eb22e6daed8edee00227e164b2b2bd977.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "complex"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Humans struggled with these writings for many years.",
+      "start_sec": 211.659,
+      "end_sec": 216.212,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/2e287d406662eaf06fbb03614ab7b7527d95b0db15d452df3c66a19e69b581e3.wav",
+      "story_index": 2,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "人類多年來一直難以理解這些著作。",
+      "start_sec": 217.012,
+      "end_sec": 220.652,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b5cddf4ddc4e5083ab3da5991079c8c98750e00a5703028feb17016d486c17e9.wav",
+      "story_index": 2,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "struggled",
+      "start_sec": 221.252,
+      "end_sec": 222.933,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5d4934cfb60a15f54311d04de4c2381e015814cc926dbcbc60a936af969ae4e0.wav",
+      "story_index": 2,
+      "sentence_id": "s03",
+      "word": "struggled"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "S, T, R, U, G, G, L, E, D",
+      "start_sec": 223.333,
+      "end_sec": 232.162,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ba2c410b158f18f569d924b4a2465750b774e2b5ea3dd51ba53105034c051f02.wav",
+      "story_index": 2,
+      "sentence_id": "s03",
+      "word": "struggled"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "struggled",
+      "start_sec": 232.562,
+      "end_sec": 234.243,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5d4934cfb60a15f54311d04de4c2381e015814cc926dbcbc60a936af969ae4e0.wav",
+      "story_index": 2,
+      "sentence_id": "s03",
+      "word": "struggled"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，努力；掙扎。",
+      "start_sec": 234.643,
+      "end_sec": 238.883,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/cc012d99f31d96eb2e3edc370e2d3d768667161f2be82b1a0b04d574af1231cd.wav",
+      "story_index": 2,
+      "sentence_id": "s03",
+      "word": "struggled"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "The AI completed this difficult task in just days.",
+      "start_sec": 239.283,
+      "end_sec": 244.634,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/7c2b9b30a5d1d9b325414d3f1efd62d7b5e0272035afbffbfb1ce7706da47350.wav",
+      "story_index": 2,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這個人工智慧僅在數天內就完成了這項艱鉅的任務。",
+      "start_sec": 245.434,
+      "end_sec": 250.235,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9e939eed7396c62ac158969605fb9e4c5f49313a5a29d60a0ea0521868b78812.wav",
+      "story_index": 2,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "It found new mathematical theorems from his notes.",
+      "start_sec": 250.835,
+      "end_sec": 255.055,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/77d4ce62774d57c4ed1a262ae275c9ebba9a328633b3144e55f776f531a26510.wav",
+      "story_index": 2,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "它從哥德爾的筆記中發現了新的數學定理。",
+      "start_sec": 255.855,
+      "end_sec": 260.656,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/cf7ad60211a8bc4612552e4166e1e05540bcdf65c7785164623255bd1f10ada9.wav",
+      "story_index": 2,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "theorems",
+      "start_sec": 261.256,
+      "end_sec": 262.938,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/91d733de2dc4e6419382ef68612a95271a5661ae0dca4dfc857f39a62390ed09.wav",
+      "story_index": 2,
+      "sentence_id": "s05",
+      "word": "theorems"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "T, H, E, O, R, E, M, S",
+      "start_sec": 263.338,
+      "end_sec": 268.116,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ac79d68185205ea63d0b62119479396b8f123ff25277e2acbc02f07169c2d544.wav",
+      "story_index": 2,
+      "sentence_id": "s05",
+      "word": "theorems"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "theorems",
+      "start_sec": 268.516,
+      "end_sec": 270.198,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/91d733de2dc4e6419382ef68612a95271a5661ae0dca4dfc857f39a62390ed09.wav",
+      "story_index": 2,
+      "sentence_id": "s05",
+      "word": "theorems"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，定理。",
+      "start_sec": 270.598,
+      "end_sec": 273.798,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/1f9fc512c704e94f97c197666ebe544be88f7ad36bbb1a9be271518b44b8e791.wav",
+      "story_index": 2,
+      "sentence_id": "s05",
+      "word": "theorems"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "第 3 則新聞：華爾街因對人工智慧發展的擔憂而下跌",
+      "start_sec": 275.698,
+      "end_sec": 281.259,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ccc8cb446e2d0f420f46d64a4306bce325c75ed86f8bbf9a7c1091430f26d410.wav",
+      "story_index": 3
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Wall Street stock markets closed lower yesterday.",
+      "start_sec": 281.859,
+      "end_sec": 285.854,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/39b5eaa912812937e11a9fe2432d11e53ba26fdfe4ff02cdb9b1481f8d49c37b.wav",
+      "story_index": 3,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "華爾街股市昨日收盤走低。",
+      "start_sec": 286.654,
+      "end_sec": 290.094,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/38dff1c1e33ec528f939443e7f99ed300e9af7f40e3508acbf8f0e24669e8115.wav",
+      "story_index": 3,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Chip company shares faced significant selling pressure.",
+      "start_sec": 290.694,
+      "end_sec": 295.995,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/1c8f8b7adaeeb4c2ea881b3e133bf8bb48f3fe7c789c9afa34334cc7007e3d77.wav",
+      "story_index": 3,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "晶片公司股票面臨顯著的拋售壓力。",
+      "start_sec": 296.795,
+      "end_sec": 300.836,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/cd95de15cbaae96af39aac5fe135ca048ed6b4a43ffb4f76d73d056c2f02a693.wav",
+      "story_index": 3,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "significant",
+      "start_sec": 301.436,
+      "end_sec": 303.211,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/d5dd84f272a6867da92f24b1548b97b7d8939a2c2a5b2aa8737d30ea28c06f0f.wav",
+      "story_index": 3,
+      "sentence_id": "s02",
+      "word": "significant"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "S, I, G, N, I, F, I, C, A, N, T",
+      "start_sec": 303.611,
+      "end_sec": 309.146,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ebd2954b3c1be838d6465ea258f379ca215374ca8074dc795cba13c5e69f72a6.wav",
+      "story_index": 3,
+      "sentence_id": "s02",
+      "word": "significant"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "significant",
+      "start_sec": 309.546,
+      "end_sec": 311.321,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/d5dd84f272a6867da92f24b1548b97b7d8939a2c2a5b2aa8737d30ea28c06f0f.wav",
+      "story_index": 3,
+      "sentence_id": "s02",
+      "word": "significant"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，顯著的；重要的。",
+      "start_sec": 311.721,
+      "end_sec": 316.202,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/898be8a2f9a53313fe8ce1125214114bf1cb592cf6cee9672606bc4fc3b167ad.wav",
+      "story_index": 3,
+      "sentence_id": "s02",
+      "word": "significant"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Concerns about rapid AI development affected investor confidence.",
+      "start_sec": 316.602,
+      "end_sec": 322.189,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a32dbd93ed240d852c99ab6910e6886594ea7ff463ff2b0d061951e0d08a790f.wav",
+      "story_index": 3,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "對人工智慧快速發展的擔憂影響了投資者信心。",
+      "start_sec": 322.989,
+      "end_sec": 327.59,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/7ff71d523e56a295294b7c2ae0d9d468f17494088374cf04c2b3ccac0b97ba90.wav",
+      "story_index": 3,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "concerns",
+      "start_sec": 328.19,
+      "end_sec": 330.208,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/8a9cfbcb510d154aae43c9e9a300bd454391909412564ff543c0886fa7666b17.wav",
+      "story_index": 3,
+      "sentence_id": "s03",
+      "word": "concerns"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "C, O, N, C, E, R, N, S",
+      "start_sec": 330.608,
+      "end_sec": 338.028,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9da30f1fe270d87d5e139ef5c8b6f07ed4ec47c38bd47d9051d350c69a0d2782.wav",
+      "story_index": 3,
+      "sentence_id": "s03",
+      "word": "concerns"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "concerns",
+      "start_sec": 338.428,
+      "end_sec": 340.446,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/8a9cfbcb510d154aae43c9e9a300bd454391909412564ff543c0886fa7666b17.wav",
+      "story_index": 3,
+      "sentence_id": "s03",
+      "word": "concerns"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，擔憂；顧慮。",
+      "start_sec": 340.846,
+      "end_sec": 343.966,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f6301182c304906fe06c147f34893aee1da6d920fb9a29728c4e4ac28a9f1b1a.wav",
+      "story_index": 3,
+      "sentence_id": "s03",
+      "word": "concerns"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Some industry leaders proposed a slower pace for AI progress.",
+      "start_sec": 344.366,
+      "end_sec": 349.909,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b1f6ff59eeabe6e5e9627b6ad6839cb709b480ce0e286c8b5b13e1da7c311cd3.wav",
+      "story_index": 3,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "一些產業領袖建議放慢人工智慧發展的步調。",
+      "start_sec": 350.709,
+      "end_sec": 355.549,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/3ffa69f341f80ed7fa14a455dfe9f33bf870d6851615b43b396d79339238d625.wav",
+      "story_index": 3,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "pace",
+      "start_sec": 356.149,
+      "end_sec": 357.638,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/e3439d9af30be60711e2c167ffa63c61a8b15ae1cd47d232eb0804b6f2d598bd.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "pace"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "P, A, C, E",
+      "start_sec": 358.038,
+      "end_sec": 361.874,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/7c0a1ec416a6749b40def2bb7bd31f96976512349925960e474439b5ca34135e.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "pace"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "pace",
+      "start_sec": 362.274,
+      "end_sec": 363.763,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/e3439d9af30be60711e2c167ffa63c61a8b15ae1cd47d232eb0804b6f2d598bd.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "pace"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，步調；速度。",
+      "start_sec": 364.163,
+      "end_sec": 368.563,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/dbc8a92f89a84646a26b256dd2b2102bba37b4303088b1c5a4e789b60e9e782f.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "pace"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Major indexes like the S&P 500 saw notable drops.",
+      "start_sec": 368.963,
+      "end_sec": 374.415,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/e5aaea4afe4e22f05f06ac7f0993926a7a25386ab3d7f6418cba2ae8b7a84bcd.wav",
+      "story_index": 3,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "標準普爾 500 指數等主要指數出現顯著下跌。",
+      "start_sec": 375.215,
+      "end_sec": 380.015,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f5b2bbf20a1df1e368935dd116bcd996648c09d8de2ed73a9fa59bb5cccf1e65.wav",
+      "story_index": 3,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "drops",
+      "start_sec": 380.615,
+      "end_sec": 382.202,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/683e044f83ddf3ca35f03841b9378221fcaeb7bf2b5189725de7efc3a4e4d1af.wav",
+      "story_index": 3,
+      "sentence_id": "s05",
+      "word": "drops"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "D, R, O, P, S",
+      "start_sec": 382.602,
+      "end_sec": 386.266,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b2133240653f8f24cf26921510ae046c6b3d6225405aa147680bec5e427beee3.wav",
+      "story_index": 3,
+      "sentence_id": "s05",
+      "word": "drops"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "drops",
+      "start_sec": 386.666,
+      "end_sec": 388.253,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/683e044f83ddf3ca35f03841b9378221fcaeb7bf2b5189725de7efc3a4e4d1af.wav",
+      "story_index": 3,
+      "sentence_id": "s05",
+      "word": "drops"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，下跌；下降。",
+      "start_sec": 388.653,
+      "end_sec": 392.373,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/fd9b1776a8c239644ea2417b628eeb109c073f9e2f5c9bb77c728319ac36675f.wav",
+      "story_index": 3,
+      "sentence_id": "s05",
+      "word": "drops"
+    },
+    {
+      "type": "outro",
+      "lang": "zh",
+      "text": "最後讓我們快速複習今天學到的單字。",
+      "start_sec": 393.773,
+      "end_sec": 397.214,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/96a8c12ff414ac63850914dd9f7d466a5ac048c7088759e1aad393a3ce3e5747.wav"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "position",
+      "start_sec": 397.714,
+      "end_sec": 399.583,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/937fd0775d181a1586fddd48d33a91f0fa6ca9de0522621043b014ee117e1160.wav",
+      "word": "position"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，位置；名次。",
+      "start_sec": 399.983,
+      "end_sec": 404.584,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/931f9d3d8001960e1e8856ebf01d1b02f33b0cc3184ba5f377c10abbb2061731.wav",
+      "word": "position"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "readiness",
+      "start_sec": 404.984,
+      "end_sec": 406.806,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/aef0c7ca352c8ba2da5cac69a2fb271ea4e1f4023ddffa090566b4a6b824ba2e.wav",
+      "word": "readiness"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，準備度。",
+      "start_sec": 407.206,
+      "end_sec": 410.526,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/8e32c32b613a926e0d672f0519de307de14b1b175ab437cd157cce4344e08dd3.wav",
+      "word": "readiness"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "comprehensive",
+      "start_sec": 410.926,
+      "end_sec": 412.839,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/4c7f2f8c76aaec1de797c22cb0b59cc7e1d0c6a3fe977d583feaeff38481c8f9.wav",
+      "word": "comprehensive"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，全面的；詳盡的。",
+      "start_sec": 413.239,
+      "end_sec": 417.16,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ae9242cdf5a15ab78bbd9e21577a2bb027355f1f6a5acf0a065d527f9071092b.wav",
+      "word": "comprehensive"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "notably",
+      "start_sec": 417.56,
+      "end_sec": 419.242,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b1e4b586fc46a9e1c5b7e34faec5bc144846d94db4e4a53dc935b1591df09d25.wav",
+      "word": "notably"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，顯著地；尤其。",
+      "start_sec": 419.642,
+      "end_sec": 424.043,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/85af5031f6ba496775284c4509e34447d267b54507a2afeb3ba36bfbb1fb45c0.wav",
+      "word": "notably"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "researchers",
+      "start_sec": 424.443,
+      "end_sec": 426.211,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/1af631b164374bd6432c3a77645ce8d04bee8d23d0fbb587a16faea66e57ca53.wav",
+      "word": "researchers"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，研究人員。",
+      "start_sec": 426.611,
+      "end_sec": 430.172,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ad9798f164cf464bfee77919166b6fdfbf10f21a7e1466279df2cf50cede3a94.wav",
+      "word": "researchers"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "complex",
+      "start_sec": 430.572,
+      "end_sec": 432.338,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/27e8d348c5eeafcc94847c24f53495f6e5279adeaf6a6ddab50336c70930a3cf.wav",
+      "word": "complex"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，複雜的。",
+      "start_sec": 432.738,
+      "end_sec": 435.939,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/6048076db424f0485456ba6814d6c64eb22e6daed8edee00227e164b2b2bd977.wav",
+      "word": "complex"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "struggled",
+      "start_sec": 436.339,
+      "end_sec": 438.019,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5d4934cfb60a15f54311d04de4c2381e015814cc926dbcbc60a936af969ae4e0.wav",
+      "word": "struggled"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，努力；掙扎。",
+      "start_sec": 438.419,
+      "end_sec": 442.66,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/cc012d99f31d96eb2e3edc370e2d3d768667161f2be82b1a0b04d574af1231cd.wav",
+      "word": "struggled"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "theorems",
+      "start_sec": 443.06,
+      "end_sec": 444.742,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/91d733de2dc4e6419382ef68612a95271a5661ae0dca4dfc857f39a62390ed09.wav",
+      "word": "theorems"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，定理。",
+      "start_sec": 445.142,
+      "end_sec": 448.343,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/1f9fc512c704e94f97c197666ebe544be88f7ad36bbb1a9be271518b44b8e791.wav",
+      "word": "theorems"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "significant",
+      "start_sec": 448.743,
+      "end_sec": 450.518,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/d5dd84f272a6867da92f24b1548b97b7d8939a2c2a5b2aa8737d30ea28c06f0f.wav",
+      "word": "significant"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，顯著的；重要的。",
+      "start_sec": 450.918,
+      "end_sec": 455.399,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/898be8a2f9a53313fe8ce1125214114bf1cb592cf6cee9672606bc4fc3b167ad.wav",
+      "word": "significant"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "concerns",
+      "start_sec": 455.799,
+      "end_sec": 457.817,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/8a9cfbcb510d154aae43c9e9a300bd454391909412564ff543c0886fa7666b17.wav",
+      "word": "concerns"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，擔憂；顧慮。",
+      "start_sec": 458.217,
+      "end_sec": 461.337,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f6301182c304906fe06c147f34893aee1da6d920fb9a29728c4e4ac28a9f1b1a.wav",
+      "word": "concerns"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "pace",
+      "start_sec": 461.737,
+      "end_sec": 463.226,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/e3439d9af30be60711e2c167ffa63c61a8b15ae1cd47d232eb0804b6f2d598bd.wav",
+      "word": "pace"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，步調；速度。",
+      "start_sec": 463.626,
+      "end_sec": 468.026,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/dbc8a92f89a84646a26b256dd2b2102bba37b4303088b1c5a4e789b60e9e782f.wav",
+      "word": "pace"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "drops",
+      "start_sec": 468.426,
+      "end_sec": 470.013,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/683e044f83ddf3ca35f03841b9378221fcaeb7bf2b5189725de7efc3a4e4d1af.wav",
+      "word": "drops"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，下跌；下降。",
+      "start_sec": 470.413,
+      "end_sec": 474.133,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/fd9b1776a8c239644ea2417b628eeb109c073f9e2f5c9bb77c728319ac36675f.wav",
+      "word": "drops"
+    },
+    {
+      "type": "outro",
+      "lang": "en",
+      "text": "Thanks for listening to NEWS IN 10. See you tomorrow!",
+      "start_sec": 474.533,
+      "end_sec": 478.666,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/8ad249f376a23a4cbbf58f606f65845bb1776f86978a4803799b18a1390cf4d3.wav"
+    },
+    {
+      "type": "outro",
+      "lang": "zh",
+      "text": "感謝收聽 NEWS IN 10，我們明天見。",
+      "start_sec": 479.066,
+      "end_sec": 482.106,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/dcfa8d1f94019496e8a2ebe1525c7d9693ecc76c8b44fafc49f20caf499d410f.wav"
+    }
+  ]
+}
