@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-18",
+  "title_en": "NEWS IN 10 — Nov 18",
+  "title_zh": "NEWS IN 10 每日新聞英語｜11 月 18 日",
+  "stories": [
+    {
+      "topic": "AI 發展",
+      "headline_en": "Collins Dictionary Names 'AI' as 2023 Word of the Year",
+      "headline_zh": "柯林斯詞典將「AI」選為 2023 年度代表字",
+      "sources": [
+        "https://www.collinsdictionary.com/woty",
+        "https://www.bbc.com/news/uk-67341052"
+      ],
+      "sentences": [
+        {
+          "id": "s01",
+          "en": "Collins Dictionary has chosen 'AI' as its Word of the Year for 2023.",
+          "zh": "柯林斯詞典將「AI」選為 2023 年的年度代表字。",
+          "vocab": [
+            {
+              "word": "dictionary",
+              "ipa": "/dˈɪkʃənˌɛɹi/",
+              "pos": "n.",
+              "zh": "詞典"
+            }
+          ]
+        },
+        {
+          "id": "s02",
+          "en": "This choice reflects the rapid rise of artificial intelligence.",
+          "zh": "這項選擇反映了人工智慧的迅速崛起。",
+          "vocab": []
+        },
+        {
+          "id": "s03",
+          "en": "AI is now a major topic in daily conversations and news.",
+          "zh": "人工智慧如今已成為日常對話和新聞中的主要話題。",
+          "vocab": []
+        },
+        {
+          "id": "s04",
+          "en": "Experts discuss AI's impact on work, creativity, and society.",
+          "zh": "專家們討論人工智慧對工作、創造力和社會的影響。",
+          "vocab": []
+        },
+        {
+          "id": "s05",
+          "en": "The word highlights the ongoing debate about machines and people.",
+          "zh": "這個字凸顯了機器與人類之間持續進行的辯論。",
+          "vocab": [
+            {
+              "word": "debate",
+              "ipa": "/dəbˈeɪt/",
+              "pos": "n.",
+              "zh": "辯論"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "臺灣",
+      "headline_en": "Taiwan's Stock Market Falls Amid AI Concerns (Oct 2023)",
+      "headline_zh": "臺灣股市因人工智慧疑慮而下跌 (2023 年 10 月)",
+      "sources": [
+        "https://focustaiwan.tw/business/202310260010",
+        "https://www.taipeitimes.com/News/biz/archives/2023/10/27/2003808168"
+      ],
+      "sentences": [
+        {
+          "id": "s01",
+          "en": "The Taiwan Stock Exchange (TAIEX) closed lower on October 26, 2023.",
+          "zh": "臺灣證券交易所（TAIEX）於 2023 年 10 月 26 日收低。",
+          "vocab": [
+            {
+              "word": "exchange",
+              "ipa": "/ɪkstʃˈeɪndʒ/",
+              "pos": "n.",
+              "zh": "交易所"
+            }
+          ]
+        },
+        {
+          "id": "s02",
+          "en": "This drop was due to worries about AI development.",
+          "zh": "這次下跌是受到對人工智慧發展的擔憂影響。",
+          "vocab": []
+        },
+        {
+          "id": "s03",
+          "en": "The TAIEX fell by 1.64 percent, reaching 16,073.97 points.",
+          "zh": "臺灣加權指數下跌 1.64%，收在 16,073.97 點。",
+          "vocab": []
+        },
+        {
+          "id": "s04",
+          "en": "Major chipmakers like TSMC also saw their shares drop.",
+          "zh": "臺積電等主要晶片製造商的股價也出現下跌。",
+          "vocab": [
+            {
+              "word": "chipmakers",
+              "ipa": "/tʃˈɪpmˌeɪkɚz/",
+              "pos": "n.",
+              "zh": "晶片製造商"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "財經",
+      "headline_en": "Nvidia Reports Strong Q3 FY2025 Revenue, Exceeding Expectations",
+      "headline_zh": "輝達公布 2025 財年第三季營收強勁，超出預期",
+      "sources": [
+        "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2025",
+        "https://www.cnbc.com/2024/11/20/nvidia-nvda-earnings-q3-2025.html"
+      ],
+      "sentences": [
+        {
+          "id": "s01",
+          "en": "American chip company Nvidia announced its third-quarter FY2025 revenue.",
+          "zh": "美國晶片公司輝達公布了其 2025 財年第三季營收。",
+          "vocab": [
+            {
+              "word": "revenue",
+              "ipa": "/ɹˈɛvənˌu/",
+              "pos": "n.",
+              "zh": "營收"
+            }
+          ]
+        },
+        {
+          "id": "s02",
+          "en": "The company's revenue reached over $35.1 billion.",
+          "zh": "該公司營收達到超過 351 億美元。",
+          "vocab": []
+        },
+        {
+          "id": "s03",
+          "en": "This figure greatly exceeded analysts' expectations.",
+          "zh": "這個數字大幅超出了分析師的預期。",
+          "vocab": [
+            {
+              "word": "exceeded",
+              "ipa": "/ɪksˈidəd/",
+              "pos": "v.",
+              "zh": "超出"
+            }
+          ]
+        },
+        {
+          "id": "s04",
+          "en": "Nvidia also raised its revenue forecast for the next quarter.",
+          "zh": "輝達也提高了對下一季營收的預測。",
+          "vocab": [
+            {
+              "word": "forecast",
+              "ipa": "/fˈɔɹkˌæst/",
+              "pos": "n.",
+              "zh": "預測"
+            }
+          ]
+        },
+        {
+          "id": "s05",
+          "en": "Its stock rose after the positive earnings report.",
+          "zh": "在這份正面的財報公布後，其股價上漲。",
+          "vocab": [
+            {
+              "word": "earnings",
+              "ipa": "/ˈɝnɪŋz/",
+              "pos": "n.",
+              "zh": "財報"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

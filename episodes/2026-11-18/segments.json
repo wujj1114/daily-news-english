@@ -1,0 +1,851 @@
+{
+  "date": "2026-11-18",
+  "total_duration_sec": 381.99,
+  "cache_hits": 34,
+  "cache_misses": 50,
+  "segments": [
+    {
+      "type": "intro",
+      "lang": "en",
+      "text": "Welcome to NEWS IN 10 — Nov 18.",
+      "start_sec": 0.0,
+      "end_sec": 4.415,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/69669c1d48603cd78c3904c2efa401ddb31eed255f47b24578f2d147fda53aa7.wav"
+    },
+    {
+      "type": "intro",
+      "lang": "zh",
+      "text": "歡迎收聽 NEWS IN 10 每日新聞英語｜11 月 18 日。",
+      "start_sec": 4.815,
+      "end_sec": 11.226,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a78de59175614ca354fd01ca05f6269a540f00f4393e854855f3314e51d167d2.wav"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "第 1 則新聞：柯林斯詞典將「AI」選為 2023 年度代表字",
+      "start_sec": 12.226,
+      "end_sec": 18.146,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/2d9719145b1f93060a4ab392dedcbfc4be788e991abeba966c446d1ef62fbc9e.wav",
+      "story_index": 1
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Collins Dictionary has chosen 'AI' as its Word of the Year for 2023.",
+      "start_sec": 18.746,
+      "end_sec": 25.565,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/8d8e75a520c4a5b477245b2990abac908051376d5c160e185198e88edcd9f46d.wav",
+      "story_index": 1,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "柯林斯詞典將「AI」選為 2023 年的年度代表字。",
+      "start_sec": 26.365,
+      "end_sec": 32.526,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/4942b37534de2617502ae3629d99a5ef9f6cddae3f90ac59f726bf368b3c2489.wav",
+      "story_index": 1,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "dictionary",
+      "start_sec": 33.126,
+      "end_sec": 34.908,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9c02716af9a0f3db59783088b7b1ef7e94d33f14977c64eba1e6102bc95b4612.wav",
+      "story_index": 1,
+      "sentence_id": "s01",
+      "word": "dictionary"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "D, I, C, T, I, O, N, A, R, Y",
+      "start_sec": 35.308,
+      "end_sec": 47.759,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/257066892697bbbd0f3ff8a19aaa2851e1a5a61f1686155cedf12ad64f3d8819.wav",
+      "story_index": 1,
+      "sentence_id": "s01",
+      "word": "dictionary"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "dictionary",
+      "start_sec": 48.159,
+      "end_sec": 49.941,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9c02716af9a0f3db59783088b7b1ef7e94d33f14977c64eba1e6102bc95b4612.wav",
+      "story_index": 1,
+      "sentence_id": "s01",
+      "word": "dictionary"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，詞典。",
+      "start_sec": 50.341,
+      "end_sec": 53.662,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5c7d131593c42606149a16b0ae494ca5290ca9f7d862696d89cfd4dce94bde9f.wav",
+      "story_index": 1,
+      "sentence_id": "s01",
+      "word": "dictionary"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "This choice reflects the rapid rise of artificial intelligence.",
+      "start_sec": 54.062,
+      "end_sec": 59.177,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/7a0ebcabfcc9ca185a9af3aadcefeacece8c8cb9de26f6c2c733437bdb41f305.wav",
+      "story_index": 1,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這項選擇反映了人工智慧的迅速崛起。",
+      "start_sec": 59.977,
+      "end_sec": 64.578,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0ae84057d28683bd23553eb536d5505d82b495940b16258484c67404cdb365a3.wav",
+      "story_index": 1,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "AI is now a major topic in daily conversations and news.",
+      "start_sec": 65.178,
+      "end_sec": 71.143,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0fd8b2ea4532562fa6d7d78dff9f2700f5442b7e983730ba9e6a5f105d5ea621.wav",
+      "story_index": 1,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "人工智慧如今已成為日常對話和新聞中的主要話題。",
+      "start_sec": 71.943,
+      "end_sec": 77.424,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/bb568454047d8136d543a53b9ce87662a99f589f1f4acb450cf10b8493d11114.wav",
+      "story_index": 1,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Experts discuss AI's impact on work, creativity, and society.",
+      "start_sec": 78.024,
+      "end_sec": 83.798,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/95c9f89bd95104d9d052dd3496b257852616923fd3cebecdd463ed1680718902.wav",
+      "story_index": 1,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "專家們討論人工智慧對工作、創造力和社會的影響。",
+      "start_sec": 84.598,
+      "end_sec": 90.478,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/1bec67d3a944e207d934d59d0e47057526a83732a179c26e7bfa271f4899b03b.wav",
+      "story_index": 1,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "The word highlights the ongoing debate about machines and people.",
+      "start_sec": 91.078,
+      "end_sec": 96.705,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0fb8c85127cc11c24b472551ad7aac96943a22934d70c6a026aa2db01c696910.wav",
+      "story_index": 1,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這個字凸顯了機器與人類之間持續進行的辯論。",
+      "start_sec": 97.505,
+      "end_sec": 102.146,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/3c0d537608eb8ea191b4f7ec78b622812311fba047071f5b89b2bc170bfee68d.wav",
+      "story_index": 1,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "debate",
+      "start_sec": 102.746,
+      "end_sec": 104.429,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/7101f2f96d84774ad0a61fb42c2f82d6c6b11730044c3e6d9901803a7260a283.wav",
+      "story_index": 1,
+      "sentence_id": "s05",
+      "word": "debate"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "D, E, B, A, T, E",
+      "start_sec": 104.829,
+      "end_sec": 110.268,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/7ccf44f9057c4cdb5a7f1462668dc302a6e224848b42ebaac4a13e4494de04c6.wav",
+      "story_index": 1,
+      "sentence_id": "s05",
+      "word": "debate"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "debate",
+      "start_sec": 110.668,
+      "end_sec": 112.351,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/7101f2f96d84774ad0a61fb42c2f82d6c6b11730044c3e6d9901803a7260a283.wav",
+      "story_index": 1,
+      "sentence_id": "s05",
+      "word": "debate"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，辯論。",
+      "start_sec": 112.751,
+      "end_sec": 115.712,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/fc92025f5c8880130939d544cbc1f223071118a7d9940be649b5461a10d5d1bb.wav",
+      "story_index": 1,
+      "sentence_id": "s05",
+      "word": "debate"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "第 2 則新聞：臺灣股市因人工智慧疑慮而下跌 (2023 年 10 月)",
+      "start_sec": 117.612,
+      "end_sec": 123.812,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/808e77bef56ae62900e1152b1dbdefe6ea3f6943e244bd5e7207d0c463696e1b.wav",
+      "story_index": 2
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "The Taiwan Stock Exchange (TAIEX) closed lower on October 26, 2023.",
+      "start_sec": 124.412,
+      "end_sec": 132.441,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b246b8eb7f08bc2da14496141713d493951e17d1cbd613e92a772aef61dc8b1b.wav",
+      "story_index": 2,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "臺灣證券交易所（TAIEX）於 2023 年 10 月 26 日收低。",
+      "start_sec": 133.241,
+      "end_sec": 139.122,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/73888b0e64b1ac2a2d00b7a8def259c54f4bba1838d036209eddfc188a3397ab.wav",
+      "story_index": 2,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "exchange",
+      "start_sec": 139.722,
+      "end_sec": 141.444,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/31c067aa1444c467c3997df023bc314beb92bcf193e48bd44e1ca46a91793634.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "exchange"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "E, X, C, H, A, N, G, E",
+      "start_sec": 141.844,
+      "end_sec": 150.727,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ad4927be6a5edd44f489aa4933e640462e4f191d7b57291cc03c15aa50fb21d3.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "exchange"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "exchange",
+      "start_sec": 151.127,
+      "end_sec": 152.85,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/31c067aa1444c467c3997df023bc314beb92bcf193e48bd44e1ca46a91793634.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "exchange"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，交易所。",
+      "start_sec": 153.25,
+      "end_sec": 156.49,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/cebf569e2eb731d0f259b60018ab8304ae2c02ff4fcf66e1ed4e847c17211256.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "exchange"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "This drop was due to worries about AI development.",
+      "start_sec": 156.89,
+      "end_sec": 161.623,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/026cbc5fe8199d9d1d919518590f1b2143a4b0cbe484dcd16a19f8d3266881c1.wav",
+      "story_index": 2,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這次下跌是受到對人工智慧發展的擔憂影響。",
+      "start_sec": 162.423,
+      "end_sec": 166.704,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9c0c1e3294354b8097f7eec37d644c64fde70a8dd2e319b3372131971e7815b7.wav",
+      "story_index": 2,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "The TAIEX fell by 1.64 percent, reaching 16,073.97 points.",
+      "start_sec": 167.304,
+      "end_sec": 176.366,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ca272637ed2333dadb97459edc162ec4650df727c507fd6717eb02c9587cd226.wav",
+      "story_index": 2,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "臺灣加權指數下跌 1.64%，收在 16,073.97 點。",
+      "start_sec": 177.166,
+      "end_sec": 183.446,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0c82204b8361479aa11f920ad26160de7a1b5d60373e65eab3117b5d4e6b67fc.wav",
+      "story_index": 2,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Major chipmakers like TSMC also saw their shares drop.",
+      "start_sec": 184.046,
+      "end_sec": 189.205,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b5f017cd82e4e081173dc2bdec79a354a2b435819435460e61fff6963a85cc56.wav",
+      "story_index": 2,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "臺積電等主要晶片製造商的股價也出現下跌。",
+      "start_sec": 190.005,
+      "end_sec": 194.926,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/d5a3cee4d465fb3cc37b81fdd6af24b34aa9d131d248e699e38518642c9767d2.wav",
+      "story_index": 2,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "chipmakers",
+      "start_sec": 195.526,
+      "end_sec": 197.293,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9674ced19bd3100a3c45c1d46cd1ec625f76580f3e52dff1212c57dd88837675.wav",
+      "story_index": 2,
+      "sentence_id": "s04",
+      "word": "chipmakers"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "C, H, I, P, M, A, K, E, R, S",
+      "start_sec": 197.693,
+      "end_sec": 204.411,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/69b498c114fdaf7c9ed0cdab23c5162e8b0d15b8989d8ec376d6b7924341cc28.wav",
+      "story_index": 2,
+      "sentence_id": "s04",
+      "word": "chipmakers"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "chipmakers",
+      "start_sec": 204.811,
+      "end_sec": 206.578,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9674ced19bd3100a3c45c1d46cd1ec625f76580f3e52dff1212c57dd88837675.wav",
+      "story_index": 2,
+      "sentence_id": "s04",
+      "word": "chipmakers"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，晶片製造商。",
+      "start_sec": 206.978,
+      "end_sec": 211.099,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9d66310d73076a89ebfc8f321a9242d4e01280ef2e763b84f48eddc887bb7666.wav",
+      "story_index": 2,
+      "sentence_id": "s04",
+      "word": "chipmakers"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "第 3 則新聞：輝達公布 2025 財年第三季營收強勁，超出預期",
+      "start_sec": 212.999,
+      "end_sec": 219.84,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/eeb7b68b91ca8369fd835eab5a00225d44ca26c91b57415b3c90e282945f6d3f.wav",
+      "story_index": 3
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "American chip company Nvidia announced its third-quarter FY2025 revenue.",
+      "start_sec": 220.44,
+      "end_sec": 228.517,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a1f1622a4e2cb95738b1af590d98e3091db1e4daa512a5486e7bd85a37e804df.wav",
+      "story_index": 3,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "美國晶片公司輝達公布了其 2025 財年第三季營收。",
+      "start_sec": 229.317,
+      "end_sec": 235.038,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c5de9e6b07512421885a7e446b67f70e26400a522b7ceb8d1a8fa673cfc06661.wav",
+      "story_index": 3,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "revenue",
+      "start_sec": 235.638,
+      "end_sec": 237.27,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b71ad9a5be5ed513afb52ec158e8a6cd84b0c5c885dc4155bd2aa941f0e6befa.wav",
+      "story_index": 3,
+      "sentence_id": "s01",
+      "word": "revenue"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "R, E, V, E, N, U, E",
+      "start_sec": 237.67,
+      "end_sec": 244.236,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/02a76198d6a96f43df1a0eecd03fdf78738b4de3b6410ebb7efe9750fe16a4dc.wav",
+      "story_index": 3,
+      "sentence_id": "s01",
+      "word": "revenue"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "revenue",
+      "start_sec": 244.636,
+      "end_sec": 246.269,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b71ad9a5be5ed513afb52ec158e8a6cd84b0c5c885dc4155bd2aa941f0e6befa.wav",
+      "story_index": 3,
+      "sentence_id": "s01",
+      "word": "revenue"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，營收。",
+      "start_sec": 246.669,
+      "end_sec": 249.989,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/3afc2d711f74fa415d556806ccc22905ed6ae4a3a6d17e14ff51d37f6d7e9a64.wav",
+      "story_index": 3,
+      "sentence_id": "s01",
+      "word": "revenue"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "The company's revenue reached over $35.1 billion.",
+      "start_sec": 250.389,
+      "end_sec": 256.486,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/111277a940fe3c5c94ff2d2d17bbd774bfaf126ed3e87f90311c64d66fda2c93.wav",
+      "story_index": 3,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "該公司營收達到超過 351 億美元。",
+      "start_sec": 257.286,
+      "end_sec": 261.646,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/99f4e22c2b234defd001538cc89b7c0f923f3350fd06de70e67c9fb797033918.wav",
+      "story_index": 3,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "This figure greatly exceeded analysts' expectations.",
+      "start_sec": 262.246,
+      "end_sec": 267.078,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/4db1c7359f58ea3ec510ce2492a7431bff34bfef8a9e404253939d341ef0504a.wav",
+      "story_index": 3,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這個數字大幅超出了分析師的預期。",
+      "start_sec": 267.878,
+      "end_sec": 272.119,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/3f0c110384a1de9ddcef91fcf118b2e4db3b8019f0265359a5d5524416223a80.wav",
+      "story_index": 3,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "exceeded",
+      "start_sec": 272.719,
+      "end_sec": 274.163,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a8b35d9e343dbff8c72fcf3fc540d9a994bebfb77974f91a07ea7f129dcd891e.wav",
+      "story_index": 3,
+      "sentence_id": "s03",
+      "word": "exceeded"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "E, X, C, E, E, D, E, D",
+      "start_sec": 274.563,
+      "end_sec": 276.207,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/48dbf76dbcbeb09ecec105ad4e82a3482912a4f6cd2b1fcd32cdf34eb0901f2e.wav",
+      "story_index": 3,
+      "sentence_id": "s03",
+      "word": "exceeded"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "exceeded",
+      "start_sec": 276.607,
+      "end_sec": 278.051,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a8b35d9e343dbff8c72fcf3fc540d9a994bebfb77974f91a07ea7f129dcd891e.wav",
+      "story_index": 3,
+      "sentence_id": "s03",
+      "word": "exceeded"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，超出。",
+      "start_sec": 278.451,
+      "end_sec": 282.252,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/7f4287334c96aaf49a73e10dde1a81fa1ac5732c40a86ccd257d93050b9dc08c.wav",
+      "story_index": 3,
+      "sentence_id": "s03",
+      "word": "exceeded"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Nvidia also raised its revenue forecast for the next quarter.",
+      "start_sec": 282.652,
+      "end_sec": 287.337,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/30b340a442030468aba82cb82948b884af75c19e3e44c3541d5ebe8b398b1710.wav",
+      "story_index": 3,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "輝達也提高了對下一季營收的預測。",
+      "start_sec": 288.137,
+      "end_sec": 291.938,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/6d52ea6ae08fb681eb3692c76c1f5ee77614790be5a3d3b15a7b23173cc6376a.wav",
+      "story_index": 3,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "forecast",
+      "start_sec": 292.538,
+      "end_sec": 293.889,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/144e58d929aa154f78a570ff24ebb9fe8d2f43961d41d8b7b0de5cde108dfa28.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "forecast"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "F, O, R, E, C, A, S, T",
+      "start_sec": 294.289,
+      "end_sec": 295.845,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/628945215ef1f88b9ee14129ceca24529e5e4eab80f0c7835caaf71ba9d09484.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "forecast"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "forecast",
+      "start_sec": 296.245,
+      "end_sec": 297.597,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/144e58d929aa154f78a570ff24ebb9fe8d2f43961d41d8b7b0de5cde108dfa28.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "forecast"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，預測。",
+      "start_sec": 297.997,
+      "end_sec": 301.008,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/16e9b1fb2c913e8514b031ed14bb09f972474e1101bb09635e42a7c0b70ddf10.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "forecast"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Its stock rose after the positive earnings report.",
+      "start_sec": 301.408,
+      "end_sec": 305.669,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/23eaafa7f0b77a671f1fb41cdd4b1297ba28a789362ad8bb3e45461af2eff183.wav",
+      "story_index": 3,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "在這份正面的財報公布後，其股價上漲。",
+      "start_sec": 306.469,
+      "end_sec": 310.35,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a815e659508ec414933eea934415e01813c4c1aefb9debca358b21e89c5774f3.wav",
+      "story_index": 3,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "earnings",
+      "start_sec": 310.95,
+      "end_sec": 312.537,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5509f8a928be1985ef50e0f436e83486cc55d273a34b47ed9e9c48d2aa5e441c.wav",
+      "story_index": 3,
+      "sentence_id": "s05",
+      "word": "earnings"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "E, A, R, N, I, N, G, S",
+      "start_sec": 312.937,
+      "end_sec": 317.624,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/13f7b5b76793f50224d8217ac641713ec1317b50438133e76e5fc1ba73d835cd.wav",
+      "story_index": 3,
+      "sentence_id": "s05",
+      "word": "earnings"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "earnings",
+      "start_sec": 318.024,
+      "end_sec": 319.611,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5509f8a928be1985ef50e0f436e83486cc55d273a34b47ed9e9c48d2aa5e441c.wav",
+      "story_index": 3,
+      "sentence_id": "s05",
+      "word": "earnings"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，財報。",
+      "start_sec": 320.011,
+      "end_sec": 322.971,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/cc46ad6e77e2c5a600d1d66db448944c3f5cae055b667cd767213ba730562315.wav",
+      "story_index": 3,
+      "sentence_id": "s05",
+      "word": "earnings"
+    },
+    {
+      "type": "outro",
+      "lang": "zh",
+      "text": "最後讓我們快速複習今天學到的單字。",
+      "start_sec": 324.371,
+      "end_sec": 327.812,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/96a8c12ff414ac63850914dd9f7d466a5ac048c7088759e1aad393a3ce3e5747.wav"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "dictionary",
+      "start_sec": 328.312,
+      "end_sec": 330.094,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9c02716af9a0f3db59783088b7b1ef7e94d33f14977c64eba1e6102bc95b4612.wav",
+      "word": "dictionary"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，詞典。",
+      "start_sec": 330.494,
+      "end_sec": 333.815,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5c7d131593c42606149a16b0ae494ca5290ca9f7d862696d89cfd4dce94bde9f.wav",
+      "word": "dictionary"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "debate",
+      "start_sec": 334.215,
+      "end_sec": 335.898,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/7101f2f96d84774ad0a61fb42c2f82d6c6b11730044c3e6d9901803a7260a283.wav",
+      "word": "debate"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，辯論。",
+      "start_sec": 336.298,
+      "end_sec": 339.258,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/fc92025f5c8880130939d544cbc1f223071118a7d9940be649b5461a10d5d1bb.wav",
+      "word": "debate"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "exchange",
+      "start_sec": 339.658,
+      "end_sec": 341.381,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/31c067aa1444c467c3997df023bc314beb92bcf193e48bd44e1ca46a91793634.wav",
+      "word": "exchange"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，交易所。",
+      "start_sec": 341.781,
+      "end_sec": 345.021,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/cebf569e2eb731d0f259b60018ab8304ae2c02ff4fcf66e1ed4e847c17211256.wav",
+      "word": "exchange"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "chipmakers",
+      "start_sec": 345.421,
+      "end_sec": 347.189,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9674ced19bd3100a3c45c1d46cd1ec625f76580f3e52dff1212c57dd88837675.wav",
+      "word": "chipmakers"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，晶片製造商。",
+      "start_sec": 347.589,
+      "end_sec": 351.709,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9d66310d73076a89ebfc8f321a9242d4e01280ef2e763b84f48eddc887bb7666.wav",
+      "word": "chipmakers"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "revenue",
+      "start_sec": 352.109,
+      "end_sec": 353.742,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b71ad9a5be5ed513afb52ec158e8a6cd84b0c5c885dc4155bd2aa941f0e6befa.wav",
+      "word": "revenue"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，營收。",
+      "start_sec": 354.142,
+      "end_sec": 357.462,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/3afc2d711f74fa415d556806ccc22905ed6ae4a3a6d17e14ff51d37f6d7e9a64.wav",
+      "word": "revenue"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "exceeded",
+      "start_sec": 357.862,
+      "end_sec": 359.306,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a8b35d9e343dbff8c72fcf3fc540d9a994bebfb77974f91a07ea7f129dcd891e.wav",
+      "word": "exceeded"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，超出。",
+      "start_sec": 359.706,
+      "end_sec": 363.507,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/7f4287334c96aaf49a73e10dde1a81fa1ac5732c40a86ccd257d93050b9dc08c.wav",
+      "word": "exceeded"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "forecast",
+      "start_sec": 363.907,
+      "end_sec": 365.258,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/144e58d929aa154f78a570ff24ebb9fe8d2f43961d41d8b7b0de5cde108dfa28.wav",
+      "word": "forecast"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，預測。",
+      "start_sec": 365.658,
+      "end_sec": 368.669,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/16e9b1fb2c913e8514b031ed14bb09f972474e1101bb09635e42a7c0b70ddf10.wav",
+      "word": "forecast"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "earnings",
+      "start_sec": 369.069,
+      "end_sec": 370.656,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5509f8a928be1985ef50e0f436e83486cc55d273a34b47ed9e9c48d2aa5e441c.wav",
+      "word": "earnings"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，財報。",
+      "start_sec": 371.056,
+      "end_sec": 374.017,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/cc46ad6e77e2c5a600d1d66db448944c3f5cae055b667cd767213ba730562315.wav",
+      "word": "earnings"
+    },
+    {
+      "type": "outro",
+      "lang": "en",
+      "text": "Thanks for listening to NEWS IN 10. See you tomorrow!",
+      "start_sec": 374.417,
+      "end_sec": 378.549,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/8ad249f376a23a4cbbf58f606f65845bb1776f86978a4803799b18a1390cf4d3.wav"
+    },
+    {
+      "type": "outro",
+      "lang": "zh",
+      "text": "感謝收聽 NEWS IN 10，我們明天見。",
+      "start_sec": 378.949,
+      "end_sec": 381.99,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/dcfa8d1f94019496e8a2ebe1525c7d9693ecc76c8b44fafc49f20caf499d410f.wav"
+    }
+  ]
+}
