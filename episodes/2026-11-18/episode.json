@@ -4,173 +4,181 @@
   "title_zh": "NEWS IN 10 每日新聞英語｜11 月 18 日",
   "stories": [
     {
-      "topic": "AI 發展",
-      "headline_en": "Collins Dictionary Names 'AI' as 2023 Word of the Year",
-      "headline_zh": "柯林斯詞典將「AI」選為 2023 年度代表字",
-      "sources": [
-        "https://www.collinsdictionary.com/woty",
-        "https://www.bbc.com/news/uk-67341052"
-      ],
-      "sentences": [
-        {
-          "id": "s01",
-          "en": "Collins Dictionary has chosen 'AI' as its Word of the Year for 2023.",
-          "zh": "柯林斯詞典將「AI」選為 2023 年的年度代表字。",
-          "vocab": [
-            {
-              "word": "dictionary",
-              "ipa": "/dˈɪkʃənˌɛɹi/",
-              "pos": "n.",
-              "zh": "詞典"
-            }
-          ]
-        },
-        {
-          "id": "s02",
-          "en": "This choice reflects the rapid rise of artificial intelligence.",
-          "zh": "這項選擇反映了人工智慧的迅速崛起。",
-          "vocab": []
-        },
-        {
-          "id": "s03",
-          "en": "AI is now a major topic in daily conversations and news.",
-          "zh": "人工智慧如今已成為日常對話和新聞中的主要話題。",
-          "vocab": []
-        },
-        {
-          "id": "s04",
-          "en": "Experts discuss AI's impact on work, creativity, and society.",
-          "zh": "專家們討論人工智慧對工作、創造力和社會的影響。",
-          "vocab": []
-        },
-        {
-          "id": "s05",
-          "en": "The word highlights the ongoing debate about machines and people.",
-          "zh": "這個字凸顯了機器與人類之間持續進行的辯論。",
-          "vocab": [
-            {
-              "word": "debate",
-              "ipa": "/dəbˈeɪt/",
-              "pos": "n.",
-              "zh": "辯論"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "topic": "臺灣",
-      "headline_en": "Taiwan's Stock Market Falls Amid AI Concerns (Oct 2023)",
-      "headline_zh": "臺灣股市因人工智慧疑慮而下跌 (2023 年 10 月)",
+      "headline_en": "Taiwan to Subsidize Companies Offering Shorter Workdays for Parents",
+      "headline_zh": "臺灣將補助提供家長縮短工時之企業",
       "sources": [
-        "https://focustaiwan.tw/business/202310260010",
-        "https://www.taipeitimes.com/News/biz/archives/2023/10/27/2003808168"
+        "https://focustaiwan.tw/society/202611170008",
+        "https://www.taiwannews.com.tw/en/news/6477381"
       ],
       "sentences": [
         {
           "id": "s01",
-          "en": "The Taiwan Stock Exchange (TAIEX) closed lower on October 26, 2023.",
-          "zh": "臺灣證券交易所（TAIEX）於 2023 年 10 月 26 日收低。",
+          "en": "Taiwan's labor ministry will pay companies that let working parents reduce their daily hours.",
+          "zh": "臺灣勞動部將補助讓在職家長縮短每日工時的企業。",
           "vocab": [
             {
-              "word": "exchange",
-              "ipa": "/ɪkstʃˈeɪndʒ/",
-              "pos": "n.",
-              "zh": "交易所"
+              "word": "reduce",
+              "ipa": "",
+              "pos": "v.",
+              "zh": "減少；縮短"
             }
           ]
         },
         {
           "id": "s02",
-          "en": "This drop was due to worries about AI development.",
-          "zh": "這次下跌是受到對人工智慧發展的擔憂影響。",
-          "vocab": []
+          "en": "Employers can receive up to forty-five thousand New Taiwan dollars per worker each year.",
+          "zh": "雇主每年每名員工最高可獲得新臺幣四萬五千元的補助。",
+          "vocab": [
+            {
+              "word": "employer",
+              "ipa": "",
+              "pos": "n.",
+              "zh": "雇主"
+            }
+          ]
         },
         {
           "id": "s03",
-          "en": "The TAIEX fell by 1.64 percent, reaching 16,073.97 points.",
-          "zh": "臺灣加權指數下跌 1.64%，收在 16,073.97 點。",
+          "en": "This new plan helps fathers and mothers spend more time caring for young children.",
+          "zh": "這項新方案能幫助父母有更多時間照顧年幼的孩子。",
           "vocab": []
         },
         {
           "id": "s04",
-          "en": "Major chipmakers like TSMC also saw their shares drop.",
-          "zh": "臺積電等主要晶片製造商的股價也出現下跌。",
+          "en": "Officials hope flexible schedules will encourage more families to raise kids in Taiwan.",
+          "zh": "官員希望彈性的工作時間能鼓勵更多家庭在臺灣育兒。",
           "vocab": [
             {
-              "word": "chipmakers",
-              "ipa": "/tʃˈɪpmˌeɪkɚz/",
-              "pos": "n.",
-              "zh": "晶片製造商"
+              "word": "flexible",
+              "ipa": "",
+              "pos": "adj.",
+              "zh": "彈性的；靈活的"
+            },
+            {
+              "word": "encourage",
+              "ipa": "",
+              "pos": "v.",
+              "zh": "鼓勵"
             }
           ]
         }
       ]
     },
     {
-      "topic": "財經",
-      "headline_en": "Nvidia Reports Strong Q3 FY2025 Revenue, Exceeding Expectations",
-      "headline_zh": "輝達公布 2025 財年第三季營收強勁，超出預期",
+      "topic": "生成式AI 發展",
+      "headline_en": "Google Warns Hackers Use AI Agents for Automated Cyberattacks",
+      "headline_zh": "Google 示警駭客利用 AI 代理發動自動化網路攻擊",
       "sources": [
-        "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2025",
-        "https://www.cnbc.com/2024/11/20/nvidia-nvda-earnings-q3-2025.html"
+        "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold",
+        "https://www.csoonline.com/article/4249595/google-spots-the-first-hacker-ai-system-that-finds-and-exploits-flaws-autonomously.html"
       ],
       "sentences": [
         {
-          "id": "s01",
-          "en": "American chip company Nvidia announced its third-quarter FY2025 revenue.",
-          "zh": "美國晶片公司輝達公布了其 2025 財年第三季營收。",
+          "id": "s05",
+          "en": "Google's security team warned that hackers are now using smart AI agents in attacks.",
+          "zh": "Google 資安團隊警告，駭客現在正利用智慧 AI 代理發動攻擊。",
           "vocab": [
             {
-              "word": "revenue",
-              "ipa": "/ɹˈɛvənˌu/",
+              "word": "security",
+              "ipa": "",
               "pos": "n.",
-              "zh": "營收"
+              "zh": "安全；資安"
             }
           ]
         },
         {
-          "id": "s02",
-          "en": "The company's revenue reached over $35.1 billion.",
-          "zh": "該公司營收達到超過 351 億美元。",
+          "id": "s06",
+          "en": "These automated tools can scan software updates and find weak spots without human help.",
+          "zh": "這些自動化工具能在沒有人工協助下掃描軟體更新並找出弱點。",
+          "vocab": [
+            {
+              "word": "scan",
+              "ipa": "",
+              "pos": "v.",
+              "zh": "掃描"
+            }
+          ]
+        },
+        {
+          "id": "s07",
+          "en": "In one case, a program wrote attack code right after a fix was released.",
+          "zh": "在一個案例中，某程式在修補程式發布後立即撰寫出攻擊程式碼。",
+          "vocab": [
+            {
+              "word": "release",
+              "ipa": "",
+              "pos": "v.",
+              "zh": "發布；公開"
+            }
+          ]
+        },
+        {
+          "id": "s08",
+          "en": "Experts urge companies to update their systems quickly and strengthen online defense tools.",
+          "zh": "專家呼籲企業盡速更新系統，並強化網路防禦工具。",
+          "vocab": [
+            {
+              "word": "strengthen",
+              "ipa": "",
+              "pos": "v.",
+              "zh": "強化；加強"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "財經新聞",
+      "headline_en": "Global Tech Stocks Fall on US Chip Curbs and Rate Worries",
+      "headline_zh": "受美國晶片禁令與升息預期影響 全球科技股走跌",
+      "sources": [
+        "https://www.caixabankresearch.com/en/publications/financial-markets-daily-report/17-november-2026",
+        "https://admiralmarkets.com/analytics/traders-blog/why-is-the-stock-market-down-today-17-november-2026"
+      ],
+      "sentences": [
+        {
+          "id": "s09",
+          "en": "Global stock markets dropped on Tuesday as investors worried about major technology companies.",
+          "zh": "由於投資人對大型科技公司感到擔憂，全球股市週二出現下跌。",
+          "vocab": [
+            {
+              "word": "investor",
+              "ipa": "",
+              "pos": "n.",
+              "zh": "投資人"
+            }
+          ]
+        },
+        {
+          "id": "s10",
+          "en": "New American rules will limit exports of advanced AI chips to five countries.",
+          "zh": "美國的新規定將限制向五個國家出口先進 AI 晶片。",
+          "vocab": [
+            {
+              "word": "export",
+              "ipa": "",
+              "pos": "n.",
+              "zh": "出口；輸出"
+            }
+          ]
+        },
+        {
+          "id": "s11",
+          "en": "At the same time, many traders expect higher interest rates in December.",
+          "zh": "與此同時，許多交易員預期十二月利率將會調升。",
           "vocab": []
         },
         {
-          "id": "s03",
-          "en": "This figure greatly exceeded analysts' expectations.",
-          "zh": "這個數字大幅超出了分析師的預期。",
+          "id": "s12",
+          "en": "Because of these pressures, technology shares in both America and Asia faced heavy selling.",
+          "zh": "受到這些壓力影響，美國與亞洲的科技股皆面臨沉重賣壓。",
           "vocab": [
             {
-              "word": "exceeded",
-              "ipa": "/ɪksˈidəd/",
-              "pos": "v.",
-              "zh": "超出"
-            }
-          ]
-        },
-        {
-          "id": "s04",
-          "en": "Nvidia also raised its revenue forecast for the next quarter.",
-          "zh": "輝達也提高了對下一季營收的預測。",
-          "vocab": [
-            {
-              "word": "forecast",
-              "ipa": "/fˈɔɹkˌæst/",
+              "word": "pressure",
+              "ipa": "",
               "pos": "n.",
-              "zh": "預測"
-            }
-          ]
-        },
-        {
-          "id": "s05",
-          "en": "Its stock rose after the positive earnings report.",
-          "zh": "在這份正面的財報公布後，其股價上漲。",
-          "vocab": [
-            {
-              "word": "earnings",
-              "ipa": "/ˈɝnɪŋz/",
-              "pos": "n.",
-              "zh": "財報"
+              "zh": "壓力"
             }
           ]
         }
