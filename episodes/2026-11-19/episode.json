@@ -1,0 +1,190 @@
+{
+  "date": "2026-11-19",
+  "title_en": "NEWS IN 10 — Nov 19",
+  "title_zh": "NEWS IN 10 每日新聞英語｜11 月 19 日",
+  "stories": [
+    {
+      "topic": "臺灣",
+      "headline_en": "Taiwan Uses Tiny Solar Trackers to Study Butterfly Migration",
+      "headline_zh": "臺灣首創亞洲先例 以微型太陽能追蹤器研究斑蝶遷徙",
+      "sources": [
+        "https://focustaiwan.tw/sci-tech/202611180018",
+        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/19/2003868012",
+        "https://www.cna.com.tw/news/aloc/202611180150.aspx"
+      ],
+      "sentences": [
+        {
+          "id": "s01",
+          "en": "Scientists in eastern Taiwan put tiny solar trackers on two butterflies this week.",
+          "zh": "臺灣東部的科學家本週在兩隻蝴蝶身上安裝了微型太陽能追蹤器。",
+          "vocab": [
+            {
+              "word": "solar",
+              "ipa": "",
+              "pos": "adj.",
+              "zh": "太陽能的"
+            }
+          ]
+        },
+        {
+          "id": "s02",
+          "en": "This is the first time researchers in Asia have used this new method.",
+          "zh": "這是亞洲研究人員首次採用這項新方法進行觀察。",
+          "vocab": [
+            {
+              "word": "method",
+              "ipa": "",
+              "pos": "n.",
+              "zh": "方法"
+            }
+          ]
+        },
+        {
+          "id": "s03",
+          "en": "Regular people can help by turning on Bluetooth on their smartphones while hiking.",
+          "zh": "一般民眾在健行時只要開啟手機藍牙，就能協助這項研究。",
+          "vocab": []
+        },
+        {
+          "id": "s04",
+          "en": "The collected data will help experts protect butterfly flight paths during winter.",
+          "zh": "蒐集到的資料將幫助專家在冬季期間保護蝴蝶的遷徙路徑。",
+          "vocab": [
+            {
+              "word": "collect",
+              "ipa": "",
+              "pos": "v.",
+              "zh": "蒐集；收集"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "生成式AI 發展",
+      "headline_en": "Cambridge Dictionary Names Human as 2026 Word of the Year",
+      "headline_zh": "AI 浪潮引發反思 劍橋辭典選定 human 為 2026 年度代表字",
+      "sources": [
+        "https://www.cambridge.org/news-and-insights/human-is-Cambridge-dictionary-word-of-the-year-2026",
+        "https://www.theguardian.com/science/2026/nov/18/cambridge-word-of-the-year-human",
+        "https://www.cnn.com/2026/11/17/world/human-cambridge-word-of-year-scli-intl"
+      ],
+      "sentences": [
+        {
+          "id": "s05",
+          "en": "Cambridge Dictionary chose human as its official Word of the Year for 2026.",
+          "zh": "劍橋辭典將 human（人類）選為 2026 年的官方年度代表字。",
+          "vocab": [
+            {
+              "word": "official",
+              "ipa": "",
+              "pos": "adj.",
+              "zh": "官方的；正式的"
+            }
+          ]
+        },
+        {
+          "id": "s06",
+          "en": "The dictionary editors said rapid AI growth makes people think about human values.",
+          "zh": "辭典編輯表示，人工智慧的快速發展讓人們重新思考人類的價值。",
+          "vocab": [
+            {
+              "word": "rapid",
+              "ipa": "",
+              "pos": "adj.",
+              "zh": "快速的"
+            },
+            {
+              "word": "value",
+              "ipa": "",
+              "pos": "n.",
+              "zh": "價值"
+            }
+          ]
+        },
+        {
+          "id": "s07",
+          "en": "Many writers and artists want clear rules to separate real work from machine copies.",
+          "zh": "許多作家與藝術家希望訂定明確規範，區分人類創作與機器複製品。",
+          "vocab": [
+            {
+              "word": "separate",
+              "ipa": "",
+              "pos": "v.",
+              "zh": "區分；分開"
+            }
+          ]
+        },
+        {
+          "id": "s08",
+          "en": "Experts remind young students that people should still guide how technology shapes tomorrow.",
+          "zh": "專家提醒年輕學子，未來科技如何發展仍應由人類主導。",
+          "vocab": [
+            {
+              "word": "guide",
+              "ipa": "",
+              "pos": "v.",
+              "zh": "引導；指導"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "生活品味與旅遊",
+      "headline_en": "Taiwanese Cartoon Character Capoo Stars in Seoul Tourism Campaign",
+      "headline_zh": "臺灣人氣角色貓貓蟲咖波跨海代言首爾觀光宣傳",
+      "sources": [
+        "https://www.koreatimes.co.kr/lifestyle/people-events/20261118/taiwanese-hit-character-capoo-takes-over-seoul-tourism-campaign",
+        "https://www.koreatimes.co.kr/20261118/taiwanese-hit-character-capoo-takes-over-seoul-tourism-campaign"
+      ],
+      "sentences": [
+        {
+          "id": "s09",
+          "en": "Seoul's tourism office teamed up with a popular cartoon character from Taiwan.",
+          "zh": "首爾觀光公社與來自臺灣的人氣卡通角色貓貓蟲咖波展開合作。",
+          "vocab": [
+            {
+              "word": "popular",
+              "ipa": "",
+              "pos": "adj.",
+              "zh": "受歡迎的；人氣的"
+            }
+          ]
+        },
+        {
+          "id": "s10",
+          "en": "The cute blue character, named Capoo, has over seven million followers online.",
+          "zh": "這隻名為咖波的可愛藍色角色在網路上擁有超過七百萬名追蹤者。",
+          "vocab": []
+        },
+        {
+          "id": "s11",
+          "en": "In three new videos, Capoo wears traditional Korean clothes and visits famous palaces.",
+          "zh": "在三支新影片中，咖波穿上韓國傳統服飾並造訪著名的宮殿景點。",
+          "vocab": [
+            {
+              "word": "traditional",
+              "ipa": "",
+              "pos": "adj.",
+              "zh": "傳統的"
+            }
+          ]
+        },
+        {
+          "id": "s12",
+          "en": "City officials hope this fun project will inspire more Taiwanese tourists to visit.",
+          "zh": "市府官員希望這項有趣的企劃能吸引更多臺灣旅客前來造訪。",
+          "vocab": [
+            {
+              "word": "inspire",
+              "ipa": "",
+              "pos": "v.",
+              "zh": "激發；吸引"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
