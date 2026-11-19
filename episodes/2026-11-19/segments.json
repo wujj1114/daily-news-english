@@ -1,0 +1,1119 @@
+{
+  "date": "2026-11-19",
+  "total_duration_sec": 419.565,
+  "cache_hits": 44,
+  "cache_misses": 66,
+  "segments": [
+    {
+      "type": "intro",
+      "lang": "en",
+      "text": "Welcome to NEWS IN 10 — Nov 19.",
+      "start_sec": 0.0,
+      "end_sec": 4.366,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a80c0ea59336c38a6ce76da274e2136e2fe4d1e2b541156c9e2b877f74a69e75.wav"
+    },
+    {
+      "type": "intro",
+      "lang": "zh",
+      "text": "歡迎收聽 NEWS IN 10 每日新聞英語｜11 月 19 日。",
+      "start_sec": 4.766,
+      "end_sec": 10.617,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/3811b8de12b59b4e2dc80d2d24000d06c2674e2ff87a50cd5262ef26e18b097f.wav"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "第 1 則新聞：臺灣晶片產業展現韌性",
+      "start_sec": 11.617,
+      "end_sec": 16.388,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/bbe8ed04ee37f6661211e1210f0ab93210b55c45832bed64e3cbdafa92a4dd7b.wav",
+      "story_index": 1
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Taiwan's semiconductor industry shows strong resilience.",
+      "start_sec": 16.988,
+      "end_sec": 22.345,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b1e850ac93feedbe89882e213f8274e56d4023dfb8cebb60b7576e82460df174.wav",
+      "story_index": 1,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "臺灣的半導體產業展現強勁韌性。",
+      "start_sec": 23.145,
+      "end_sec": 27.036,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a37b4d36dd5d4f7bf2853f37eecc098e7648f5a7860b869174a45097e2c70dbf.wav",
+      "story_index": 1,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "This is despite recent global economic challenges.",
+      "start_sec": 27.636,
+      "end_sec": 31.771,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/165700119c33b62042f6b27fc2ab669df962f3053a7751819ea5bc884aee9f1d.wav",
+      "story_index": 1,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "儘管近期全球經濟面臨挑戰。",
+      "start_sec": 32.571,
+      "end_sec": 35.822,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b793aac7ad067ae8e1e4e403d9411545a1334092b7c6d9056ff5ad161fa242e8.wav",
+      "story_index": 1,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "challenges",
+      "start_sec": 36.422,
+      "end_sec": 38.25,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a21774cfea9c8e06ae0c3248f44b575b157f05c42a74bf38eb18bae7b9f8c411.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "challenges"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "C, H, A, L, L, E, N, G, E, S",
+      "start_sec": 38.65,
+      "end_sec": 40.577,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/e9385a3b4c6a0c19d8edb3003837fa670f15deb66359eb81a4bd0072cf2ce7c3.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "challenges"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "challenges",
+      "start_sec": 40.977,
+      "end_sec": 42.806,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a21774cfea9c8e06ae0c3248f44b575b157f05c42a74bf38eb18bae7b9f8c411.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "challenges"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，挑戰。",
+      "start_sec": 43.206,
+      "end_sec": 46.097,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/1575974495aabb98773f9ab7fce994d1e8ace7a2daec206a972d39b028892784.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "challenges"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Demand for advanced chips remains high worldwide.",
+      "start_sec": 46.497,
+      "end_sec": 50.973,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/4ff13a6d590613c90c3aea88a025e4eb2872cb1b3fcaa3ecae910cce8b5f4b55.wav",
+      "story_index": 1,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "全球對先進晶片的需求依然很高。",
+      "start_sec": 51.773,
+      "end_sec": 55.504,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/4f3e74d706161ae7edf2840464679db31d8e45d3ff01ba1f16e6d7eabf0c5ea8.wav",
+      "story_index": 1,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "advanced",
+      "start_sec": 56.104,
+      "end_sec": 57.834,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/381becb5e6f6002f82a79dd5e0a21dd2b3750c8b19aa5b2c14594f82d710cbee.wav",
+      "story_index": 1,
+      "sentence_id": "s03",
+      "word": "advanced"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "A, D, V, A, N, C, E, D",
+      "start_sec": 58.234,
+      "end_sec": 65.371,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/47ccc86ef37ed375b67bd5f849359df7b874c8c1c30ef0a78402f5b087436eee.wav",
+      "story_index": 1,
+      "sentence_id": "s03",
+      "word": "advanced"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "advanced",
+      "start_sec": 65.771,
+      "end_sec": 67.501,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/381becb5e6f6002f82a79dd5e0a21dd2b3750c8b19aa5b2c14594f82d710cbee.wav",
+      "story_index": 1,
+      "sentence_id": "s03",
+      "word": "advanced"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，先進的。",
+      "start_sec": 67.901,
+      "end_sec": 70.982,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/31645032fb7e65ab024e050c29cc9d998f8ae1cb8e39169b1aad916886f9abbf.wav",
+      "story_index": 1,
+      "sentence_id": "s03",
+      "word": "advanced"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Major firms are investing in new production facilities.",
+      "start_sec": 71.382,
+      "end_sec": 75.62,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/3b01db1fb83b7989691adc5464f856c872844653bfe962a769361f56b8d4782d.wav",
+      "story_index": 1,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "主要公司正在投資新的生產設施。",
+      "start_sec": 76.42,
+      "end_sec": 79.751,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/44c47a4cff47f3bb1d20c1e46a995217771c2b635817c42e03d416f971229c45.wav",
+      "story_index": 1,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "facilities",
+      "start_sec": 80.351,
+      "end_sec": 81.849,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a7a3f3f443bcee74759c8d1810d4df50cfc5246487f5bec2bd16b6fb8d2a68b3.wav",
+      "story_index": 1,
+      "sentence_id": "s04",
+      "word": "facilities"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "F, A, C, I, L, I, T, I, E, S",
+      "start_sec": 82.249,
+      "end_sec": 91.144,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/e93fab20c8c7fddbea3d9cca20af676f2243bb1e5630ea518260fe16d52e2632.wav",
+      "story_index": 1,
+      "sentence_id": "s04",
+      "word": "facilities"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "facilities",
+      "start_sec": 91.544,
+      "end_sec": 93.042,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a7a3f3f443bcee74759c8d1810d4df50cfc5246487f5bec2bd16b6fb8d2a68b3.wav",
+      "story_index": 1,
+      "sentence_id": "s04",
+      "word": "facilities"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，設施；設備。",
+      "start_sec": 93.442,
+      "end_sec": 96.893,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/43b96bed2fc6ab989ab1072f1d3fdb7b21a6954f673a803f30060f125f21d059.wav",
+      "story_index": 1,
+      "sentence_id": "s04",
+      "word": "facilities"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "This growth strengthens Taiwan's economic position.",
+      "start_sec": 97.293,
+      "end_sec": 101.565,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/3dfae4a86f2116da038263b3bff1e6e4c2042c552cca785874885da325aa3c6e.wav",
+      "story_index": 1,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這種成長鞏固了臺灣的經濟地位。",
+      "start_sec": 102.365,
+      "end_sec": 105.696,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b43811fe513cfd7087657a65eea2ac07a5562218a45f0c409d4d09fe8a87200a.wav",
+      "story_index": 1,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "strengthens",
+      "start_sec": 106.296,
+      "end_sec": 107.891,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ec2865d00dede4e796bc0e00d536e9fafd795a232be03ec1e07d99e4ef674c98.wav",
+      "story_index": 1,
+      "sentence_id": "s05",
+      "word": "strengthens"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "S, T, R, E, N, G, T, H, E, N, S",
+      "start_sec": 108.291,
+      "end_sec": 115.532,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/3b87719b9cdfbfbff0790d55c7060de246cce07442d7da2a9eb4feec1309c301.wav",
+      "story_index": 1,
+      "sentence_id": "s05",
+      "word": "strengthens"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "strengthens",
+      "start_sec": 115.932,
+      "end_sec": 117.527,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ec2865d00dede4e796bc0e00d536e9fafd795a232be03ec1e07d99e4ef674c98.wav",
+      "story_index": 1,
+      "sentence_id": "s05",
+      "word": "strengthens"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，鞏固；加強。",
+      "start_sec": 117.927,
+      "end_sec": 121.898,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0bf47a69a3f2dd18f9b8e8572ac4768b3326d548c2fe4ecd4b806d62f414e06f.wav",
+      "story_index": 1,
+      "sentence_id": "s05",
+      "word": "strengthens"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "第 2 則新聞：人工智慧提升醫療診斷準確度",
+      "start_sec": 123.798,
+      "end_sec": 129.009,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/1e322ea49fbe050e42e8f4de51a3c5f6a302919b510e030a0d75e9e4dee394ba.wav",
+      "story_index": 2
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "New artificial intelligence tools are transforming healthcare.",
+      "start_sec": 129.609,
+      "end_sec": 134.779,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/851964ffe8974c57a15d9c7b2f4fff5d06a75143e8c17606e9dfc45da68d9d65.wav",
+      "story_index": 2,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "新的人工智慧工具正在改變醫療保健。",
+      "start_sec": 135.579,
+      "end_sec": 139.51,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c82ba0ae47c6ea8cc436da7f76e158c4e4a698c0f6697407acaaea98f76ed0d7.wav",
+      "story_index": 2,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "transforming",
+      "start_sec": 140.11,
+      "end_sec": 141.703,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/27fbee27d1ca3a03dff6f75924b6a6135c8557be9b36d770ee7faccc9cccdba2.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "transforming"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "T, R, A, N, S, F, O, R, M, I, N, G",
+      "start_sec": 142.103,
+      "end_sec": 143.553,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5d5e50b4b956c5ec8b4cc654384bcdae491a66a92534a04058d1e8f6bf76cb5a.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "transforming"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "transforming",
+      "start_sec": 143.953,
+      "end_sec": 145.546,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/27fbee27d1ca3a03dff6f75924b6a6135c8557be9b36d770ee7faccc9cccdba2.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "transforming"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，改變；轉變。",
+      "start_sec": 145.946,
+      "end_sec": 150.197,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a6642e6311c7ed8e8f116bd00fb80c207bff535a835bc50003d83f8eebeb68ec.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "transforming"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "They help doctors detect diseases earlier.",
+      "start_sec": 150.597,
+      "end_sec": 153.88,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f66b673cba118158d1c1af8f8ca87c65f17d61846dbf1f103d6025a8dd59158f.wav",
+      "story_index": 2,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "它們幫助醫生更早地偵測疾病。",
+      "start_sec": 154.68,
+      "end_sec": 157.171,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/81721bcc1eb1be197c9f010a08eb4f688d87f7e59f0ea6438b51a8ad867e44bd.wav",
+      "story_index": 2,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "detect",
+      "start_sec": 157.771,
+      "end_sec": 159.045,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/19aa3b7a0863507d9e39ec11f911d46a853b93bb8b06a00c1531a13c00c99b5e.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "detect"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "D, E, T, E, C, T",
+      "start_sec": 159.445,
+      "end_sec": 164.238,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/4e3fe3da945ac1471a545316080f045294cf7d75384edb6a3442ee9b3b79902e.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "detect"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "detect",
+      "start_sec": 164.638,
+      "end_sec": 165.913,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/19aa3b7a0863507d9e39ec11f911d46a853b93bb8b06a00c1531a13c00c99b5e.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "detect"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，偵測；發現。",
+      "start_sec": 166.313,
+      "end_sec": 170.604,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f8423b0509759a226f4b314af4c52db9f93ef1170b29a2df92c23741d18220fb.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "detect"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "AI algorithms analyze complex medical images quickly.",
+      "start_sec": 171.004,
+      "end_sec": 176.269,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/50245d6b2208da3eb021ee1cc29f17353ef75f94ccc9519cfb402cd58af59aed.wav",
+      "story_index": 2,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "人工智慧演算法快速分析複雜的醫療影像。",
+      "start_sec": 177.069,
+      "end_sec": 181.84,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c42924ab469970c7c2d078c50bb128785634238fd4f14590a9ec38006a282c98.wav",
+      "story_index": 2,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "algorithms",
+      "start_sec": 182.44,
+      "end_sec": 183.988,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/505e92876c46ea92f91058d18d52f1b7c7bd4cca0349902649120a4449b7734d.wav",
+      "story_index": 2,
+      "sentence_id": "s03",
+      "word": "algorithms"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "A, L, G, O, R, I, T, H, M, S",
+      "start_sec": 184.388,
+      "end_sec": 186.732,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/96ba46aa560a39d8ea72f7a6212b972c7491c8401fe1618d765850ebfdeefdb6.wav",
+      "story_index": 2,
+      "sentence_id": "s03",
+      "word": "algorithms"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "algorithms",
+      "start_sec": 187.132,
+      "end_sec": 188.68,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/505e92876c46ea92f91058d18d52f1b7c7bd4cca0349902649120a4449b7734d.wav",
+      "story_index": 2,
+      "sentence_id": "s03",
+      "word": "algorithms"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，演算法。",
+      "start_sec": 189.08,
+      "end_sec": 192.571,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/329fb8be296d83c63ca337fb2329db95de2543a35950971f6c775c6e73017d63.wav",
+      "story_index": 2,
+      "sentence_id": "s03",
+      "word": "algorithms"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "This leads to more accurate and timely diagnoses.",
+      "start_sec": 192.971,
+      "end_sec": 197.531,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/83bf071d26fe823ab5a562d6fdc854f872d3d1ae11a3f1db2dfda26c5089ce7a.wav",
+      "story_index": 2,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這帶來了更準確和及時的診斷。",
+      "start_sec": 198.331,
+      "end_sec": 201.062,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/6d974aa23e0258c1d0f055f0e4664b8fdb21c4690c0b5e012ad957d919644a3f.wav",
+      "story_index": 2,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "accurate",
+      "start_sec": 201.662,
+      "end_sec": 203.023,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/db3b12432c5bef1903e6f68a8d1bc188d29c9a4b1e4d21b1bb35ef069bffab14.wav",
+      "story_index": 2,
+      "sentence_id": "s04",
+      "word": "accurate"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "A, C, C, U, R, A, T, E",
+      "start_sec": 203.423,
+      "end_sec": 204.783,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/878b68c12f7c2fb595b3c25ac6790fea9e1b197b9fb17cf18d80de63388e99e5.wav",
+      "story_index": 2,
+      "sentence_id": "s04",
+      "word": "accurate"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "accurate",
+      "start_sec": 205.183,
+      "end_sec": 206.544,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/db3b12432c5bef1903e6f68a8d1bc188d29c9a4b1e4d21b1bb35ef069bffab14.wav",
+      "story_index": 2,
+      "sentence_id": "s04",
+      "word": "accurate"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，準確的。",
+      "start_sec": 206.944,
+      "end_sec": 210.075,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/511faf93aa2f49cef37d500cc989cabc62b96701e99e319bd2f0aa39486f3646.wav",
+      "story_index": 2,
+      "sentence_id": "s04",
+      "word": "accurate"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Patients can receive better treatment plans sooner.",
+      "start_sec": 210.475,
+      "end_sec": 214.045,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a256c055e6f01a7ec2b10141854f4f0f89474552dd069a10618fac2355a8aba9.wav",
+      "story_index": 2,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "病患可以更快地獲得更好的治療計畫。",
+      "start_sec": 214.845,
+      "end_sec": 218.056,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/e1ab36ee1045e109fd35e2ced78e3d665c60275621340992010af68ce1b436b0.wav",
+      "story_index": 2,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "第 3 則新聞：全球經濟面臨複雜前景",
+      "start_sec": 220.156,
+      "end_sec": 223.207,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/dcd35c8bfc15a1384035964ddc2783080bd94ea9f79382aeaf7e3fe0b0433c9b.wav",
+      "story_index": 3
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "The global economy shows mixed signs recently.",
+      "start_sec": 223.807,
+      "end_sec": 227.89,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/418f66eb19b6e61f940d72cc6d13742a1f57f0b2bbbfb0862197eff4a66205ad.wav",
+      "story_index": 3,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "全球經濟近期顯示出複雜的跡象。",
+      "start_sec": 228.69,
+      "end_sec": 232.771,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/df6769d5b0d71761394ec23433649ebd1bcb965eee9844f4963a14b9c7f65eac.wav",
+      "story_index": 3,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Some regions experience steady growth.",
+      "start_sec": 233.371,
+      "end_sec": 237.397,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/68a773fca9c1411224bc7987b3f150f2bcad6a545d0acdebe598570f28d8df59.wav",
+      "story_index": 3,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "某些地區經歷著穩定的成長。",
+      "start_sec": 238.197,
+      "end_sec": 240.918,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/dd4e21cf2e2c3bcd7169e1a956e8bcf6a4d3a6035e34ff528d86785b4e620152.wav",
+      "story_index": 3,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "regions",
+      "start_sec": 241.518,
+      "end_sec": 243.246,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/cb6690e345cd85fe3a17392e071d60a12624a6db6c6c4e786fa65fd7c288bdf8.wav",
+      "story_index": 3,
+      "sentence_id": "s02",
+      "word": "regions"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "R, E, G, I, O, N, S",
+      "start_sec": 243.646,
+      "end_sec": 250.258,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/51db8f80582dbefb79bfa8a1f9660c86714567b9c97477ebc3248e926243627e.wav",
+      "story_index": 3,
+      "sentence_id": "s02",
+      "word": "regions"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "regions",
+      "start_sec": 250.658,
+      "end_sec": 252.386,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/cb6690e345cd85fe3a17392e071d60a12624a6db6c6c4e786fa65fd7c288bdf8.wav",
+      "story_index": 3,
+      "sentence_id": "s02",
+      "word": "regions"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，地區；區域。",
+      "start_sec": 252.786,
+      "end_sec": 257.266,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5b4becda4b25bf7f23cf828cb69d45ad69231d4dbb8da257e6b6e3d38c196ec6.wav",
+      "story_index": 3,
+      "sentence_id": "s02",
+      "word": "regions"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Others struggle with inflation and high interest rates.",
+      "start_sec": 257.666,
+      "end_sec": 262.209,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b3c531738dd0988e92953f2a787458758ee453a9e18f2591f56d9634c56c5dd3.wav",
+      "story_index": 3,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "其他地區則與通膨和高利率搏鬥。",
+      "start_sec": 263.009,
+      "end_sec": 266.49,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0c9f4e87c6212386e5c6a874e380522b37a119c842fc5f7771eb792df80584e9.wav",
+      "story_index": 3,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "inflation",
+      "start_sec": 267.09,
+      "end_sec": 269.151,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/e8bc315cf99b3a68c97080230d84bf5d524440717b96b77680d41af31e6c0a9f.wav",
+      "story_index": 3,
+      "sentence_id": "s03",
+      "word": "inflation"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "I, N, F, L, A, T, I, O, N",
+      "start_sec": 269.551,
+      "end_sec": 277.953,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/507126e5a48f42f42b298a553603119cc05873da2d07ae4d074006372bec809f.wav",
+      "story_index": 3,
+      "sentence_id": "s03",
+      "word": "inflation"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "inflation",
+      "start_sec": 278.353,
+      "end_sec": 280.414,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/e8bc315cf99b3a68c97080230d84bf5d524440717b96b77680d41af31e6c0a9f.wav",
+      "story_index": 3,
+      "sentence_id": "s03",
+      "word": "inflation"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，通貨膨脹。",
+      "start_sec": 280.814,
+      "end_sec": 284.255,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c6f24e49391449de3fb5268f8a2c29ecd2368cc4d76b3e8e30ad89a12100dca8.wav",
+      "story_index": 3,
+      "sentence_id": "s03",
+      "word": "inflation"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Experts predict a period of moderate expansion.",
+      "start_sec": 284.655,
+      "end_sec": 289.297,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c6033c2236e1b46494ac720c82198f27a2e3872c1c247eb72a515a4b11e7a186.wav",
+      "story_index": 3,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "專家預測將有一段溫和擴張期。",
+      "start_sec": 290.097,
+      "end_sec": 293.458,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/eed7efcebe3aa439dfb852e99c0df341a013d97bc0a3e6ccde607fcb25b0745f.wav",
+      "story_index": 3,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "moderate",
+      "start_sec": 294.058,
+      "end_sec": 295.835,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/88b49cb4ba4534b71a912aec510d4c970d44202b8d08ff515e04476ae97ff21d.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "moderate"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "M, O, D, E, R, A, T, E",
+      "start_sec": 296.235,
+      "end_sec": 300.968,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/7def020ba72de8a6db2a8098715239f3bef2b877498b93a54c952f214acb8ebc.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "moderate"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "moderate",
+      "start_sec": 301.368,
+      "end_sec": 303.146,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/88b49cb4ba4534b71a912aec510d4c970d44202b8d08ff515e04476ae97ff21d.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "moderate"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，溫和的；適度的。",
+      "start_sec": 303.546,
+      "end_sec": 307.906,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ed53c44dcaa4ab0689ed6c7a8d85d3d62e24797f823c3c82a145a7715b743359.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "moderate"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Businesses and consumers remain cautious about spending.",
+      "start_sec": 308.306,
+      "end_sec": 312.757,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/8fe28c31790c9585bd7f0f88908eaedf747b1d6895615ffbf33eb6306d9ee0cd.wav",
+      "story_index": 3,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "企業和消費者對支出保持謹慎。",
+      "start_sec": 313.557,
+      "end_sec": 317.317,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/865b1023bd13cc365efbe9351bee3bb85e0515948477bcd854c87decd7c9cf2f.wav",
+      "story_index": 3,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "cautious",
+      "start_sec": 317.917,
+      "end_sec": 319.686,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/be3bea8819c0cdaaa74dcafb05df4976a67341dace3adb82eb0b9956d979fbff.wav",
+      "story_index": 3,
+      "sentence_id": "s05",
+      "word": "cautious"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "C, A, U, T, I, O, U, S",
+      "start_sec": 320.086,
+      "end_sec": 327.559,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/eb98c481ac3fd405e395e1ad862d05ec7b3941938ddd9df4f3392efbe94fb23b.wav",
+      "story_index": 3,
+      "sentence_id": "s05",
+      "word": "cautious"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "cautious",
+      "start_sec": 327.959,
+      "end_sec": 329.727,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/be3bea8819c0cdaaa74dcafb05df4976a67341dace3adb82eb0b9956d979fbff.wav",
+      "story_index": 3,
+      "sentence_id": "s05",
+      "word": "cautious"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，謹慎的。",
+      "start_sec": 330.127,
+      "end_sec": 333.288,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/09436371dbf0a192d911ede0f8832bcdf88a41012896baf6fbee688c6aede4ed.wav",
+      "story_index": 3,
+      "sentence_id": "s05",
+      "word": "cautious"
+    },
+    {
+      "type": "outro",
+      "lang": "zh",
+      "text": "最後讓我們快速複習今天學到的單字。",
+      "start_sec": 334.688,
+      "end_sec": 338.128,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/96a8c12ff414ac63850914dd9f7d466a5ac048c7088759e1aad393a3ce3e5747.wav"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "challenges",
+      "start_sec": 338.628,
+      "end_sec": 340.457,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a21774cfea9c8e06ae0c3248f44b575b157f05c42a74bf38eb18bae7b9f8c411.wav",
+      "word": "challenges"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，挑戰。",
+      "start_sec": 340.857,
+      "end_sec": 343.748,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/1575974495aabb98773f9ab7fce994d1e8ace7a2daec206a972d39b028892784.wav",
+      "word": "challenges"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "advanced",
+      "start_sec": 344.148,
+      "end_sec": 345.878,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/381becb5e6f6002f82a79dd5e0a21dd2b3750c8b19aa5b2c14594f82d710cbee.wav",
+      "word": "advanced"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，先進的。",
+      "start_sec": 346.278,
+      "end_sec": 349.359,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/31645032fb7e65ab024e050c29cc9d998f8ae1cb8e39169b1aad916886f9abbf.wav",
+      "word": "advanced"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "facilities",
+      "start_sec": 349.759,
+      "end_sec": 351.257,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a7a3f3f443bcee74759c8d1810d4df50cfc5246487f5bec2bd16b6fb8d2a68b3.wav",
+      "word": "facilities"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，設施；設備。",
+      "start_sec": 351.657,
+      "end_sec": 355.108,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/43b96bed2fc6ab989ab1072f1d3fdb7b21a6954f673a803f30060f125f21d059.wav",
+      "word": "facilities"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "strengthens",
+      "start_sec": 355.508,
+      "end_sec": 357.104,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ec2865d00dede4e796bc0e00d536e9fafd795a232be03ec1e07d99e4ef674c98.wav",
+      "word": "strengthens"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，鞏固；加強。",
+      "start_sec": 357.504,
+      "end_sec": 361.475,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0bf47a69a3f2dd18f9b8e8572ac4768b3326d548c2fe4ecd4b806d62f414e06f.wav",
+      "word": "strengthens"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "transforming",
+      "start_sec": 361.875,
+      "end_sec": 363.468,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/27fbee27d1ca3a03dff6f75924b6a6135c8557be9b36d770ee7faccc9cccdba2.wav",
+      "word": "transforming"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，改變；轉變。",
+      "start_sec": 363.868,
+      "end_sec": 368.119,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a6642e6311c7ed8e8f116bd00fb80c207bff535a835bc50003d83f8eebeb68ec.wav",
+      "word": "transforming"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "detect",
+      "start_sec": 368.519,
+      "end_sec": 369.793,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/19aa3b7a0863507d9e39ec11f911d46a853b93bb8b06a00c1531a13c00c99b5e.wav",
+      "word": "detect"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，偵測；發現。",
+      "start_sec": 370.193,
+      "end_sec": 374.484,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f8423b0509759a226f4b314af4c52db9f93ef1170b29a2df92c23741d18220fb.wav",
+      "word": "detect"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "algorithms",
+      "start_sec": 374.884,
+      "end_sec": 376.432,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/505e92876c46ea92f91058d18d52f1b7c7bd4cca0349902649120a4449b7734d.wav",
+      "word": "algorithms"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，演算法。",
+      "start_sec": 376.832,
+      "end_sec": 380.323,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/329fb8be296d83c63ca337fb2329db95de2543a35950971f6c775c6e73017d63.wav",
+      "word": "algorithms"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "accurate",
+      "start_sec": 380.723,
+      "end_sec": 382.084,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/db3b12432c5bef1903e6f68a8d1bc188d29c9a4b1e4d21b1bb35ef069bffab14.wav",
+      "word": "accurate"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，準確的。",
+      "start_sec": 382.484,
+      "end_sec": 385.615,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/511faf93aa2f49cef37d500cc989cabc62b96701e99e319bd2f0aa39486f3646.wav",
+      "word": "accurate"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "regions",
+      "start_sec": 386.015,
+      "end_sec": 387.743,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/cb6690e345cd85fe3a17392e071d60a12624a6db6c6c4e786fa65fd7c288bdf8.wav",
+      "word": "regions"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，地區；區域。",
+      "start_sec": 388.143,
+      "end_sec": 392.623,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5b4becda4b25bf7f23cf828cb69d45ad69231d4dbb8da257e6b6e3d38c196ec6.wav",
+      "word": "regions"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "inflation",
+      "start_sec": 393.023,
+      "end_sec": 395.084,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/e8bc315cf99b3a68c97080230d84bf5d524440717b96b77680d41af31e6c0a9f.wav",
+      "word": "inflation"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，通貨膨脹。",
+      "start_sec": 395.484,
+      "end_sec": 398.925,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c6f24e49391449de3fb5268f8a2c29ecd2368cc4d76b3e8e30ad89a12100dca8.wav",
+      "word": "inflation"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "moderate",
+      "start_sec": 399.325,
+      "end_sec": 401.102,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/88b49cb4ba4534b71a912aec510d4c970d44202b8d08ff515e04476ae97ff21d.wav",
+      "word": "moderate"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，溫和的；適度的。",
+      "start_sec": 401.502,
+      "end_sec": 405.863,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ed53c44dcaa4ab0689ed6c7a8d85d3d62e24797f823c3c82a145a7715b743359.wav",
+      "word": "moderate"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "cautious",
+      "start_sec": 406.263,
+      "end_sec": 408.031,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/be3bea8819c0cdaaa74dcafb05df4976a67341dace3adb82eb0b9956d979fbff.wav",
+      "word": "cautious"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，謹慎的。",
+      "start_sec": 408.431,
+      "end_sec": 411.592,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/09436371dbf0a192d911ede0f8832bcdf88a41012896baf6fbee688c6aede4ed.wav",
+      "word": "cautious"
+    },
+    {
+      "type": "outro",
+      "lang": "en",
+      "text": "Thanks for listening to NEWS IN 10. See you tomorrow!",
+      "start_sec": 411.992,
+      "end_sec": 416.124,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/8ad249f376a23a4cbbf58f606f65845bb1776f86978a4803799b18a1390cf4d3.wav"
+    },
+    {
+      "type": "outro",
+      "lang": "zh",
+      "text": "感謝收聽 NEWS IN 10，我們明天見。",
+      "start_sec": 416.524,
+      "end_sec": 419.565,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/dcfa8d1f94019496e8a2ebe1525c7d9693ecc76c8b44fafc49f20caf499d410f.wav"
+    }
+  ]
+}
