@@ -1,0 +1,1057 @@
+{
+  "date": "2026-11-20",
+  "total_duration_sec": 491.617,
+  "cache_hits": 50,
+  "cache_misses": 54,
+  "segments": [
+    {
+      "type": "intro",
+      "lang": "en",
+      "text": "Welcome to NEWS IN 10 — Nov 20.",
+      "start_sec": 0.0,
+      "end_sec": 4.758,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/edafb5cff1c3ab92ee4cff7f97d2886ab9df3c1e4cdf595ae0eeb863ecd7486e.wav"
+    },
+    {
+      "type": "intro",
+      "lang": "zh",
+      "text": "歡迎收聽 NEWS IN 10 每日新聞英語｜11 月 20 日。",
+      "start_sec": 5.158,
+      "end_sec": 10.809,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/09cb6c20487bd621ca5eb3a759827cdb37d76ead1231d38597ee447c21d25bb3.wav"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "第 1 則新聞：人工智慧模型發現新材料所需資料量減少",
+      "start_sec": 11.809,
+      "end_sec": 16.1,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/26806c8f2d94c32d734b96562d5465bd78852b0b4985d7db32b16a29e83b087a.wav",
+      "story_index": 1
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Researchers found AI models can predict new material properties with less data.",
+      "start_sec": 16.7,
+      "end_sec": 23.614,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ddb18bf02d7d935fbcc5c4e9adebd16c69ea30388136e169255c95184ae70a3d.wav",
+      "story_index": 1,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "研究人員發現，人工智慧模型能以更少的資料預測新材料的特性。",
+      "start_sec": 24.414,
+      "end_sec": 30.825,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/64520ff0b95515f537396c59f83f6f39645c55fe93d613622e9bfc8e50d87a6f.wav",
+      "story_index": 1,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "They discovered that 90% of training data could be discarded without losing accuracy.",
+      "start_sec": 31.425,
+      "end_sec": 38.204,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/12716753e452194f45e67437a966b1ded5fe846f4f377ef969c82a6202acc4b7.wav",
+      "story_index": 1,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "他們發現，90% 的訓練資料可以被丟棄，而不會損失準確性。",
+      "start_sec": 39.004,
+      "end_sec": 44.574,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ebac5df63f33f22096cc80167779ca27d7db7049172820051f504f85b6d7059b.wav",
+      "story_index": 1,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "discarded",
+      "start_sec": 45.174,
+      "end_sec": 47.048,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a39cabf76d9e49aa7f848c8e1408fe06bedef36e0978e282a5282abe1ae99b78.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "discarded"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "D, I, S, C, A, R, D, E, D",
+      "start_sec": 47.448,
+      "end_sec": 58.539,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/2a5760c944244102b6e474b3433f0491983afd5c051754962d256482c7bca17e.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "discarded"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "discarded",
+      "start_sec": 58.939,
+      "end_sec": 60.812,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a39cabf76d9e49aa7f848c8e1408fe06bedef36e0978e282a5282abe1ae99b78.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "discarded"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，丟棄。",
+      "start_sec": 61.212,
+      "end_sec": 64.693,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/e574a31235296d5360f7f10bfc3df77227dcee7911cb21cc758187b4e40c7d0c.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "discarded"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "accuracy",
+      "start_sec": 65.093,
+      "end_sec": 66.961,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9e6202b16156057b79a772b23a7b8796c0b816c20576f3c68cbb902a5a42fa90.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "accuracy"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "A, C, C, U, R, A, C, Y",
+      "start_sec": 67.361,
+      "end_sec": 75.999,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/619aaf113892d17d000eea9472e824dfef9e3345d7e2f700021f6a832d14ff96.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "accuracy"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "accuracy",
+      "start_sec": 76.399,
+      "end_sec": 78.267,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9e6202b16156057b79a772b23a7b8796c0b816c20576f3c68cbb902a5a42fa90.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "accuracy"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，準確性。",
+      "start_sec": 78.667,
+      "end_sec": 81.958,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/20ae91656cbdee5dc0e3aff9eca668bf8e2981c38c7566ee60dd56fb654cc126.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "accuracy"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "This makes AI-driven materials development faster and more cost-effective.",
+      "start_sec": 82.358,
+      "end_sec": 88.602,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/e9ef62ef4c93088ed1e4f9b519802719bf90956e3b20f8db32a2b5a05c27e8a7.wav",
+      "story_index": 1,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這使得人工智慧驅動的材料開發更快且更具成本效益。",
+      "start_sec": 89.402,
+      "end_sec": 95.283,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/97a3188785bbc8196adf7d8de0bbfbefbd8a245d1bb993f494a0a8e7982ff8bd.wav",
+      "story_index": 1,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "cost-effective",
+      "start_sec": 95.883,
+      "end_sec": 97.751,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c515719c54be0a91f2c67f3d7d16a1b9a866e97025956325365b16e33aefea5b.wav",
+      "story_index": 1,
+      "sentence_id": "s03",
+      "word": "cost-effective"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "C, O, S, T, E, F, F, E, C, T, I, V, E",
+      "start_sec": 98.151,
+      "end_sec": 108.723,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/469d0ae61826d2c1b9b06f38916f0700b153b1cc78d336f72aea39c4c2b4f430.wav",
+      "story_index": 1,
+      "sentence_id": "s03",
+      "word": "cost-effective"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "cost-effective",
+      "start_sec": 109.123,
+      "end_sec": 110.992,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c515719c54be0a91f2c67f3d7d16a1b9a866e97025956325365b16e33aefea5b.wav",
+      "story_index": 1,
+      "sentence_id": "s03",
+      "word": "cost-effective"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，具成本效益的。",
+      "start_sec": 111.392,
+      "end_sec": 114.992,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5f5d74f48bf66c5b502ad762a9a2c14851e31c88d4a7aca85d88452dd8b70530.wav",
+      "story_index": 1,
+      "sentence_id": "s03",
+      "word": "cost-effective"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "The findings apply to various materials, including metals and complex alloys.",
+      "start_sec": 115.392,
+      "end_sec": 121.927,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9af3bb9921a6d1878ce450a617120dcd4ded68dfa1c3c6c4da68bd61920ff073.wav",
+      "story_index": 1,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這些發現適用於各種材料，包括金屬和複雜的合金。",
+      "start_sec": 122.727,
+      "end_sec": 127.728,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5bd547301ab099e1eebd93444b4da20bbae90ff08799fd371c12dce50c561e54.wav",
+      "story_index": 1,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "alloys",
+      "start_sec": 128.328,
+      "end_sec": 129.964,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/87bbe1d8319bac1589138eb3546fa76671dcc1e87151e8ea04630df73049b574.wav",
+      "story_index": 1,
+      "sentence_id": "s04",
+      "word": "alloys"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "A, L, L, O, Y, S",
+      "start_sec": 130.364,
+      "end_sec": 133.879,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/714d102a8594fb59bfd9232dbc2fc1a7462cf8d47b3cb350cc254ee34a1d6c35.wav",
+      "story_index": 1,
+      "sentence_id": "s04",
+      "word": "alloys"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "alloys",
+      "start_sec": 134.279,
+      "end_sec": 135.915,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/87bbe1d8319bac1589138eb3546fa76671dcc1e87151e8ea04630df73049b574.wav",
+      "story_index": 1,
+      "sentence_id": "s04",
+      "word": "alloys"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，合金。",
+      "start_sec": 136.315,
+      "end_sec": 139.635,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/570ac0629ae81729725bb6b0ee7b32667758ef4f4ef6db027ede0bb01d05665e.wav",
+      "story_index": 1,
+      "sentence_id": "s04",
+      "word": "alloys"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Such advancements could greatly streamline the discovery of novel substances.",
+      "start_sec": 140.035,
+      "end_sec": 146.469,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/fc652c7b395efb10b2b4521a3c68071adabdba2fcb93e99c44a483070b5e34a9.wav",
+      "story_index": 1,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這些進展可以大幅簡化新穎物質的發現過程。",
+      "start_sec": 147.269,
+      "end_sec": 152.23,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/16ea4d05614b5ae0ec73e62b8ebbf7dbe4aa798f67a0fb86febc58b5ca9fb134.wav",
+      "story_index": 1,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "streamline",
+      "start_sec": 152.83,
+      "end_sec": 154.506,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f0767cb111096156b24f0384fb05dcb9856b863b08ca8396b572d3fdb60b7d63.wav",
+      "story_index": 1,
+      "sentence_id": "s05",
+      "word": "streamline"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "S, T, R, E, A, M, L, I, N, E",
+      "start_sec": 154.906,
+      "end_sec": 162.004,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f359cda79dadaafff995ef62c71c379ae43aa07ee68dafc4cc4e822792162d39.wav",
+      "story_index": 1,
+      "sentence_id": "s05",
+      "word": "streamline"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "streamline",
+      "start_sec": 162.404,
+      "end_sec": 164.08,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f0767cb111096156b24f0384fb05dcb9856b863b08ca8396b572d3fdb60b7d63.wav",
+      "story_index": 1,
+      "sentence_id": "s05",
+      "word": "streamline"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，簡化。",
+      "start_sec": 164.48,
+      "end_sec": 167.801,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/3f8563a51951d681f61c0bd5515aa96d597eed83ddfc2146ba10c6759ecfa713.wav",
+      "story_index": 1,
+      "sentence_id": "s05",
+      "word": "streamline"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "第 2 則新聞：臺灣增加 F-16V 戰機機隊升級預算",
+      "start_sec": 169.701,
+      "end_sec": 175.861,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9379a7afff818b65fdf72355d04fdea5edec011f30567425a7457b30503832dc.wav",
+      "story_index": 2
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Taiwan approved an extra budget for its F-16V fighter jet upgrades.",
+      "start_sec": 176.461,
+      "end_sec": 182.895,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/e94589dcb54f841217d5fc029e63f19ef99c083088de9246355411d5226379c3.wav",
+      "story_index": 2,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "臺灣批准了一筆額外預算，用於升級其 F-16V 戰鬥機。",
+      "start_sec": 183.695,
+      "end_sec": 188.775,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/272ef5d1ae960c948a26632f39aefaffdf6f68ffaa8a6a21673ac5295eda1f6d.wav",
+      "story_index": 2,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "An additional NT$42.8 billion will enhance electronic warfare systems.",
+      "start_sec": 189.375,
+      "end_sec": 196.656,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/6478ed53ae7bc72f7b53379e0f395250fb3d9d6bf4b1c12f4100fd9399b365ef.wav",
+      "story_index": 2,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "額外的新臺幣 428 億元將用於提升電子作戰系統。",
+      "start_sec": 197.456,
+      "end_sec": 204.256,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/d2f8163ffba20c42ccde217aa4c28a4cfef5d7c90eb98d5636fdf72f3b3233d3.wav",
+      "story_index": 2,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "enhance",
+      "start_sec": 204.856,
+      "end_sec": 206.357,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/36004dffdae3afc9fc55e3e4ed8302a4b41310fc5d523688529bdab2df5f496f.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "enhance"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "E, N, H, A, N, C, E",
+      "start_sec": 206.757,
+      "end_sec": 211.442,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c7cdf3195e07f63691bc6a1254890c03807ef60e7f8296d7f3cdbab72b36ab4e.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "enhance"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "enhance",
+      "start_sec": 211.842,
+      "end_sec": 213.342,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/36004dffdae3afc9fc55e3e4ed8302a4b41310fc5d523688529bdab2df5f496f.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "enhance"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，提升。",
+      "start_sec": 213.742,
+      "end_sec": 217.223,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/3fed32dc8616addcbdf98af87f1ff98e74ed40e186c46186a3e26983815203f0.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "enhance"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "This 17% increase pushes the total program cost to NT$290 billion.",
+      "start_sec": 217.623,
+      "end_sec": 225.516,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/825d9b6ddd3c1ed5f927ae4d015505579e2638aa40e53dd3e9ad29f52b062e85.wav",
+      "story_index": 2,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這項 17% 的增幅使該計畫的總成本達到新臺幣 2900 億元。",
+      "start_sec": 226.316,
+      "end_sec": 234.077,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9c141ba59deb4efe59b81c4e72f0a573d387e65e2ed6e14b4f70e0855b5e540d.wav",
+      "story_index": 2,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "The funding aims to sharpen combat readiness and integrate drone drills.",
+      "start_sec": 234.677,
+      "end_sec": 240.738,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/970daf54b3b5f11bc2f871d55ed50ee784b69b38527036355fe8a62b88da2a01.wav",
+      "story_index": 2,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這筆資金旨在提高作戰準備狀態並整合無人機演習。",
+      "start_sec": 241.538,
+      "end_sec": 246.899,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/4de742cbbee60f6ed45b372456d50e82d9794458991489cbb8c703f555c1ab99.wav",
+      "story_index": 2,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "readiness",
+      "start_sec": 247.499,
+      "end_sec": 249.321,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/aef0c7ca352c8ba2da5cac69a2fb271ea4e1f4023ddffa090566b4a6b824ba2e.wav",
+      "story_index": 2,
+      "sentence_id": "s04",
+      "word": "readiness"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "R, E, A, D, I, N, E, S, S",
+      "start_sec": 249.721,
+      "end_sec": 256.052,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/2b28e8ad3a0c5f36afd417a93e7dbc01df3586a996ef82944419e282aa1d9897.wav",
+      "story_index": 2,
+      "sentence_id": "s04",
+      "word": "readiness"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "readiness",
+      "start_sec": 256.452,
+      "end_sec": 258.274,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/aef0c7ca352c8ba2da5cac69a2fb271ea4e1f4023ddffa090566b4a6b824ba2e.wav",
+      "story_index": 2,
+      "sentence_id": "s04",
+      "word": "readiness"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，準備狀態。",
+      "start_sec": 258.674,
+      "end_sec": 262.514,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/e8e24ac3f50b7c77da5803ea4f0e5140ccc74c2ea5896a934a84b9c5c2e8c56e.wav",
+      "story_index": 2,
+      "sentence_id": "s04",
+      "word": "readiness"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "integrate",
+      "start_sec": 262.914,
+      "end_sec": 264.227,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c1d18588b3d48595e22173b8e99c00bfe03c89a42a4654ff3e5c6e0515123f98.wav",
+      "story_index": 2,
+      "sentence_id": "s04",
+      "word": "integrate"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "I, N, T, E, G, R, A, T, E",
+      "start_sec": 264.627,
+      "end_sec": 266.002,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/47f460816045cc7bc40dedd0461f0a1d36d50349562af8de4408079c885cf12e.wav",
+      "story_index": 2,
+      "sentence_id": "s04",
+      "word": "integrate"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "integrate",
+      "start_sec": 266.402,
+      "end_sec": 267.714,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c1d18588b3d48595e22173b8e99c00bfe03c89a42a4654ff3e5c6e0515123f98.wav",
+      "story_index": 2,
+      "sentence_id": "s04",
+      "word": "integrate"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，整合。",
+      "start_sec": 268.114,
+      "end_sec": 271.605,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5453205b0768d13f15ec3df5b8417fff0dda3fc8355147ed634faa4a207b3adb.wav",
+      "story_index": 2,
+      "sentence_id": "s04",
+      "word": "integrate"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Taiwan seeks to strengthen its defense capabilities against rising regional pressure.",
+      "start_sec": 272.005,
+      "end_sec": 278.104,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/aef701929e14249ce086093c7354e96504d748f89c7a7c2cef5f9fc1bf461e56.wav",
+      "story_index": 2,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "臺灣尋求加強其國防能力，以應對日益增長的區域壓力。",
+      "start_sec": 278.904,
+      "end_sec": 284.305,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/700d3321942781c4a10bc16b9cda2c25fddd9330e54e636b2d8299335bbeb51b.wav",
+      "story_index": 2,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "capabilities",
+      "start_sec": 284.905,
+      "end_sec": 286.691,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/44f413e3007c34810005bc9cd69d0cca9e4ccd606cf038f99f4e8b498ff4e82e.wav",
+      "story_index": 2,
+      "sentence_id": "s05",
+      "word": "capabilities"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "C, A, P, A, B, I, L, I, T, I, E, S",
+      "start_sec": 287.091,
+      "end_sec": 288.733,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/d12519f6caa63af1c9555bbc70c77cf573d29a4fdbc6eb099925b41f3fe7602b.wav",
+      "story_index": 2,
+      "sentence_id": "s05",
+      "word": "capabilities"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "capabilities",
+      "start_sec": 289.133,
+      "end_sec": 290.919,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/44f413e3007c34810005bc9cd69d0cca9e4ccd606cf038f99f4e8b498ff4e82e.wav",
+      "story_index": 2,
+      "sentence_id": "s05",
+      "word": "capabilities"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，能力。",
+      "start_sec": 291.319,
+      "end_sec": 294.37,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/646b66f6a428e594f5aef566f92038ee8f5903ebe19368e56d9e86b678317a5e.wav",
+      "story_index": 2,
+      "sentence_id": "s05",
+      "word": "capabilities"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "第 3 則新聞：世界銀行報告：小型企業面臨 4 兆美元融資缺口",
+      "start_sec": 296.27,
+      "end_sec": 303.191,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b702c2b4cf0e1688601c4b34cfe03d4d7f1ee313820310cf7f3ee1cb145e4be3.wav",
+      "story_index": 3
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Developing countries face a $4 trillion finance gap for small businesses.",
+      "start_sec": 303.791,
+      "end_sec": 310.601,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/899e5be71a51af9612e691d4f313d1e35aa427b94311544d02d735494346f3bc.wav",
+      "story_index": 3,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "開發中國家的小型企業面臨 4 兆美元的融資缺口。",
+      "start_sec": 311.401,
+      "end_sec": 316.682,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5a90ecf6126eed1653317624877088c734de1179c67913b26e67ab860c8629f7.wav",
+      "story_index": 3,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "This limits their ability to grow, trade, and create jobs effectively.",
+      "start_sec": 317.282,
+      "end_sec": 323.674,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b26b52abe3eaf858aee28f3f8f9e66a05fe497d3d1b57f8cbb47090ca2aa6790.wav",
+      "story_index": 3,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這限制了它們有效成長、貿易和創造就業機會的能力。",
+      "start_sec": 324.474,
+      "end_sec": 329.955,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ab34ef88b0625633dcd4cf7ab4085f61b57e917c434c794619cd93516e10203f.wav",
+      "story_index": 3,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Micro, small, and medium enterprises, or MSMEs, employ 75% of workers.",
+      "start_sec": 330.555,
+      "end_sec": 339.432,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/d750e76e7dc20929dda486f43fd41cebf0a36d89541f0f66462a20e77e3b9c11.wav",
+      "story_index": 3,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "微型、小型和中型企業（MSMEs）僱用了 75% 的勞工。",
+      "start_sec": 340.232,
+      "end_sec": 346.953,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/8c9c19e5106f5f5e88a805fe7999ba61d9a689a6a9054ec14fab22a16b24f3d7.wav",
+      "story_index": 3,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Lack of digital records and regulatory burdens are key constraints.",
+      "start_sec": 347.553,
+      "end_sec": 353.366,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/d284fefd61ab67e4badd0d77344f11bb28cb903cc139ecbba3f8e040570c2014.wav",
+      "story_index": 3,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "缺乏數位紀錄和監管負擔是主要的限制因素。",
+      "start_sec": 354.166,
+      "end_sec": 358.967,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ef538d56afe82f41266684c4f19589479720bfd7565ac1d68446520d06c3cd9f.wav",
+      "story_index": 3,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "regulatory",
+      "start_sec": 359.567,
+      "end_sec": 361.72,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b2649b873f8a2ecaab6ec29366999db30934d67b6cb85d6bb0e44a002a1ba612.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "regulatory"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "R, E, G, U, L, A, T, O, R, Y",
+      "start_sec": 362.12,
+      "end_sec": 371.62,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/d47f8dbd3b9f09d118a5c740c0078910c8470a8e95115b5155e7e1dc0d30c08d.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "regulatory"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "regulatory",
+      "start_sec": 372.02,
+      "end_sec": 374.173,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b2649b873f8a2ecaab6ec29366999db30934d67b6cb85d6bb0e44a002a1ba612.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "regulatory"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，監管的。",
+      "start_sec": 374.573,
+      "end_sec": 378.254,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b973454772b5230278a08a68054c275cb81c8bf6c5cb16dbd39f513a22b4cfe2.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "regulatory"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "constraints",
+      "start_sec": 378.654,
+      "end_sec": 380.436,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ca00dac6d5c409f8c65e1d0fdb853029cc687a16191ca8f5e59e5f4d60882591.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "constraints"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "C, O, N, S, T, R, A, I, N, T, S",
+      "start_sec": 380.836,
+      "end_sec": 393.529,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/df011e90add61e28ebf7e0415b5e6c5114cbb19d901972dbf09607f47edab52b.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "constraints"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "constraints",
+      "start_sec": 393.929,
+      "end_sec": 395.711,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ca00dac6d5c409f8c65e1d0fdb853029cc687a16191ca8f5e59e5f4d60882591.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "constraints"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，限制。",
+      "start_sec": 396.111,
+      "end_sec": 399.232,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/214ccebdae3ec0b61fd84bdc4d334bb80e0793a092d6e9d3b44c7f1cd0942a1a.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "constraints"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "The World Bank launched a new strategy to expand credit using digital tools.",
+      "start_sec": 399.632,
+      "end_sec": 406.306,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9c7b66285f651085edeeb98fb3e59ceed31915d192c00693a416e685fb6ef321.wav",
+      "story_index": 3,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "世界銀行推出了一項新策略，利用數位工具擴大信貸。",
+      "start_sec": 407.106,
+      "end_sec": 412.747,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/6e56f783d1ae8499f20f532be18200c375a31a75c4ab60426d9104453ca0e911.wav",
+      "story_index": 3,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "outro",
+      "lang": "zh",
+      "text": "最後讓我們快速複習今天學到的單字。",
+      "start_sec": 414.347,
+      "end_sec": 417.787,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/96a8c12ff414ac63850914dd9f7d466a5ac048c7088759e1aad393a3ce3e5747.wav"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "discarded",
+      "start_sec": 418.287,
+      "end_sec": 420.16,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a39cabf76d9e49aa7f848c8e1408fe06bedef36e0978e282a5282abe1ae99b78.wav",
+      "word": "discarded"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，丟棄。",
+      "start_sec": 420.56,
+      "end_sec": 424.041,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/e574a31235296d5360f7f10bfc3df77227dcee7911cb21cc758187b4e40c7d0c.wav",
+      "word": "discarded"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "accuracy",
+      "start_sec": 424.441,
+      "end_sec": 426.309,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9e6202b16156057b79a772b23a7b8796c0b816c20576f3c68cbb902a5a42fa90.wav",
+      "word": "accuracy"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，準確性。",
+      "start_sec": 426.709,
+      "end_sec": 430.0,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/20ae91656cbdee5dc0e3aff9eca668bf8e2981c38c7566ee60dd56fb654cc126.wav",
+      "word": "accuracy"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "cost-effective",
+      "start_sec": 430.4,
+      "end_sec": 432.269,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c515719c54be0a91f2c67f3d7d16a1b9a866e97025956325365b16e33aefea5b.wav",
+      "word": "cost-effective"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，具成本效益的。",
+      "start_sec": 432.669,
+      "end_sec": 436.269,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5f5d74f48bf66c5b502ad762a9a2c14851e31c88d4a7aca85d88452dd8b70530.wav",
+      "word": "cost-effective"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "alloys",
+      "start_sec": 436.669,
+      "end_sec": 438.305,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/87bbe1d8319bac1589138eb3546fa76671dcc1e87151e8ea04630df73049b574.wav",
+      "word": "alloys"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，合金。",
+      "start_sec": 438.705,
+      "end_sec": 442.026,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/570ac0629ae81729725bb6b0ee7b32667758ef4f4ef6db027ede0bb01d05665e.wav",
+      "word": "alloys"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "streamline",
+      "start_sec": 442.426,
+      "end_sec": 444.102,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f0767cb111096156b24f0384fb05dcb9856b863b08ca8396b572d3fdb60b7d63.wav",
+      "word": "streamline"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，簡化。",
+      "start_sec": 444.502,
+      "end_sec": 447.823,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/3f8563a51951d681f61c0bd5515aa96d597eed83ddfc2146ba10c6759ecfa713.wav",
+      "word": "streamline"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "enhance",
+      "start_sec": 448.223,
+      "end_sec": 449.723,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/36004dffdae3afc9fc55e3e4ed8302a4b41310fc5d523688529bdab2df5f496f.wav",
+      "word": "enhance"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，提升。",
+      "start_sec": 450.123,
+      "end_sec": 453.604,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/3fed32dc8616addcbdf98af87f1ff98e74ed40e186c46186a3e26983815203f0.wav",
+      "word": "enhance"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "readiness",
+      "start_sec": 454.004,
+      "end_sec": 455.826,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/aef0c7ca352c8ba2da5cac69a2fb271ea4e1f4023ddffa090566b4a6b824ba2e.wav",
+      "word": "readiness"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，準備狀態。",
+      "start_sec": 456.226,
+      "end_sec": 460.066,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/e8e24ac3f50b7c77da5803ea4f0e5140ccc74c2ea5896a934a84b9c5c2e8c56e.wav",
+      "word": "readiness"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "integrate",
+      "start_sec": 460.466,
+      "end_sec": 461.779,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c1d18588b3d48595e22173b8e99c00bfe03c89a42a4654ff3e5c6e0515123f98.wav",
+      "word": "integrate"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，整合。",
+      "start_sec": 462.179,
+      "end_sec": 465.67,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5453205b0768d13f15ec3df5b8417fff0dda3fc8355147ed634faa4a207b3adb.wav",
+      "word": "integrate"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "capabilities",
+      "start_sec": 466.07,
+      "end_sec": 467.856,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/44f413e3007c34810005bc9cd69d0cca9e4ccd606cf038f99f4e8b498ff4e82e.wav",
+      "word": "capabilities"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，能力。",
+      "start_sec": 468.256,
+      "end_sec": 471.307,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/646b66f6a428e594f5aef566f92038ee8f5903ebe19368e56d9e86b678317a5e.wav",
+      "word": "capabilities"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "regulatory",
+      "start_sec": 471.707,
+      "end_sec": 473.86,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b2649b873f8a2ecaab6ec29366999db30934d67b6cb85d6bb0e44a002a1ba612.wav",
+      "word": "regulatory"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，監管的。",
+      "start_sec": 474.26,
+      "end_sec": 477.941,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b973454772b5230278a08a68054c275cb81c8bf6c5cb16dbd39f513a22b4cfe2.wav",
+      "word": "regulatory"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "constraints",
+      "start_sec": 478.341,
+      "end_sec": 480.123,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ca00dac6d5c409f8c65e1d0fdb853029cc687a16191ca8f5e59e5f4d60882591.wav",
+      "word": "constraints"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，限制。",
+      "start_sec": 480.523,
+      "end_sec": 483.644,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/214ccebdae3ec0b61fd84bdc4d334bb80e0793a092d6e9d3b44c7f1cd0942a1a.wav",
+      "word": "constraints"
+    },
+    {
+      "type": "outro",
+      "lang": "en",
+      "text": "Thanks for listening to NEWS IN 10. See you tomorrow!",
+      "start_sec": 484.044,
+      "end_sec": 488.176,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/8ad249f376a23a4cbbf58f606f65845bb1776f86978a4803799b18a1390cf4d3.wav"
+    },
+    {
+      "type": "outro",
+      "lang": "zh",
+      "text": "感謝收聽 NEWS IN 10，我們明天見。",
+      "start_sec": 488.576,
+      "end_sec": 491.617,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/dcfa8d1f94019496e8a2ebe1525c7d9693ecc76c8b44fafc49f20caf499d410f.wav"
+    }
+  ]
+}

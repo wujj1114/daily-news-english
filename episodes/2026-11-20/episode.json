@@ -1,0 +1,204 @@
+{
+  "date": "2026-11-20",
+  "title_en": "NEWS IN 10 — Nov 20",
+  "title_zh": "NEWS IN 10 每日新聞英語｜11 月 20 日",
+  "stories": [
+    {
+      "topic": "AI 發展",
+      "headline_en": "AI Models Need Less Data for Materials Discovery",
+      "headline_zh": "人工智慧模型發現新材料所需資料量減少",
+      "sources": [
+        "https://www.mtu.edu/news/2026/11/less-data-faster-discovery-researchers-rethink-ais-role-in-developing-new-materials.html",
+        "https://fortune.com/2026/11/18/ai-boom-real-economy-materials-discovery-decade-tax-opinion/"
+      ],
+      "sentences": [
+        {
+          "id": "s01",
+          "en": "Researchers found AI models can predict new material properties with less data.",
+          "zh": "研究人員發現，人工智慧模型能以更少的資料預測新材料的特性。",
+          "vocab": []
+        },
+        {
+          "id": "s02",
+          "en": "They discovered that 90% of training data could be discarded without losing accuracy.",
+          "zh": "他們發現，90% 的訓練資料可以被丟棄，而不會損失準確性。",
+          "vocab": [
+            {
+              "word": "discarded",
+              "ipa": "/dɪskˈɑɹdɪd/",
+              "pos": "v.",
+              "zh": "丟棄"
+            },
+            {
+              "word": "accuracy",
+              "ipa": "/ˈækjɚəsi/",
+              "pos": "n.",
+              "zh": "準確性"
+            }
+          ]
+        },
+        {
+          "id": "s03",
+          "en": "This makes AI-driven materials development faster and more cost-effective.",
+          "zh": "這使得人工智慧驅動的材料開發更快且更具成本效益。",
+          "vocab": [
+            {
+              "word": "cost-effective",
+              "ipa": "/kˈɑst ɪfˈɛktɪv/",
+              "pos": "adj.",
+              "zh": "具成本效益的"
+            }
+          ]
+        },
+        {
+          "id": "s04",
+          "en": "The findings apply to various materials, including metals and complex alloys.",
+          "zh": "這些發現適用於各種材料，包括金屬和複雜的合金。",
+          "vocab": [
+            {
+              "word": "alloys",
+              "ipa": "/ˈælˌɔɪz/",
+              "pos": "n.",
+              "zh": "合金"
+            }
+          ]
+        },
+        {
+          "id": "s05",
+          "en": "Such advancements could greatly streamline the discovery of novel substances.",
+          "zh": "這些進展可以大幅簡化新穎物質的發現過程。",
+          "vocab": [
+            {
+              "word": "streamline",
+              "ipa": "/stɹˈimlˌaɪn/",
+              "pos": "v.",
+              "zh": "簡化"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "臺灣",
+      "headline_en": "Taiwan Boosts F-16V Fighter Fleet Upgrade Budget",
+      "headline_zh": "臺灣增加 F-16V 戰機機隊升級預算",
+      "sources": [
+        "https://www.scmp.com/news/china/military/article/3281729/taiwan-unveils-17-budget-boost-upgrade-new-f-16v-fighter-fleet",
+        "https://clockwire.com/taiwan-unveils-17-budget-boost-to-upgrade-new-f-16v-fighter-fleet/"
+      ],
+      "sentences": [
+        {
+          "id": "s01",
+          "en": "Taiwan approved an extra budget for its F-16V fighter jet upgrades.",
+          "zh": "臺灣批准了一筆額外預算，用於升級其 F-16V 戰鬥機。",
+          "vocab": []
+        },
+        {
+          "id": "s02",
+          "en": "An additional NT$42.8 billion will enhance electronic warfare systems.",
+          "zh": "額外的新臺幣 428 億元將用於提升電子作戰系統。",
+          "vocab": [
+            {
+              "word": "enhance",
+              "ipa": "/ɛnhˈæns/",
+              "pos": "v.",
+              "zh": "提升"
+            }
+          ]
+        },
+        {
+          "id": "s03",
+          "en": "This 17% increase pushes the total program cost to NT$290 billion.",
+          "zh": "這項 17% 的增幅使該計畫的總成本達到新臺幣 2900 億元。",
+          "vocab": []
+        },
+        {
+          "id": "s04",
+          "en": "The funding aims to sharpen combat readiness and integrate drone drills.",
+          "zh": "這筆資金旨在提高作戰準備狀態並整合無人機演習。",
+          "vocab": [
+            {
+              "word": "readiness",
+              "ipa": "/ɹˈɛdinəs/",
+              "pos": "n.",
+              "zh": "準備狀態"
+            },
+            {
+              "word": "integrate",
+              "ipa": "/ˈɪntəɡɹˌeɪt/",
+              "pos": "v.",
+              "zh": "整合"
+            }
+          ]
+        },
+        {
+          "id": "s05",
+          "en": "Taiwan seeks to strengthen its defense capabilities against rising regional pressure.",
+          "zh": "臺灣尋求加強其國防能力，以應對日益增長的區域壓力。",
+          "vocab": [
+            {
+              "word": "capabilities",
+              "ipa": "/kˌeɪpəbˈɪlətiz/",
+              "pos": "n.",
+              "zh": "能力"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "財經",
+      "headline_en": "World Bank Reports $4 Trillion Finance Gap for Small Businesses",
+      "headline_zh": "世界銀行報告：小型企業面臨 4 兆美元融資缺口",
+      "sources": [
+        "https://www.worldbank.org/en/news/press-release/2026/11/17/msmes-in-developing-countries-face-4-trillion-finance-gap",
+        "https://punchng.com/msmes-face-4tn-financing-gap-in-developing-countries-world-bank/"
+      ],
+      "sentences": [
+        {
+          "id": "s01",
+          "en": "Developing countries face a $4 trillion finance gap for small businesses.",
+          "zh": "開發中國家的小型企業面臨 4 兆美元的融資缺口。",
+          "vocab": []
+        },
+        {
+          "id": "s02",
+          "en": "This limits their ability to grow, trade, and create jobs effectively.",
+          "zh": "這限制了它們有效成長、貿易和創造就業機會的能力。",
+          "vocab": []
+        },
+        {
+          "id": "s03",
+          "en": "Micro, small, and medium enterprises, or MSMEs, employ 75% of workers.",
+          "zh": "微型、小型和中型企業（MSMEs）僱用了 75% 的勞工。",
+          "vocab": []
+        },
+        {
+          "id": "s04",
+          "en": "Lack of digital records and regulatory burdens are key constraints.",
+          "zh": "缺乏數位紀錄和監管負擔是主要的限制因素。",
+          "vocab": [
+            {
+              "word": "regulatory",
+              "ipa": "/ɹˈɛɡjələtˌɔɹi/",
+              "pos": "adj.",
+              "zh": "監管的"
+            },
+            {
+              "word": "constraints",
+              "ipa": "/kənstɹˈeɪnts/",
+              "pos": "n.",
+              "zh": "限制"
+            }
+          ]
+        },
+        {
+          "id": "s05",
+          "en": "The World Bank launched a new strategy to expand credit using digital tools.",
+          "zh": "世界銀行推出了一項新策略，利用數位工具擴大信貸。",
+          "vocab": []
+        }
+      ]
+    }
+  ]
+}
