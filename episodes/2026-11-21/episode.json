@@ -1,0 +1,189 @@
+{
+  "date": "2026-11-21",
+  "title_en": "NEWS IN 10 — Nov 21",
+  "title_zh": "NEWS IN 10 每日新聞英語｜11 月 21 日",
+  "stories": [
+    {
+      "topic": "臺灣",
+      "headline_en": "Fans Queue Overnight for Pokemon Stamps at Taipei World Exhibition",
+      "headline_zh": "臺北世界郵展登場 粉絲漏夜排隊搶購寶可夢郵票",
+      "sources": [
+        "https://focustaiwan.tw/society/202611200008",
+        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/20/2003868098"
+      ],
+      "sentences": [
+        {
+          "id": "s01",
+          "en": "Hundreds of fans waited in long lines overnight at the Taipei World Trade Center.",
+          "zh": "數百名粉絲在臺北世貿中心外漏夜排起長龍。",
+          "vocab": [
+            {
+              "word": "overnight",
+              "ipa": "",
+              "pos": "adv.",
+              "zh": "通宵；隔夜"
+            }
+          ]
+        },
+        {
+          "id": "s02",
+          "en": "They hoped to buy special Pokemon stamps and gifts at a world stamp exhibition.",
+          "zh": "他們希望在世界郵展上購買特別版的寶可夢郵票與聯名商品。",
+          "vocab": [
+            {
+              "word": "exhibition",
+              "ipa": "",
+              "pos": "n.",
+              "zh": "展覽"
+            }
+          ]
+        },
+        {
+          "id": "s03",
+          "en": "Chunghwa Post created these colorful designs to attract younger people to stamp collecting.",
+          "zh": "中華郵政推出這些繽紛的設計，希望能吸引年輕世代投入集郵。",
+          "vocab": [
+            {
+              "word": "attract",
+              "ipa": "",
+              "pos": "v.",
+              "zh": "吸引"
+            }
+          ]
+        },
+        {
+          "id": "s04",
+          "en": "The free exhibition runs until November 25 and displays rare stamps from around seventy regions.",
+          "zh": "這場免費展覽將持續至十一月二十五日，並展出約七十個國家與地區的珍貴郵票。",
+          "vocab": [
+            {
+              "word": "rare",
+              "ipa": "",
+              "pos": "adj.",
+              "zh": "稀有的；珍貴的"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "生成式AI 發展",
+      "headline_en": "OpenAI Says Coding Agents Finish Nearly Half of Mid-Length Research Tasks",
+      "headline_zh": "OpenAI 報告顯示 AI 代理已能獨力完成近半數中等長度研究任務",
+      "sources": [
+        "https://openai.com/index/research-acceleration-jagged-frontier/",
+        "https://aimagazine.com/news/the-jagged-frontier-openai-commits-to-research-acceleration"
+      ],
+      "sentences": [
+        {
+          "id": "s05",
+          "en": "OpenAI shared a new study about how AI agents help its own engineers.",
+          "zh": "OpenAI 分享了一項新研究，說明 AI 代理如何協助自家工程師工作。",
+          "vocab": [
+            {
+              "word": "engineer",
+              "ipa": "",
+              "pos": "n.",
+              "zh": "工程師"
+            }
+          ]
+        },
+        {
+          "id": "s06",
+          "en": "These smart coding tools can now finish nearly half of medium-length research tasks alone.",
+          "zh": "這些智慧寫程式工具現在能獨力完成近半數的中等長度研究任務。",
+          "vocab": []
+        },
+        {
+          "id": "s07",
+          "en": "The agents are very good at watching test runs and answering technical questions.",
+          "zh": "這些代理特別擅長監控測試執行狀況與回答技術問題。",
+          "vocab": [
+            {
+              "word": "technical",
+              "ipa": "",
+              "pos": "adj.",
+              "zh": "技術的"
+            }
+          ]
+        },
+        {
+          "id": "s08",
+          "en": "However, human scientists are still needed to create fresh ideas and check results.",
+          "zh": "然而，發想創新點子與檢查執行結果依然需要人類科學家親自把關。",
+          "vocab": [
+            {
+              "word": "result",
+              "ipa": "",
+              "pos": "n.",
+              "zh": "結果"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "財經新聞",
+      "headline_en": "Anthropic Shares Fall Nine Percent Amid Global AI Stock Sell-Off",
+      "headline_zh": "全球 AI 類股湧現賣壓 Anthropic 上市次日股價重挫百分之九",
+      "sources": [
+        "https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news",
+        "https://www.caixabankresearch.com/en/publications/financial-markets-daily-report/20-november-2026"
+      ],
+      "sentences": [
+        {
+          "id": "s09",
+          "en": "Global stock markets dropped on Friday as worries about artificial intelligence companies grew.",
+          "zh": "隨著市場對人工智慧企業的擔憂升高，全球股市在週五出現下跌。",
+          "vocab": [
+            {
+              "word": "worry",
+              "ipa": "",
+              "pos": "n.",
+              "zh": "擔憂；憂慮"
+            }
+          ]
+        },
+        {
+          "id": "s10",
+          "en": "Shares of AI startup Anthropic fell nine percent one day after its huge market debut.",
+          "zh": "AI 新創公司 Anthropic 的股價在盛大上市隔天即下跌百分之九。",
+          "vocab": [
+            {
+              "word": "share",
+              "ipa": "",
+              "pos": "n.",
+              "zh": "股票；股份"
+            }
+          ]
+        },
+        {
+          "id": "s11",
+          "en": "Many Asian and European stock indexes also closed lower during a difficult trading week.",
+          "zh": "在這個艱難的交易週中，許多亞洲與歐洲股市指數也收在低點。",
+          "vocab": [
+            {
+              "word": "index",
+              "ipa": "",
+              "pos": "n.",
+              "zh": "指數"
+            }
+          ]
+        },
+        {
+          "id": "s12",
+          "en": "Analysts say investors are now watching high prices and rising energy costs closely.",
+          "zh": "分析師表示，投資人目前正密切關注過高的股價估值與上漲的能源成本。",
+          "vocab": [
+            {
+              "word": "closely",
+              "ipa": "",
+              "pos": "adv.",
+              "zh": "密切地；仔細地"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
