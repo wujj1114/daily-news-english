@@ -1,0 +1,1119 @@
+{
+  "date": "2026-11-22",
+  "total_duration_sec": 515.019,
+  "cache_hits": 48,
+  "cache_misses": 62,
+  "segments": [
+    {
+      "type": "intro",
+      "lang": "en",
+      "text": "Welcome to NEWS IN 10 — Nov 22.",
+      "start_sec": 0.0,
+      "end_sec": 4.286,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/58fd7ddd24bc1f5116ce35c78dd38d584f7a0cfc59fe397e6d230cf857028c01.wav"
+    },
+    {
+      "type": "intro",
+      "lang": "zh",
+      "text": "歡迎收聽 NEWS IN 10 每日新聞英語｜11 月 22 日。",
+      "start_sec": 4.686,
+      "end_sec": 10.977,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/12a2d037aaee3f7c3cb10e817fd57d882700bad814dc0ed19666ea77eb914d43.wav"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "第 1 則新聞：Adobe 發表全新人工智慧平臺，革新創意內容生成方式",
+      "start_sec": 11.977,
+      "end_sec": 19.388,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0c8d230bcc4dc1e4ce0b55929c2cad34eeb97d602433d03ea22ca9c1760fd6e6.wav",
+      "story_index": 1
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Adobe today unveiled an innovative artificial intelligence tool for creative professionals.",
+      "start_sec": 19.988,
+      "end_sec": 26.982,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/39a45e34cd66a9ea9938b95377390e925d2a0bad0f9edba516601c7b1655f872.wav",
+      "story_index": 1,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "Adobe 今天發表了一款針對創意專業人士的創新人工智慧工具。",
+      "start_sec": 27.782,
+      "end_sec": 33.543,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/62632d50bc4c2c369748216f22fb38e8aceb21ed9104912ce0c7c351ecb0a129.wav",
+      "story_index": 1,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "unveiled",
+      "start_sec": 34.143,
+      "end_sec": 35.777,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f8ef9c6dfea49985f43e2a2976a8526d23c48866f311e9f203b89a312e2eb4e3.wav",
+      "story_index": 1,
+      "sentence_id": "s01",
+      "word": "unveiled"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "U, N, V, E, I, L, E, D",
+      "start_sec": 36.177,
+      "end_sec": 40.675,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/6a5c6e4bb5e1470a8f33c362b166c2342801aa242ede7c892354adb8e44d9230.wav",
+      "story_index": 1,
+      "sentence_id": "s01",
+      "word": "unveiled"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "unveiled",
+      "start_sec": 41.075,
+      "end_sec": 42.709,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f8ef9c6dfea49985f43e2a2976a8526d23c48866f311e9f203b89a312e2eb4e3.wav",
+      "story_index": 1,
+      "sentence_id": "s01",
+      "word": "unveiled"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，發表；揭露。",
+      "start_sec": 43.109,
+      "end_sec": 47.43,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/bbf8afb091c46aff3590fed16e5c6ee38f029cef290942050e6cfcf31b1c099f.wav",
+      "story_index": 1,
+      "sentence_id": "s01",
+      "word": "unveiled"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "This new platform allows external AI services to interact directly with Creative Cloud apps.",
+      "start_sec": 47.83,
+      "end_sec": 55.63,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/eac54266956903342c53ad6b0b3a953ca49bdfa18bf2e40878ca37966757bd81.wav",
+      "story_index": 1,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這個新平臺允許外部人工智慧服務直接與 Creative Cloud 應用程式互動。",
+      "start_sec": 56.43,
+      "end_sec": 61.67,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/e00ead35599d9907b7cd7dc75b662e4abf0681dbcf377e6ed27cb8852a0a6e31.wav",
+      "story_index": 1,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "platform",
+      "start_sec": 62.27,
+      "end_sec": 64.042,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/cc453dffd78b82a6bdacb71914ac1b3a8412758953f4a991f620f87b4c23b53f.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "platform"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "P, L, A, T, F, O, R, M",
+      "start_sec": 64.442,
+      "end_sec": 71.819,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/4738c3970273edee67a290dd577be9198ed27d6aae7b0600f534d74942448bd0.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "platform"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "platform",
+      "start_sec": 72.219,
+      "end_sec": 73.991,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/cc453dffd78b82a6bdacb71914ac1b3a8412758953f4a991f620f87b4c23b53f.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "platform"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，平臺。",
+      "start_sec": 74.391,
+      "end_sec": 77.831,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/27527b5e38b3d8167c702517933d3b9258afba867957fc75a48c1220a411fbd0.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "platform"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "It aims to generate highly diverse and realistic digital content.",
+      "start_sec": 78.231,
+      "end_sec": 83.668,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/486b2abab296507f2a2609a1760523f49ed386411a024b4d3eb99be40dcff3e7.wav",
+      "story_index": 1,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "它旨在生成高度多樣化且逼真的數位內容。",
+      "start_sec": 84.468,
+      "end_sec": 88.629,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5978023ca47320a7c8ce7f8a66d4617cd6729342e743923c531ca7f22fd222fa.wav",
+      "story_index": 1,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "generate",
+      "start_sec": 89.229,
+      "end_sec": 91.1,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/14c08b9a1c53f69fff0a230ed11588275dd0865022f5928a30f4b14f5fb2f7f3.wav",
+      "story_index": 1,
+      "sentence_id": "s03",
+      "word": "generate"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "G, E, N, E, R, A, T, E",
+      "start_sec": 91.5,
+      "end_sec": 99.96,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b16aa7c77e956e4156e705a15637cf57f484a312638d3faad1f07bba2249033a.wav",
+      "story_index": 1,
+      "sentence_id": "s03",
+      "word": "generate"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "generate",
+      "start_sec": 100.36,
+      "end_sec": 102.23,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/14c08b9a1c53f69fff0a230ed11588275dd0865022f5928a30f4b14f5fb2f7f3.wav",
+      "story_index": 1,
+      "sentence_id": "s03",
+      "word": "generate"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，生成；產生。",
+      "start_sec": 102.63,
+      "end_sec": 107.031,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0e1d09862a3b42785988594e95e6a2c5bcab97115008933d177f0102d05882b1.wav",
+      "story_index": 1,
+      "sentence_id": "s03",
+      "word": "generate"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "diverse",
+      "start_sec": 107.431,
+      "end_sec": 109.26,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/7dae1b3ea26de6dfcd572691abb889951216218bb5b7899f1025727aab46e398.wav",
+      "story_index": 1,
+      "sentence_id": "s03",
+      "word": "diverse"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "D, I, V, E, R, S, E",
+      "start_sec": 109.66,
+      "end_sec": 114.116,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5b1d930ff5e0e9fc4166609d5cae3165cf2b6323674f51ce9ff90d6076c438e9.wav",
+      "story_index": 1,
+      "sentence_id": "s03",
+      "word": "diverse"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "diverse",
+      "start_sec": 114.516,
+      "end_sec": 116.345,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/7dae1b3ea26de6dfcd572691abb889951216218bb5b7899f1025727aab46e398.wav",
+      "story_index": 1,
+      "sentence_id": "s03",
+      "word": "diverse"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，多樣的。",
+      "start_sec": 116.745,
+      "end_sec": 119.946,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f86a82e2fdf5562df7ff4cd7d90349924e20a83cfbe792b5b57f3522609b8046.wav",
+      "story_index": 1,
+      "sentence_id": "s03",
+      "word": "diverse"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "The company seeks to balance AI adoption with traditional creative methods.",
+      "start_sec": 120.346,
+      "end_sec": 126.589,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/86a5493e3a6eeb4503944719660e41a97ebbd49bff58c8c0e66c533598c23c32.wav",
+      "story_index": 1,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "該公司力求在人工智慧應用與傳統創作方法之間取得平衡。",
+      "start_sec": 127.389,
+      "end_sec": 133.55,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/1f3fe9f6380310016a13af73d5f5ce9a2570363fa09ae11c890565a78bc3bfea.wav",
+      "story_index": 1,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "This strategy addresses both AI enthusiasts and those with concerns.",
+      "start_sec": 134.15,
+      "end_sec": 139.59,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a48a8b4a149888f5ef439e47a10a420a61b297588a421ef1d3e6f18cc6b020f4.wav",
+      "story_index": 1,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這項策略同時顧及了人工智慧愛好者和抱持疑慮的人。",
+      "start_sec": 140.39,
+      "end_sec": 145.43,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/73a9a3bb7b7922c4bf55968023f167b530960e1ccbfe1b6c01ec7c51677561c6.wav",
+      "story_index": 1,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "第 2 則新聞：臺灣科技公司宣布大幅擴建半導體晶圓廠",
+      "start_sec": 147.53,
+      "end_sec": 153.011,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/fefbd8dbf1d84e6194ce513f7ac195715de086ea5dbc0d0a036aafc5883a418c.wav",
+      "story_index": 2
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "A leading Taiwanese tech firm announced a significant expansion of its semiconductor plant.",
+      "start_sec": 153.611,
+      "end_sec": 160.648,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/6846142303132361122281aaf22c940c3c1568278546ea48c299bb1fe882af0e.wav",
+      "story_index": 2,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "一家領先的臺灣科技公司宣布大幅擴建其半導體晶圓廠。",
+      "start_sec": 161.448,
+      "end_sec": 166.969,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/064c8db4db579f3397a32dc9a396679b78c4e963d9686bd18bbbf822478f8900.wav",
+      "story_index": 2,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "expansion",
+      "start_sec": 167.569,
+      "end_sec": 169.3,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a9b819d01d9cd60d312631b90c1bb95923f8eb1e8c14d92216e1f57a89556038.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "expansion"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "E, X, P, A, N, S, I, O, N",
+      "start_sec": 169.7,
+      "end_sec": 178.249,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/08e54ba53f9d1fc73da05b59b7b3bdd562f2fd6b9b656ee3796e6f71409f479b.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "expansion"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "expansion",
+      "start_sec": 178.649,
+      "end_sec": 180.38,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a9b819d01d9cd60d312631b90c1bb95923f8eb1e8c14d92216e1f57a89556038.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "expansion"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，擴建；擴張。",
+      "start_sec": 180.78,
+      "end_sec": 184.981,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5bd63d27dc125a08a43dc82ccdf731f8323b499dd1eb15b67ef5d6a396dc2174.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "expansion"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "semiconductor",
+      "start_sec": 185.381,
+      "end_sec": 187.162,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ed69311c704728b6013c0bf6f79f9634f0afff7a2494ca0db61255e638ff0d82.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "semiconductor"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "S, E, M, I, C, O, N, D, U, C, T, O, R",
+      "start_sec": 187.562,
+      "end_sec": 189.487,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0a2cd3e9c4ca33b3d0e3e85ba1dd59ad86bcdcb79767abadfcf9445949147a30.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "semiconductor"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "semiconductor",
+      "start_sec": 189.887,
+      "end_sec": 191.668,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ed69311c704728b6013c0bf6f79f9634f0afff7a2494ca0db61255e638ff0d82.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "semiconductor"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，半導體。",
+      "start_sec": 192.068,
+      "end_sec": 195.279,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0ad2dc335e79c22216a5dbdea795b51ebdabbe5bab0ab92674ff4eefe161631f.wav",
+      "story_index": 2,
+      "sentence_id": "s01",
+      "word": "semiconductor"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "This move aims to bolster global chip supply capacity for advanced technologies.",
+      "start_sec": 195.679,
+      "end_sec": 201.837,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/6c957a530fe124e3e3d4bc05590192a744334298021e9fe84a6f7d7a03eba324.wav",
+      "story_index": 2,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "此舉旨在增強全球先進技術晶片的供應產能。",
+      "start_sec": 202.637,
+      "end_sec": 207.237,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/41d80a53d60938d4f78267ad3825e3f4de06a0f540ba71ab4313535b8b05468a.wav",
+      "story_index": 2,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "bolster",
+      "start_sec": 207.837,
+      "end_sec": 209.136,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0452d08996d4693b66be374a05b28592dda2048f2bb6befbd89a08377360fa2c.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "bolster"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "B, O, L, S, T, E, R",
+      "start_sec": 209.536,
+      "end_sec": 214.329,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/8c9e49a0463469a98a54439ee79a8b9fe052095b94a4c6312e12fe3ebcce44a7.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "bolster"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "bolster",
+      "start_sec": 214.729,
+      "end_sec": 216.028,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0452d08996d4693b66be374a05b28592dda2048f2bb6befbd89a08377360fa2c.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "bolster"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，增強；支持。",
+      "start_sec": 216.428,
+      "end_sec": 220.748,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f93bc1bfa904755b3201984cb14337ea5c5f21755fb58f114153c34268161db0.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "bolster"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "capacity",
+      "start_sec": 221.148,
+      "end_sec": 223.024,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/8bb486b2e13d6ab8df2b8fc02abbfaf4c443af54442feac1fcad50b84186a86c.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "capacity"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "C, A, P, A, C, I, T, Y",
+      "start_sec": 223.424,
+      "end_sec": 232.78,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ca5382bfd56f99dc47e844a2e78a38e702e063fe48a49620552f537949b3b14e.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "capacity"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "capacity",
+      "start_sec": 233.18,
+      "end_sec": 235.055,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/8bb486b2e13d6ab8df2b8fc02abbfaf4c443af54442feac1fcad50b84186a86c.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "capacity"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，產能；容量。",
+      "start_sec": 235.455,
+      "end_sec": 239.016,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c26c94e328666ac1a5b556fab5d4405006554e0bf3b34d4b47239a6c31fbd3e9.wav",
+      "story_index": 2,
+      "sentence_id": "s02",
+      "word": "capacity"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "The new facility will focus on next-generation artificial intelligence chips.",
+      "start_sec": 239.416,
+      "end_sec": 245.15,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/360e377a783f2458170db954537be4a2c9d8c34210a26a4f8b084ec1a3bf4089.wav",
+      "story_index": 2,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "新廠將專注於下一代人工智慧晶片。",
+      "start_sec": 245.95,
+      "end_sec": 249.391,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/cbd67eea4bfdaa85231f39d6788d3932212c5e5639d891218ff001dd5e59f44b.wav",
+      "story_index": 2,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "It represents a major investment in Taiwan's crucial technology sector.",
+      "start_sec": 249.991,
+      "end_sec": 256.235,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/54ca2a6e16a0b6abcd81e8be44aa32fac8162ef9480ac6aa6f5ddbcb79f302be.wav",
+      "story_index": 2,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這代表著對臺灣關鍵科技產業的一項重大投資。",
+      "start_sec": 257.035,
+      "end_sec": 261.716,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/97c2cde22af1d5fc09da427740f7e989cf1c0b6a82a925c6b70a8cb26d887b04.wav",
+      "story_index": 2,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "The project is expected to create thousands of new jobs locally.",
+      "start_sec": 262.316,
+      "end_sec": 267.669,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b69557ff4a504e25de70d21d8de42aca3eccbd4aa4905c9cb3efd45fb6521102.wav",
+      "story_index": 2,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "該專案預計將在當地創造數千個新工作機會。",
+      "start_sec": 268.469,
+      "end_sec": 272.59,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b4bace080c2d664e909709d544230b4c46393e1b866bf3ef8d8e4c56139b0fc3.wav",
+      "story_index": 2,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "第 3 則新聞：全球經濟在持續的市場挑戰中展現韌性",
+      "start_sec": 274.69,
+      "end_sec": 280.77,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/60f37841ccb64188314c5d3ad23279d63ee577694523f3ef77bee9f2ddba06bf.wav",
+      "story_index": 3
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "A new report highlights the global economy's resilience despite recent market fluctuations.",
+      "start_sec": 281.37,
+      "end_sec": 288.514,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/dd8c2f4e3182505c5d5ded73e40e08ac888042d8ca953e984a3a4e00b28c6326.wav",
+      "story_index": 3,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "一份新報告強調，儘管近期市場波動，全球經濟仍展現韌性。",
+      "start_sec": 289.314,
+      "end_sec": 295.234,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/3b87fede847c38dc84c2b0ba784b7119d8a8c02fa62606a684cd38055255d0b7.wav",
+      "story_index": 3,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "resilience",
+      "start_sec": 295.834,
+      "end_sec": 297.805,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/1d1dbebef1320e8ea8512385368ac402833d2c47b2112920099effcc4c0fda17.wav",
+      "story_index": 3,
+      "sentence_id": "s01",
+      "word": "resilience"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "R, E, S, I, L, I, E, N, C, E",
+      "start_sec": 298.205,
+      "end_sec": 309.632,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/53f8cd3f65c12cd31ccebc00c30c9acceeecb7512cf266a198431f0da104faa1.wav",
+      "story_index": 3,
+      "sentence_id": "s01",
+      "word": "resilience"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "resilience",
+      "start_sec": 310.032,
+      "end_sec": 312.003,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/1d1dbebef1320e8ea8512385368ac402833d2c47b2112920099effcc4c0fda17.wav",
+      "story_index": 3,
+      "sentence_id": "s01",
+      "word": "resilience"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，韌性；彈性。",
+      "start_sec": 312.403,
+      "end_sec": 316.363,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/00e9ab13ef955444fc2771ba447b91057a518a07d376b57a5ccf890f526e0c54.wav",
+      "story_index": 3,
+      "sentence_id": "s01",
+      "word": "resilience"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "fluctuations",
+      "start_sec": 316.763,
+      "end_sec": 318.826,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9dcee602de76989b45667d43b811be2061bdac108bd7c219686bf2b17bfac607.wav",
+      "story_index": 3,
+      "sentence_id": "s01",
+      "word": "fluctuations"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "F, L, U, C, T, U, A, T, I, O, N, S",
+      "start_sec": 319.226,
+      "end_sec": 333.091,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/766b97f22b676d862457582e19fa6c82c51a12699aede64202bad3dae81f41e1.wav",
+      "story_index": 3,
+      "sentence_id": "s01",
+      "word": "fluctuations"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "fluctuations",
+      "start_sec": 333.491,
+      "end_sec": 335.554,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9dcee602de76989b45667d43b811be2061bdac108bd7c219686bf2b17bfac607.wav",
+      "story_index": 3,
+      "sentence_id": "s01",
+      "word": "fluctuations"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，波動；起伏。",
+      "start_sec": 335.954,
+      "end_sec": 340.275,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9a2d2ac6db239589dc20cb2d7b2f710a741fecc4880c687fd4884378232c0332.wav",
+      "story_index": 3,
+      "sentence_id": "s01",
+      "word": "fluctuations"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Analysts maintain a cautiously optimistic outlook for the coming year.",
+      "start_sec": 340.675,
+      "end_sec": 346.827,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b217f997c6dd7f7bd15a874076f683970a6895f854f0b8ddf2c63b6804ab2928.wav",
+      "story_index": 3,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "分析師對來年保持謹慎樂觀的展望。",
+      "start_sec": 347.627,
+      "end_sec": 352.148,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/fa4acf3247ceb7369114c6d33c9fd8600dd92982e902ebcfa8e86a71624bef33.wav",
+      "story_index": 3,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "outlook",
+      "start_sec": 352.748,
+      "end_sec": 354.377,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/47b52cf94df48c3a66f473bb81c96b7c09cd106d4e440ad9f01e752f626ea5a3.wav",
+      "story_index": 3,
+      "sentence_id": "s02",
+      "word": "outlook"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "O, U, T, L, O, O, K",
+      "start_sec": 354.777,
+      "end_sec": 359.712,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/262a5bc672db6d8db81a0b11bc01e917d73ec18b3214af463b77131c31efe444.wav",
+      "story_index": 3,
+      "sentence_id": "s02",
+      "word": "outlook"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "outlook",
+      "start_sec": 360.112,
+      "end_sec": 361.741,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/47b52cf94df48c3a66f473bb81c96b7c09cd106d4e440ad9f01e752f626ea5a3.wav",
+      "story_index": 3,
+      "sentence_id": "s02",
+      "word": "outlook"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，展望；前景。",
+      "start_sec": 362.141,
+      "end_sec": 366.302,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/aa559e921e7b377fb0a1c577671f346c5d392839375dcb9ad02e143b624a95fc.wav",
+      "story_index": 3,
+      "sentence_id": "s02",
+      "word": "outlook"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Key sectors are adapting well to changing consumer demands and supply issues.",
+      "start_sec": 366.702,
+      "end_sec": 373.558,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/3887715e70e245012784ef73204a2ed645f0b0c62a43e818fd8aa73af6d2f861.wav",
+      "story_index": 3,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "關鍵產業正良好地適應不斷變化的消費者需求和供應問題。",
+      "start_sec": 374.358,
+      "end_sec": 380.958,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f02e8e8cbc43c1ffec0291e049eb6b71c2359ab4f2aa5e408d60693cab67370e.wav",
+      "story_index": 3,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Governments and central banks continue to navigate complex economic landscapes.",
+      "start_sec": 381.558,
+      "end_sec": 388.315,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/754c3adf857c1793d9e1a9930cef0693fb78732e264208624f3c7bc559220d0b.wav",
+      "story_index": 3,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "各國政府和中央銀行持續應對複雜的經濟情勢。",
+      "start_sec": 389.115,
+      "end_sec": 393.876,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/6bced791a742703743bb9e31725d1bb13363e87baf6a0a27ce4999f20a74b0af.wav",
+      "story_index": 3,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "navigate",
+      "start_sec": 394.476,
+      "end_sec": 396.157,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f30dc6bfd06cdf49c839b5c1fa4d86097b15228e37874b703b3c41b2b51dc95e.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "navigate"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "N, A, V, I, G, A, T, E",
+      "start_sec": 396.557,
+      "end_sec": 404.16,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b1d095aa861a586d05c5fd4e8e5f2da6903818615fcb27e2bf29d352f0a834f1.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "navigate"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "navigate",
+      "start_sec": 404.56,
+      "end_sec": 406.241,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f30dc6bfd06cdf49c839b5c1fa4d86097b15228e37874b703b3c41b2b51dc95e.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "navigate"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，應對；導航。",
+      "start_sec": 406.641,
+      "end_sec": 410.562,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/98b57874ecd2845441df291a208f978409d8f9fe4b815fa0f3beffdda331503f.wav",
+      "story_index": 3,
+      "sentence_id": "s04",
+      "word": "navigate"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "However, inflation and geopolitical tensions remain significant concerns.",
+      "start_sec": 410.962,
+      "end_sec": 417.633,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/7a8d823c34fee34165b1e526658d57a4b6ba34c0a230dfc800e39394ee540934.wav",
+      "story_index": 3,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "然而，通貨膨脹和地緣政治緊張局勢仍是重大隱憂。",
+      "start_sec": 418.433,
+      "end_sec": 424.153,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/d6cdfe9202a1f3cfa57066fa6d67ed544e7b6fdfc5e226b396207d49103de4bf.wav",
+      "story_index": 3,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "outro",
+      "lang": "zh",
+      "text": "最後讓我們快速複習今天學到的單字。",
+      "start_sec": 425.753,
+      "end_sec": 429.194,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/96a8c12ff414ac63850914dd9f7d466a5ac048c7088759e1aad393a3ce3e5747.wav"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "unveiled",
+      "start_sec": 429.694,
+      "end_sec": 431.328,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f8ef9c6dfea49985f43e2a2976a8526d23c48866f311e9f203b89a312e2eb4e3.wav",
+      "word": "unveiled"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，發表；揭露。",
+      "start_sec": 431.728,
+      "end_sec": 436.048,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/bbf8afb091c46aff3590fed16e5c6ee38f029cef290942050e6cfcf31b1c099f.wav",
+      "word": "unveiled"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "platform",
+      "start_sec": 436.448,
+      "end_sec": 438.22,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/cc453dffd78b82a6bdacb71914ac1b3a8412758953f4a991f620f87b4c23b53f.wav",
+      "word": "platform"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，平臺。",
+      "start_sec": 438.62,
+      "end_sec": 442.06,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/27527b5e38b3d8167c702517933d3b9258afba867957fc75a48c1220a411fbd0.wav",
+      "word": "platform"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "generate",
+      "start_sec": 442.46,
+      "end_sec": 444.331,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/14c08b9a1c53f69fff0a230ed11588275dd0865022f5928a30f4b14f5fb2f7f3.wav",
+      "word": "generate"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，生成；產生。",
+      "start_sec": 444.731,
+      "end_sec": 449.132,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0e1d09862a3b42785988594e95e6a2c5bcab97115008933d177f0102d05882b1.wav",
+      "word": "generate"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "diverse",
+      "start_sec": 449.532,
+      "end_sec": 451.36,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/7dae1b3ea26de6dfcd572691abb889951216218bb5b7899f1025727aab46e398.wav",
+      "word": "diverse"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，多樣的。",
+      "start_sec": 451.76,
+      "end_sec": 454.961,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f86a82e2fdf5562df7ff4cd7d90349924e20a83cfbe792b5b57f3522609b8046.wav",
+      "word": "diverse"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "expansion",
+      "start_sec": 455.361,
+      "end_sec": 457.093,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a9b819d01d9cd60d312631b90c1bb95923f8eb1e8c14d92216e1f57a89556038.wav",
+      "word": "expansion"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，擴建；擴張。",
+      "start_sec": 457.493,
+      "end_sec": 461.693,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5bd63d27dc125a08a43dc82ccdf731f8323b499dd1eb15b67ef5d6a396dc2174.wav",
+      "word": "expansion"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "semiconductor",
+      "start_sec": 462.093,
+      "end_sec": 463.874,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ed69311c704728b6013c0bf6f79f9634f0afff7a2494ca0db61255e638ff0d82.wav",
+      "word": "semiconductor"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，半導體。",
+      "start_sec": 464.274,
+      "end_sec": 467.485,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0ad2dc335e79c22216a5dbdea795b51ebdabbe5bab0ab92674ff4eefe161631f.wav",
+      "word": "semiconductor"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "bolster",
+      "start_sec": 467.885,
+      "end_sec": 469.184,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0452d08996d4693b66be374a05b28592dda2048f2bb6befbd89a08377360fa2c.wav",
+      "word": "bolster"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，增強；支持。",
+      "start_sec": 469.584,
+      "end_sec": 473.905,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f93bc1bfa904755b3201984cb14337ea5c5f21755fb58f114153c34268161db0.wav",
+      "word": "bolster"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "capacity",
+      "start_sec": 474.305,
+      "end_sec": 476.18,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/8bb486b2e13d6ab8df2b8fc02abbfaf4c443af54442feac1fcad50b84186a86c.wav",
+      "word": "capacity"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，產能；容量。",
+      "start_sec": 476.58,
+      "end_sec": 480.141,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c26c94e328666ac1a5b556fab5d4405006554e0bf3b34d4b47239a6c31fbd3e9.wav",
+      "word": "capacity"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "resilience",
+      "start_sec": 480.541,
+      "end_sec": 482.511,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/1d1dbebef1320e8ea8512385368ac402833d2c47b2112920099effcc4c0fda17.wav",
+      "word": "resilience"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，韌性；彈性。",
+      "start_sec": 482.911,
+      "end_sec": 486.872,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/00e9ab13ef955444fc2771ba447b91057a518a07d376b57a5ccf890f526e0c54.wav",
+      "word": "resilience"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "fluctuations",
+      "start_sec": 487.272,
+      "end_sec": 489.335,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9dcee602de76989b45667d43b811be2061bdac108bd7c219686bf2b17bfac607.wav",
+      "word": "fluctuations"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，波動；起伏。",
+      "start_sec": 489.735,
+      "end_sec": 494.055,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9a2d2ac6db239589dc20cb2d7b2f710a741fecc4880c687fd4884378232c0332.wav",
+      "word": "fluctuations"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "outlook",
+      "start_sec": 494.455,
+      "end_sec": 496.084,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/47b52cf94df48c3a66f473bb81c96b7c09cd106d4e440ad9f01e752f626ea5a3.wav",
+      "word": "outlook"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，展望；前景。",
+      "start_sec": 496.484,
+      "end_sec": 500.645,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/aa559e921e7b377fb0a1c577671f346c5d392839375dcb9ad02e143b624a95fc.wav",
+      "word": "outlook"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "navigate",
+      "start_sec": 501.045,
+      "end_sec": 502.726,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f30dc6bfd06cdf49c839b5c1fa4d86097b15228e37874b703b3c41b2b51dc95e.wav",
+      "word": "navigate"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，應對；導航。",
+      "start_sec": 503.126,
+      "end_sec": 507.047,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/98b57874ecd2845441df291a208f978409d8f9fe4b815fa0f3beffdda331503f.wav",
+      "word": "navigate"
+    },
+    {
+      "type": "outro",
+      "lang": "en",
+      "text": "Thanks for listening to NEWS IN 10. See you tomorrow!",
+      "start_sec": 507.447,
+      "end_sec": 511.579,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/8ad249f376a23a4cbbf58f606f65845bb1776f86978a4803799b18a1390cf4d3.wav"
+    },
+    {
+      "type": "outro",
+      "lang": "zh",
+      "text": "感謝收聽 NEWS IN 10，我們明天見。",
+      "start_sec": 511.979,
+      "end_sec": 515.019,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/dcfa8d1f94019496e8a2ebe1525c7d9693ecc76c8b44fafc49f20caf499d410f.wav"
+    }
+  ]
+}
