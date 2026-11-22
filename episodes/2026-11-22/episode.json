@@ -4,188 +4,198 @@
   "title_zh": "NEWS IN 10 每日新聞英語｜11 月 22 日",
   "stories": [
     {
-      "topic": "臺灣",
-      "headline_en": "First Snowfall of the Season Hits Shei-Pa National Park",
-      "headline_zh": "入冬冷空氣報到 雪霸國家公園降下今年初雪",
+      "topic": "AI 發展",
+      "headline_en": "New AI Chips Focus on Energy Efficiency for Data Centers",
+      "headline_zh": "新型人工智慧晶片著重資料中心的能源效率",
       "sources": [
-        "https://focustaiwan.tw/society/202611210006",
-        "https://www.cna.com.tw/news/ahel/202611210049.aspx"
+        "https://global.fujitsu.com/en/pr/news/2026/09/14-02.html",
+        "https://www.datacenterdynamics.com/en/news/ecolab-launches-cooling-platform-for-ai-data-centres/"
       ],
       "sentences": [
         {
           "id": "s01",
-          "en": "Cold air brought the first snow of the season to Shei-Pa National Park.",
-          "zh": "冷空氣為雪霸國家公園帶來了今年入冬的第一場瑞雪。",
+          "en": "New artificial intelligence (AI) chips are focusing on energy-efficient designs for data centers.",
+          "zh": "新型人工智慧（AI）晶片正著重於資料中心的能源效率設計。",
           "vocab": [
             {
-              "word": "season",
-              "ipa": "",
-              "pos": "n.",
-              "zh": "季節"
+              "word": "efficient",
+              "ipa": "/ɪfˈɪʃənt/",
+              "pos": "adj.",
+              "zh": "有效率的"
             }
           ]
         },
         {
           "id": "s02",
-          "en": "White snow covered high mountain areas above three thousand meters early Friday morning.",
-          "zh": "週五清晨，海拔三千公尺以上的高山地區覆蓋上一層白雪。",
+          "en": "Fujitsu showcased a 2-nanometer CPU for high-performance computing with improved energy use.",
+          "zh": "富士通展示了一款 2 奈米中央處理器，用於高效能運算，並提升了能源使用效率。",
+          "vocab": []
+        },
+        {
+          "id": "s03",
+          "en": "Ecolab also launched a new cooling platform to boost computing power and resource efficiency.",
+          "zh": "藝康（Ecolab）也推出了一個新的散熱平台，以提升運算能力和資源效率。",
+          "vocab": []
+        },
+        {
+          "id": "s04",
+          "en": "Infineon and Megmeet are developing advanced power systems for AI data center infrastructure.",
+          "zh": "英飛凌和麥格米特正在為人工智慧資料中心基礎設施開發先進的電源系統。",
           "vocab": [
             {
-              "word": "cover",
-              "ipa": "",
-              "pos": "v.",
-              "zh": "覆蓋"
+              "word": "infrastructure",
+              "ipa": "/ˌɪnfɹəstɹˈʌktʃɚ/",
+              "pos": "n.",
+              "zh": "基礎設施"
+            }
+          ]
+        },
+        {
+          "id": "s05",
+          "en": "This aims to enhance data processing speeds and overall energy savings.",
+          "zh": "這旨在提升資料處理速度和整體能源節約。",
+          "vocab": [
+            {
+              "word": "processing",
+              "ipa": "/pɹˈɑsɛsɪŋ/",
+              "pos": "n.",
+              "zh": "處理"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "臺灣",
+      "headline_en": "Taiwan's Semiconductor Industry Faces Challenges Amidst Strong AI Demand",
+      "headline_zh": "臺灣半導體產業在強勁人工智慧需求下仍面臨挑戰",
+      "sources": [
+        "https://english.cw.com.tw/articles/300101",
+        "https://www.taipeitimes.com/News/biz/archives/2026/11/19/2003868623"
+      ],
+      "sentences": [
+        {
+          "id": "s01",
+          "en": "Taiwan's semiconductor industry is projected for significant growth in 2026.",
+          "zh": "臺灣的半導體產業預計在 2026 年將有顯著成長。",
+          "vocab": [
+            {
+              "word": "semiconductor",
+              "ipa": "/sˌɛmikəndˈʌktɚ/",
+              "pos": "n.",
+              "zh": "半導體"
+            }
+          ]
+        },
+        {
+          "id": "s02",
+          "en": "This growth is fueled by strong global demand for advanced AI chips.",
+          "zh": "這項成長主要受全球對先進人工智慧晶片強勁需求的推動。",
+          "vocab": [
+            {
+              "word": "demand",
+              "ipa": "/dɪmˈænd/",
+              "pos": "n.",
+              "zh": "需求"
+            },
+            {
+              "word": "advanced",
+              "ipa": "/ədvˈænst/",
+              "pos": "adj.",
+              "zh": "先進的"
             }
           ]
         },
         {
           "id": "s03",
-          "en": "Park officials warned hikers that melting snow quickly turns into slippery ice.",
-          "zh": "雪管處提醒山友，融化的積雪很快會結成濕滑的薄冰。",
-          "vocab": [
-            {
-              "word": "slippery",
-              "ipa": "",
-              "pos": "adj.",
-              "zh": "濕滑的；滑溜的"
-            }
-          ]
+          "en": "However, TSMC is tightening restrictions on Chinese chip designers due to new US export rules.",
+          "zh": "然而，由於美國新的出口規定，臺積電正收緊對中國晶片設計商的限制。",
+          "vocab": []
         },
         {
           "id": "s04",
-          "en": "Visitors must carry proper winter gear and check weather reports before climbing.",
-          "zh": "入山民眾務必攜帶適當的雪季裝備，並在攀登前確認氣象預報。",
-          "vocab": [
-            {
-              "word": "proper",
-              "ipa": "",
-              "pos": "adj.",
-              "zh": "適當的；合適的"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "topic": "生成式AI 發展",
-      "headline_en": "Mathematician Claims Claude AI Helped Prove Famous Riemann Hypothesis",
-      "headline_zh": "數學家宣稱攜手 Claude AI 證明百年數學難題黎曼猜想",
-      "sources": [
-        "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-        "https://amp.dw.com/en/anthropic-researcher-uses-ai-to-solve-maths-greatest-riddle/a-80008428"
-      ],
-      "sentences": [
+          "en": "This limits their access to Taiwan's cutting-edge manufacturing processes.",
+          "zh": "這限制了他們使用臺灣尖端製造技術的機會。",
+          "vocab": []
+        },
         {
           "id": "s05",
-          "en": "A mathematician at Anthropic claimed he solved a famous math puzzle with AI.",
-          "zh": "一名任職於 Anthropic 的數學家宣稱，他與 AI 共同解開了一道著名數學難題。",
+          "en": "The local stock market also saw a plunge, leading to new stabilization measures.",
+          "zh": "本地股市也出現暴跌，導致政府採取新的穩定措施。",
           "vocab": [
             {
-              "word": "claim",
-              "ipa": "",
-              "pos": "v.",
-              "zh": "宣稱；主張"
-            },
-            {
-              "word": "puzzle",
-              "ipa": "",
+              "word": "industry",
+              "ipa": "/ˈɪndəstɹi/",
               "pos": "n.",
-              "zh": "難題；謎題"
-            }
-          ]
-        },
-        {
-          "id": "s06",
-          "en": "He worked with the Claude AI model to study the 167-year-old Riemann hypothesis.",
-          "zh": "他與 Claude 模型合作，共同研究擁有 167 年歷史的黎曼猜想。",
-          "vocab": []
-        },
-        {
-          "id": "s07",
-          "en": "The team shared massive computer files so other experts can check every step.",
-          "zh": "團隊公開了龐大的電腦驗證檔案，讓其他專家能逐一檢視每個步驟。",
-          "vocab": [
-            {
-              "word": "massive",
-              "ipa": "",
-              "pos": "adj.",
-              "zh": "龐大的；巨大的"
-            }
-          ]
-        },
-        {
-          "id": "s08",
-          "en": "However, outside scientists say the proof still needs careful human review before acceptance.",
-          "zh": "不過，外界學者表示這份證明仍需經過審慎的人工審查才能正式獲得承認。",
-          "vocab": [
-            {
-              "word": "review",
-              "ipa": "",
-              "pos": "n.",
-              "zh": "審查；檢視"
+              "zh": "產業"
             }
           ]
         }
       ]
     },
     {
-      "topic": "生活品味與旅遊",
-      "headline_en": "Singapore Gardens by the Bay Opens Arctic-Themed Christmas Train Show",
-      "headline_zh": "新加坡濱海灣花園推出北極風聖誕火車特展",
+      "topic": "生活",
+      "headline_en": "Daily Outdoor Walks Boost Mental Well-being, Studies Confirm",
+      "headline_zh": "研究證實：每日戶外散步有助提升心理健康",
       "sources": [
-        "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/gardens-by-the-bay-christmas-train-show-2026.html",
-        "https://cnalifestyle.channelnewsasia.com/travel/gardens-bay-christmas-train-show-2026-finland-591961",
-        "https://www.asiaone.com/lifestyle/gardens-bay-christmas-display-arctic-showstopper"
+        "https://www.health.mn.gov/communities/environment/nature/mentalhealth.html",
+        "https://www.apa.org/news/press/releases/2026/09/nature-mental-health"
       ],
       "sentences": [
         {
-          "id": "s09",
-          "en": "Gardens by the Bay in Singapore opened its popular Christmas Train Show this weekend.",
-          "zh": "新加坡濱海灣花園本週末推出了備受歡迎的聖誕火車展。",
+          "id": "s01",
+          "en": "New studies confirm that daily outdoor walks significantly improve mental health.",
+          "zh": "新的研究證實，每日戶外散步能顯著改善心理健康。",
+          "vocab": [
+            {
+              "word": "outdoors",
+              "ipa": "/ˈaʊtdˈɔɹz/",
+              "pos": "adv.",
+              "zh": "戶外"
+            },
+            {
+              "word": "significantly",
+              "ipa": "/sɪɡnˈɪfɪkəntli/",
+              "pos": "adv.",
+              "zh": "顯著地"
+            }
+          ]
+        },
+        {
+          "id": "s02",
+          "en": "Walking helps reduce stress and boosts emotional well-being.",
+          "zh": "散步有助於減輕壓力和提升情緒健康。",
+          "vocab": [
+            {
+              "word": "mental",
+              "ipa": "/mˈɛntəl/",
+              "pos": "adj.",
+              "zh": "心理的"
+            }
+          ]
+        },
+        {
+          "id": "s03",
+          "en": "Even short periods in nature can positively impact mood and cognitive function.",
+          "zh": "即使是短暫的親近大自然，也能對情緒和認知功能產生正面影響。",
           "vocab": []
         },
         {
-          "id": "s10",
-          "en": "Model trains travel through bright flower gardens and tiny scenes from Finland.",
-          "zh": "模型火車穿梭在繽紛的花園與來自芬蘭的迷你造景之間。",
+          "id": "s04",
+          "en": "Researchers found that natural environments are especially beneficial for feelings.",
+          "zh": "研究人員發現，自然環境對情緒感受特別有益。",
+          "vocab": []
+        },
+        {
+          "id": "s05",
+          "en": "This simple habit contributes to a healthier and happier life.",
+          "zh": "這個簡單的習慣有助於擁有更健康、更快樂的生活。",
           "vocab": [
             {
-              "word": "scene",
-              "ipa": "",
+              "word": "well-being",
+              "ipa": "/wˈɛl bˈiɪŋ/",
               "pos": "n.",
-              "zh": "場景；景色"
-            }
-          ]
-        },
-        {
-          "id": "s11",
-          "en": "Families can explore Santa's cozy wooden home and see cheerful holiday trees.",
-          "zh": "親子旅客可以探索聖誕老人溫馨的木屋，並欣賞充滿節慶氣氛的聖誕樹。",
-          "vocab": [
-            {
-              "word": "cozy",
-              "ipa": "",
-              "pos": "adj.",
-              "zh": "溫馨舒適的"
-            },
-            {
-              "word": "cheerful",
-              "ipa": "",
-              "pos": "adj.",
-              "zh": "歡樂的；愉快的"
-            }
-          ]
-        },
-        {
-          "id": "s12",
-          "en": "The festive indoor display will welcome travelers from around the world until January.",
-          "zh": "這場充滿節日氣息的室內展覽將開放至明年一月，迎接來自世界各地的旅客。",
-          "vocab": [
-            {
-              "word": "festive",
-              "ipa": "",
-              "pos": "adj.",
-              "zh": "節慶的；歡樂的"
+              "zh": "幸福；安康"
             }
           ]
         }
