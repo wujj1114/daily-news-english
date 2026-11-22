@@ -4,205 +4,190 @@
   "title_zh": "NEWS IN 10 每日新聞英語｜11 月 22 日",
   "stories": [
     {
-      "topic": "AI 發展",
-      "headline_en": "Adobe Unveils New AI Platform for Creative Content Generation",
-      "headline_zh": "Adobe 發表全新人工智慧平臺，革新創意內容生成方式",
-      "sources": [
-        "https://www.life.com.tw/article/422201/%E2%80%8BAdobe%E6%8E%A8MCP%E4%B8%B2%E6%8E%A5%E5%A4%96%E9%83%A8AI-%E5%90%8C%E6%99%82%E6%8B%89%E7%AF%84%E6%87%B7%E7%96%91%E8%80%85%E8%88%87%E6%93%81%E8%AD%B7%E8%80%85---LIFE%E7%94%9F%E6%B4%BB%E7%B6%B2",
-        "https://www.sunmedia.tw/2026/11/21/116480/"
-      ],
-      "sentences": [
-        {
-          "id": "s01",
-          "en": "Adobe today unveiled an innovative artificial intelligence tool for creative professionals.",
-          "zh": "Adobe 今天發表了一款針對創意專業人士的創新人工智慧工具。",
-          "vocab": [
-            {
-              "word": "unveiled",
-              "ipa": "/ənvˈeɪld/",
-              "pos": "v.",
-              "zh": "發表；揭露"
-            }
-          ]
-        },
-        {
-          "id": "s02",
-          "en": "This new platform allows external AI services to interact directly with Creative Cloud apps.",
-          "zh": "這個新平臺允許外部人工智慧服務直接與 Creative Cloud 應用程式互動。",
-          "vocab": [
-            {
-              "word": "platform",
-              "ipa": "/plˈætfˌɔɹm/",
-              "pos": "n.",
-              "zh": "平臺"
-            }
-          ]
-        },
-        {
-          "id": "s03",
-          "en": "It aims to generate highly diverse and realistic digital content.",
-          "zh": "它旨在生成高度多樣化且逼真的數位內容。",
-          "vocab": [
-            {
-              "word": "generate",
-              "ipa": "/dʒˈɛnɚˌeɪt/",
-              "pos": "v.",
-              "zh": "生成；產生"
-            },
-            {
-              "word": "diverse",
-              "ipa": "/daɪvˈɝs/",
-              "pos": "adj.",
-              "zh": "多樣的"
-            }
-          ]
-        },
-        {
-          "id": "s04",
-          "en": "The company seeks to balance AI adoption with traditional creative methods.",
-          "zh": "該公司力求在人工智慧應用與傳統創作方法之間取得平衡。",
-          "vocab": []
-        },
-        {
-          "id": "s05",
-          "en": "This strategy addresses both AI enthusiasts and those with concerns.",
-          "zh": "這項策略同時顧及了人工智慧愛好者和抱持疑慮的人。",
-          "vocab": []
-        }
-      ]
-    },
-    {
       "topic": "臺灣",
-      "headline_en": "Taiwanese Tech Firm Announces Major Semiconductor Plant Expansion",
-      "headline_zh": "臺灣科技公司宣布大幅擴建半導體晶圓廠",
+      "headline_en": "First Snowfall of the Season Hits Shei-Pa National Park",
+      "headline_zh": "入冬冷空氣報到 雪霸國家公園降下今年初雪",
       "sources": [
-        "https://www.ftnn.com.tw/news/40968",
-        "https://www.rti.org.tw/news/view/id/2187654"
+        "https://focustaiwan.tw/society/202611210006",
+        "https://www.cna.com.tw/news/ahel/202611210049.aspx"
       ],
       "sentences": [
         {
           "id": "s01",
-          "en": "A leading Taiwanese tech firm announced a significant expansion of its semiconductor plant.",
-          "zh": "一家領先的臺灣科技公司宣布大幅擴建其半導體晶圓廠。",
+          "en": "Cold air brought the first snow of the season to Shei-Pa National Park.",
+          "zh": "冷空氣為雪霸國家公園帶來了今年入冬的第一場瑞雪。",
           "vocab": [
             {
-              "word": "expansion",
-              "ipa": "/ɪkspˈænʃən/",
+              "word": "season",
+              "ipa": "",
               "pos": "n.",
-              "zh": "擴建；擴張"
-            },
-            {
-              "word": "semiconductor",
-              "ipa": "/sˌɛmikəndˈʌktɚ/",
-              "pos": "n.",
-              "zh": "半導體"
+              "zh": "季節"
             }
           ]
         },
         {
           "id": "s02",
-          "en": "This move aims to bolster global chip supply capacity for advanced technologies.",
-          "zh": "此舉旨在增強全球先進技術晶片的供應產能。",
+          "en": "White snow covered high mountain areas above three thousand meters early Friday morning.",
+          "zh": "週五清晨，海拔三千公尺以上的高山地區覆蓋上一層白雪。",
           "vocab": [
             {
-              "word": "bolster",
-              "ipa": "/bˈoʊlstɚ/",
+              "word": "cover",
+              "ipa": "",
               "pos": "v.",
-              "zh": "增強；支持"
-            },
-            {
-              "word": "capacity",
-              "ipa": "/kəpˈæsəti/",
-              "pos": "n.",
-              "zh": "產能；容量"
+              "zh": "覆蓋"
             }
           ]
         },
         {
           "id": "s03",
-          "en": "The new facility will focus on next-generation artificial intelligence chips.",
-          "zh": "新廠將專注於下一代人工智慧晶片。",
-          "vocab": []
+          "en": "Park officials warned hikers that melting snow quickly turns into slippery ice.",
+          "zh": "雪管處提醒山友，融化的積雪很快會結成濕滑的薄冰。",
+          "vocab": [
+            {
+              "word": "slippery",
+              "ipa": "",
+              "pos": "adj.",
+              "zh": "濕滑的；滑溜的"
+            }
+          ]
         },
         {
           "id": "s04",
-          "en": "It represents a major investment in Taiwan's crucial technology sector.",
-          "zh": "這代表著對臺灣關鍵科技產業的一項重大投資。",
-          "vocab": []
-        },
-        {
-          "id": "s05",
-          "en": "The project is expected to create thousands of new jobs locally.",
-          "zh": "該專案預計將在當地創造數千個新工作機會。",
-          "vocab": []
+          "en": "Visitors must carry proper winter gear and check weather reports before climbing.",
+          "zh": "入山民眾務必攜帶適當的雪季裝備，並在攀登前確認氣象預報。",
+          "vocab": [
+            {
+              "word": "proper",
+              "ipa": "",
+              "pos": "adj.",
+              "zh": "適當的；合適的"
+            }
+          ]
         }
       ]
     },
     {
-      "topic": "財經",
-      "headline_en": "Global Economy Shows Resilience Amidst Ongoing Market Challenges",
-      "headline_zh": "全球經濟在持續的市場挑戰中展現韌性",
+      "topic": "生成式AI 發展",
+      "headline_en": "Mathematician Claims Claude AI Helped Prove Famous Riemann Hypothesis",
+      "headline_zh": "數學家宣稱攜手 Claude AI 證明百年數學難題黎曼猜想",
       "sources": [
-        "https://cn.nikkei.com/columnviewpoint/column/50000-2026-11-19-00-00-00.html",
-        "https://www.abfunds.com.tw/insights/global-market-outlook/2026-q1-global-economic-outlook"
+        "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+        "https://amp.dw.com/en/anthropic-researcher-uses-ai-to-solve-maths-greatest-riddle/a-80008428"
       ],
       "sentences": [
         {
-          "id": "s01",
-          "en": "A new report highlights the global economy's resilience despite recent market fluctuations.",
-          "zh": "一份新報告強調，儘管近期市場波動，全球經濟仍展現韌性。",
+          "id": "s05",
+          "en": "A mathematician at Anthropic claimed he solved a famous math puzzle with AI.",
+          "zh": "一名任職於 Anthropic 的數學家宣稱，他與 AI 共同解開了一道著名數學難題。",
           "vocab": [
             {
-              "word": "resilience",
-              "ipa": "/ɹɪzˈɪliəns/",
-              "pos": "n.",
-              "zh": "韌性；彈性"
+              "word": "claim",
+              "ipa": "",
+              "pos": "v.",
+              "zh": "宣稱；主張"
             },
             {
-              "word": "fluctuations",
-              "ipa": "/flˌʌktʃuˈeɪʃənz/",
+              "word": "puzzle",
+              "ipa": "",
               "pos": "n.",
-              "zh": "波動；起伏"
+              "zh": "難題；謎題"
             }
           ]
         },
         {
-          "id": "s02",
-          "en": "Analysts maintain a cautiously optimistic outlook for the coming year.",
-          "zh": "分析師對來年保持謹慎樂觀的展望。",
-          "vocab": [
-            {
-              "word": "outlook",
-              "ipa": "/ˈaʊtlˌʊk/",
-              "pos": "n.",
-              "zh": "展望；前景"
-            }
-          ]
-        },
-        {
-          "id": "s03",
-          "en": "Key sectors are adapting well to changing consumer demands and supply issues.",
-          "zh": "關鍵產業正良好地適應不斷變化的消費者需求和供應問題。",
+          "id": "s06",
+          "en": "He worked with the Claude AI model to study the 167-year-old Riemann hypothesis.",
+          "zh": "他與 Claude 模型合作，共同研究擁有 167 年歷史的黎曼猜想。",
           "vocab": []
         },
         {
-          "id": "s04",
-          "en": "Governments and central banks continue to navigate complex economic landscapes.",
-          "zh": "各國政府和中央銀行持續應對複雜的經濟情勢。",
+          "id": "s07",
+          "en": "The team shared massive computer files so other experts can check every step.",
+          "zh": "團隊公開了龐大的電腦驗證檔案，讓其他專家能逐一檢視每個步驟。",
           "vocab": [
             {
-              "word": "navigate",
-              "ipa": "/nˈævəɡˌeɪt/",
-              "pos": "v.",
-              "zh": "應對；導航"
+              "word": "massive",
+              "ipa": "",
+              "pos": "adj.",
+              "zh": "龐大的；巨大的"
             }
           ]
         },
         {
-          "id": "s05",
-          "en": "However, inflation and geopolitical tensions remain significant concerns.",
-          "zh": "然而，通貨膨脹和地緣政治緊張局勢仍是重大隱憂。",
+          "id": "s08",
+          "en": "However, outside scientists say the proof still needs careful human review before acceptance.",
+          "zh": "不過，外界學者表示這份證明仍需經過審慎的人工審查才能正式獲得承認。",
+          "vocab": [
+            {
+              "word": "review",
+              "ipa": "",
+              "pos": "n.",
+              "zh": "審查；檢視"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "生活品味與旅遊",
+      "headline_en": "Singapore Gardens by the Bay Opens Arctic-Themed Christmas Train Show",
+      "headline_zh": "新加坡濱海灣花園推出北極風聖誕火車特展",
+      "sources": [
+        "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/gardens-by-the-bay-christmas-train-show-2026.html",
+        "https://cnalifestyle.channelnewsasia.com/travel/gardens-bay-christmas-train-show-2026-finland-591961",
+        "https://www.asiaone.com/lifestyle/gardens-bay-christmas-display-arctic-showstopper"
+      ],
+      "sentences": [
+        {
+          "id": "s09",
+          "en": "Gardens by the Bay in Singapore opened its popular Christmas Train Show this weekend.",
+          "zh": "新加坡濱海灣花園本週末推出了備受歡迎的聖誕火車展。",
           "vocab": []
+        },
+        {
+          "id": "s10",
+          "en": "Model trains travel through bright flower gardens and tiny scenes from Finland.",
+          "zh": "模型火車穿梭在繽紛的花園與來自芬蘭的迷你造景之間。",
+          "vocab": [
+            {
+              "word": "scene",
+              "ipa": "",
+              "pos": "n.",
+              "zh": "場景；景色"
+            }
+          ]
+        },
+        {
+          "id": "s11",
+          "en": "Families can explore Santa's cozy wooden home and see cheerful holiday trees.",
+          "zh": "親子旅客可以探索聖誕老人溫馨的木屋，並欣賞充滿節慶氣氛的聖誕樹。",
+          "vocab": [
+            {
+              "word": "cozy",
+              "ipa": "",
+              "pos": "adj.",
+              "zh": "溫馨舒適的"
+            },
+            {
+              "word": "cheerful",
+              "ipa": "",
+              "pos": "adj.",
+              "zh": "歡樂的；愉快的"
+            }
+          ]
+        },
+        {
+          "id": "s12",
+          "en": "The festive indoor display will welcome travelers from around the world until January.",
+          "zh": "這場充滿節日氣息的室內展覽將開放至明年一月，迎接來自世界各地的旅客。",
+          "vocab": [
+            {
+              "word": "festive",
+              "ipa": "",
+              "pos": "adj.",
+              "zh": "節慶的；歡樂的"
+            }
+          ]
         }
       ]
     }
