@@ -1,0 +1,995 @@
+{
+  "date": "2026-11-28",
+  "total_duration_sec": 444.863,
+  "cache_hits": 43,
+  "cache_misses": 55,
+  "segments": [
+    {
+      "type": "intro",
+      "lang": "en",
+      "text": "Welcome to NEWS IN 10 — Nov 28.",
+      "start_sec": 0.0,
+      "end_sec": 4.811,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/3e36acec14b920e0876a3ba4131df0b8bd5d77644e303b6e6671b43bfcbba96f.wav"
+    },
+    {
+      "type": "intro",
+      "lang": "zh",
+      "text": "歡迎收聽 NEWS IN 10 每日新聞英語｜11 月 28 日。",
+      "start_sec": 5.211,
+      "end_sec": 11.302,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/13bdec1eb9e47d4afdacec6ba5b80b0839555aaccab4dee1417dcdb1151b74d7.wav"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "第 1 則新聞：臺灣經濟前景看好，成長預測創紀錄",
+      "start_sec": 12.302,
+      "end_sec": 17.832,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/6a035776f4ef75a8f192dab95b09748ad380662f2e3988ffece63ad76a7c7e94.wav",
+      "story_index": 1
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Taiwan's statistical agency recently upgraded its economic growth forecast for 2026.",
+      "start_sec": 18.432,
+      "end_sec": 25.911,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c2b759cf4ca76ab0a3d669d77162f40d7519a15c0ca811cc56629e5f58846f0c.wav",
+      "story_index": 1,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "臺灣的統計機構近期上修了 2026 年的經濟成長預測。",
+      "start_sec": 26.711,
+      "end_sec": 31.261,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/34f41195594e4c4475ed0bc7bd29350762d3abe21c32fa5c19731bdaf04170c1.wav",
+      "story_index": 1,
+      "sentence_id": "s01"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "statistical",
+      "start_sec": 31.861,
+      "end_sec": 33.688,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/84c2deecd34b820aea925e2b1aac401add6ab58e671ffa94e90ed166206f90e7.wav",
+      "story_index": 1,
+      "sentence_id": "s01",
+      "word": "statistical"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "S, T, A, T, I, S, T, I, C, A, L",
+      "start_sec": 34.088,
+      "end_sec": 42.682,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/7a2c3f4cc8ae89d495b84be51ae3aa22e9abb217abd6bdd6c12e4d946e028f79.wav",
+      "story_index": 1,
+      "sentence_id": "s01",
+      "word": "statistical"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "statistical",
+      "start_sec": 43.082,
+      "end_sec": 44.909,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/84c2deecd34b820aea925e2b1aac401add6ab58e671ffa94e90ed166206f90e7.wav",
+      "story_index": 1,
+      "sentence_id": "s01",
+      "word": "statistical"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，統計的。",
+      "start_sec": 45.309,
+      "end_sec": 48.24,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f8f21d6da004089e76a0f878144381ee7da9dac6e944903bb8945179c30f0cf5.wav",
+      "story_index": 1,
+      "sentence_id": "s01",
+      "word": "statistical"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "The projected Gross Domestic Product (GDP) growth is now 13.28 percent.",
+      "start_sec": 48.64,
+      "end_sec": 54.821,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/38eb963d8f4939c1020ec50a1dfa011c85cda5f493c9b1b96553d8f21323ab5c.wav",
+      "story_index": 1,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "預計的國內生產毛額（GDP）成長率現為 13.28%。",
+      "start_sec": 55.621,
+      "end_sec": 60.372,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a641371d5f6ad41b03b0b405a42e51f79a9ee3f367f7114aa8fce0a01b06e86a.wav",
+      "story_index": 1,
+      "sentence_id": "s02"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "projected",
+      "start_sec": 60.972,
+      "end_sec": 62.609,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/809d65496fecd549b21ba888d25c58a22412f04cb9f85ef89910170ea4ad084b.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "projected"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "P, R, O, J, E, C, T, E, D",
+      "start_sec": 63.009,
+      "end_sec": 69.018,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/2a304b7b52f4f0415acdf097c9b2ae27bee5acef02532b2cf3e4db8a2eff22c3.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "projected"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "projected",
+      "start_sec": 69.418,
+      "end_sec": 71.055,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/809d65496fecd549b21ba888d25c58a22412f04cb9f85ef89910170ea4ad084b.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "projected"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，預計的。",
+      "start_sec": 71.455,
+      "end_sec": 74.536,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/83a96f9405e08db22c4bc84359dc7c4cb144b2b3a4c8c8bc1d68dab5faf04352.wav",
+      "story_index": 1,
+      "sentence_id": "s02",
+      "word": "projected"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "This marks the highest growth rate in 48 years, largely due to the global AI boom.",
+      "start_sec": 74.936,
+      "end_sec": 81.588,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/264b3a8bd43c21ecd53b6bd645bbf62cdb21aa6cb100f891aac9b6f34def53a7.wav",
+      "story_index": 1,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這創下 48 年來最高成長率，主要歸因於全球人工智慧的蓬勃發展。",
+      "start_sec": 82.388,
+      "end_sec": 88.599,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/7f9c9bcf98fc1d632302e82919471ec4e537b5fd2d68d361ad7229140dd04e85.wav",
+      "story_index": 1,
+      "sentence_id": "s03"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "The semiconductor industry, especially TSMC, is a key driver of this strong performance.",
+      "start_sec": 89.199,
+      "end_sec": 97.163,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/7e76ab517b4d87ac5e9f6b4e94991a6ac2659a6dfd3467cefc1e25b9e73accc8.wav",
+      "story_index": 1,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "半導體產業，特別是台積電，是這次強勁表現的主要驅動力。",
+      "start_sec": 97.963,
+      "end_sec": 103.503,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/1936305f2ebf0967fbb62dbe5ba995cc6f449582e2fbcfaa25ef41b4c7af1507.wav",
+      "story_index": 1,
+      "sentence_id": "s04"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "semiconductor",
+      "start_sec": 104.103,
+      "end_sec": 105.884,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ed69311c704728b6013c0bf6f79f9634f0afff7a2494ca0db61255e638ff0d82.wav",
+      "story_index": 1,
+      "sentence_id": "s04",
+      "word": "semiconductor"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "S, E, M, I, C, O, N, D, U, C, T, O, R",
+      "start_sec": 106.284,
+      "end_sec": 108.209,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0a2cd3e9c4ca33b3d0e3e85ba1dd59ad86bcdcb79767abadfcf9445949147a30.wav",
+      "story_index": 1,
+      "sentence_id": "s04",
+      "word": "semiconductor"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "semiconductor",
+      "start_sec": 108.609,
+      "end_sec": 110.39,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ed69311c704728b6013c0bf6f79f9634f0afff7a2494ca0db61255e638ff0d82.wav",
+      "story_index": 1,
+      "sentence_id": "s04",
+      "word": "semiconductor"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，半導體。",
+      "start_sec": 110.79,
+      "end_sec": 114.001,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0ad2dc335e79c22216a5dbdea795b51ebdabbe5bab0ab92674ff4eefe161631f.wav",
+      "story_index": 1,
+      "sentence_id": "s04",
+      "word": "semiconductor"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "This optimistic outlook persists despite some market uncertainties in related sectors.",
+      "start_sec": 114.401,
+      "end_sec": 122.223,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a3375154d65e6a2b17de54ee417802f23d3d780982933d1bc4ac640905c057f0.wav",
+      "story_index": 1,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "儘管相關產業存在一些市場不確定性，這種樂觀前景依然持續。",
+      "start_sec": 123.023,
+      "end_sec": 128.904,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/6000cce577477bbfb9e8439b5e5b385b22d24c376e204a8b1f0a9169cf92dff1.wav",
+      "story_index": 1,
+      "sentence_id": "s05"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "optimistic",
+      "start_sec": 129.504,
+      "end_sec": 131.046,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/6306472f0e0d2374e293088365a9599d06353064f050965d1d49e29def078c6d.wav",
+      "story_index": 1,
+      "sentence_id": "s05",
+      "word": "optimistic"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "O, P, T, I, M, I, S, T, I, C",
+      "start_sec": 131.446,
+      "end_sec": 138.862,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b1849c919f75f45ce4a74bc16a614e0d18b171b5d635abd69bf70d1712659f08.wav",
+      "story_index": 1,
+      "sentence_id": "s05",
+      "word": "optimistic"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "optimistic",
+      "start_sec": 139.262,
+      "end_sec": 140.804,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/6306472f0e0d2374e293088365a9599d06353064f050965d1d49e29def078c6d.wav",
+      "story_index": 1,
+      "sentence_id": "s05",
+      "word": "optimistic"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，樂觀的。",
+      "start_sec": 141.204,
+      "end_sec": 144.015,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f5abe68cf2d2627bf29a699a8fce3818ab86b6af6e8d3800521b4c7606e5169a.wav",
+      "story_index": 1,
+      "sentence_id": "s05",
+      "word": "optimistic"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "第 2 則新聞：台積電發表人工智慧設計套件加速晶片開發",
+      "start_sec": 145.915,
+      "end_sec": 152.255,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f1aaac725e3f53a8ca4b65cbcb75484112dab960aa1d2ee51becbef8d084e677.wav",
+      "story_index": 2
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "TSMC, a leading chipmaker, has launched its new AI Design Kit (ADK).",
+      "start_sec": 152.855,
+      "end_sec": 160.051,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/27540498a9fffbab4cd0600381dcea02bdffe95e5adcbd1a9f2096f3839b29fd.wav",
+      "story_index": 2,
+      "sentence_id": "s06"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "領先的晶片製造商台積電，推出了全新的人工智慧設計套件（ADK）。",
+      "start_sec": 160.851,
+      "end_sec": 166.932,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/00521abcddf4098cce72d6976321009758ac41fb5eab83f01e79e16291eb1e13.wav",
+      "story_index": 2,
+      "sentence_id": "s06"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "chipmaker",
+      "start_sec": 167.532,
+      "end_sec": 168.937,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/2762433e8707c46e4ec0100bbbf7205b20027e2112639c79bc205d8b26c1e12b.wav",
+      "story_index": 2,
+      "sentence_id": "s06",
+      "word": "chipmaker"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "C, H, I, P, M, A, K, E, R",
+      "start_sec": 169.337,
+      "end_sec": 170.979,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/11776256143fc3fe36b5b747e87d1e47484929ace3d76fdc6b3919f94ef47809.wav",
+      "story_index": 2,
+      "sentence_id": "s06",
+      "word": "chipmaker"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "chipmaker",
+      "start_sec": 171.379,
+      "end_sec": 172.784,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/2762433e8707c46e4ec0100bbbf7205b20027e2112639c79bc205d8b26c1e12b.wav",
+      "story_index": 2,
+      "sentence_id": "s06",
+      "word": "chipmaker"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，晶片製造商。",
+      "start_sec": 173.184,
+      "end_sec": 177.305,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9d66310d73076a89ebfc8f321a9242d4e01280ef2e763b84f48eddc887bb7666.wav",
+      "story_index": 2,
+      "sentence_id": "s06",
+      "word": "chipmaker"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "This innovative tool aims to expedite the chip development process.",
+      "start_sec": 177.705,
+      "end_sec": 182.542,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/14360ea7b309516ca30e32fcf637a48a15159509f7c57a21098f024b2aaf287f.wav",
+      "story_index": 2,
+      "sentence_id": "s07"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這項創新工具旨在加速晶片開發流程。",
+      "start_sec": 183.342,
+      "end_sec": 187.653,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/551e07ffd804ff0f7b9bbea7bc6b5042c0177b4547e418915772789ebdab25fa.wav",
+      "story_index": 2,
+      "sentence_id": "s07"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "expedite",
+      "start_sec": 188.253,
+      "end_sec": 189.54,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/7a86742af0c1b7d2c8c7de651e4f6dc4902d0eceb208731f18dc606e85a6bb6c.wav",
+      "story_index": 2,
+      "sentence_id": "s07",
+      "word": "expedite"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "E, X, P, E, D, I, T, E",
+      "start_sec": 189.94,
+      "end_sec": 196.821,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/be7dda632d47fcedc6efee5bacd0ba604867d60828cf7086f6dd8680031cfa95.wav",
+      "story_index": 2,
+      "sentence_id": "s07",
+      "word": "expedite"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "expedite",
+      "start_sec": 197.221,
+      "end_sec": 198.508,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/7a86742af0c1b7d2c8c7de651e4f6dc4902d0eceb208731f18dc606e85a6bb6c.wav",
+      "story_index": 2,
+      "sentence_id": "s07",
+      "word": "expedite"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，加速。",
+      "start_sec": 198.908,
+      "end_sec": 201.809,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/7c863145a16549067f78653ae0ce2635aba931466ca6de6a8172681ac257ffe2.wav",
+      "story_index": 2,
+      "sentence_id": "s07",
+      "word": "expedite"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "The ADK uses artificial intelligence to handle complex design tasks.",
+      "start_sec": 202.209,
+      "end_sec": 207.982,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/a5c3f18754e649c5236820bacef548e0cb9c5ddca7a083ebe04cd1606fe43c24.wav",
+      "story_index": 2,
+      "sentence_id": "s08"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "ADK 運用人工智慧處理複雜的設計任務。",
+      "start_sec": 208.782,
+      "end_sec": 212.593,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/43a691eac6ed9c58f8d77418318ce6152febfe436171ce4d5f250cdc1f52d913.wav",
+      "story_index": 2,
+      "sentence_id": "s08"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "artificial intelligence",
+      "start_sec": 213.193,
+      "end_sec": 215.377,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/40735f6c7b63c4405c1fe9215f23d13d75485eb9ce1e64f4e5cc377e128608de.wav",
+      "story_index": 2,
+      "sentence_id": "s08",
+      "word": "artificial intelligence"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "A, R, T, I, F, I, C, I, A, L, I, N, T, E, L, L, I, G, E, N, C, E",
+      "start_sec": 215.777,
+      "end_sec": 228.358,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/bad58c18a9091c88da11c6634d1b534c2085619fd671b5eee8727514c8ae4f4b.wav",
+      "story_index": 2,
+      "sentence_id": "s08",
+      "word": "artificial intelligence"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "artificial intelligence",
+      "start_sec": 228.758,
+      "end_sec": 230.942,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/40735f6c7b63c4405c1fe9215f23d13d75485eb9ce1e64f4e5cc377e128608de.wav",
+      "story_index": 2,
+      "sentence_id": "s08",
+      "word": "artificial intelligence"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，人工智慧。",
+      "start_sec": 231.342,
+      "end_sec": 235.282,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5ee42ee369ed194a18e06e493762091b59db65f9c8af75f93e21a2bc9bf5c9d5.wav",
+      "story_index": 2,
+      "sentence_id": "s08",
+      "word": "artificial intelligence"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "It could boost digital design efficiency by three to five times.",
+      "start_sec": 235.682,
+      "end_sec": 240.41,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/15d822ca20b5f31888b212f9ee4f212efd328a1d0910c663abc814c0384cc2a5.wav",
+      "story_index": 2,
+      "sentence_id": "s09"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "它能將數位設計效率提升三到五倍。",
+      "start_sec": 241.21,
+      "end_sec": 244.81,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/93339724a4dfaf5186c82c4857a5d3757445e8b62f77ce20325d30cec58b4cd4.wav",
+      "story_index": 2,
+      "sentence_id": "s09"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "efficiency",
+      "start_sec": 245.41,
+      "end_sec": 246.742,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/552186d10f0eae994efed8f93e08a859b2ca925db146d310b195cec547d0962a.wav",
+      "story_index": 2,
+      "sentence_id": "s09",
+      "word": "efficiency"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "E, F, F, I, C, I, E, N, C, Y",
+      "start_sec": 247.142,
+      "end_sec": 253.434,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c8272e50c8499dfcd37a94dfb12580403c959680160c2cb21bd15252fb59fe80.wav",
+      "story_index": 2,
+      "sentence_id": "s09",
+      "word": "efficiency"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "efficiency",
+      "start_sec": 253.834,
+      "end_sec": 255.165,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/552186d10f0eae994efed8f93e08a859b2ca925db146d310b195cec547d0962a.wav",
+      "story_index": 2,
+      "sentence_id": "s09",
+      "word": "efficiency"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，效率。",
+      "start_sec": 255.565,
+      "end_sec": 258.066,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/1b4432eefef97fbbdd2f6d3a9650b1c0ff560023c905dfbfcc3fd16f05576590.wav",
+      "story_index": 2,
+      "sentence_id": "s09",
+      "word": "efficiency"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "This advancement is crucial as demand for AI accelerators continues to grow.",
+      "start_sec": 258.466,
+      "end_sec": 264.884,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/1c79fdf6a2b13a8d84768a0856fa3dffa84b46f55ad8374e95028386e4c0a09e.wav",
+      "story_index": 2,
+      "sentence_id": "s10"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "隨著對人工智慧加速器的需求持續增長，這項進展至關重要。",
+      "start_sec": 265.684,
+      "end_sec": 271.345,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/8b9510a25e9903173d182e1d0136dc3390363a8b7bfcd40d3aeca3274e10af9f.wav",
+      "story_index": 2,
+      "sentence_id": "s10"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "第 3 則新聞：美國通膨指標創 2023 年以來新高",
+      "start_sec": 273.445,
+      "end_sec": 278.105,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b24ba05208b7ef43bbc3322a7e2830f401771facb60065ae4a7954bdc0610667.wav",
+      "story_index": 3
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "The Federal Reserve's preferred inflation gauge recently showed a significant increase.",
+      "start_sec": 278.705,
+      "end_sec": 284.793,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/40ae72eecc2e17cf7f77f97df0edc5a0810910f870f79c5b9427bc02f980f632.wav",
+      "story_index": 3,
+      "sentence_id": "s11"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "聯邦準備理事會偏好的通膨衡量標準近期顯著上升。",
+      "start_sec": 285.593,
+      "end_sec": 290.683,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c525a0af2ed117558c84cb90212a1a200e33ab78fd71e17dd60193c20f43f876.wav",
+      "story_index": 3,
+      "sentence_id": "s11"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "Federal Reserve",
+      "start_sec": 291.283,
+      "end_sec": 293.298,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/3abbc1b25ee349dee04315d03ee1fc419a6c456c84d99bbc5470b8b9ef87666e.wav",
+      "story_index": 3,
+      "sentence_id": "s11",
+      "word": "Federal Reserve"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "F, E, D, E, R, A, L, R, E, S, E, R, V, E",
+      "start_sec": 293.698,
+      "end_sec": 303.868,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/6d44ca36ed0c60b33b192fecdef2cfe49306916c8d2a38bb25bbd63d177d44f8.wav",
+      "story_index": 3,
+      "sentence_id": "s11",
+      "word": "Federal Reserve"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "Federal Reserve",
+      "start_sec": 304.268,
+      "end_sec": 306.283,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/3abbc1b25ee349dee04315d03ee1fc419a6c456c84d99bbc5470b8b9ef87666e.wav",
+      "story_index": 3,
+      "sentence_id": "s11",
+      "word": "Federal Reserve"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，聯邦準備理事會。",
+      "start_sec": 306.683,
+      "end_sec": 310.794,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/3ae07af5fa6b7a9c5acdde5733de83db21c003cbfb50d2f309a7b4ed3bbc0c7e.wav",
+      "story_index": 3,
+      "sentence_id": "s11",
+      "word": "Federal Reserve"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Core Personal Consumption Expenditures (PCE) inflation rose to 3.3 percent.",
+      "start_sec": 311.194,
+      "end_sec": 318.913,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/d685c226446d54abd19a685d1efd465e6cd24703a387cc1863faae1ecbccd615.wav",
+      "story_index": 3,
+      "sentence_id": "s12"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "核心個人消費支出（PCE）通膨率上升至百分之三點三。",
+      "start_sec": 319.713,
+      "end_sec": 325.394,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/7e8bd19424c1a1bc04aa5e4217d786da3f3febaf959e0e4ff555416a96df500b.wav",
+      "story_index": 3,
+      "sentence_id": "s12"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "This is the fastest annual rate observed since late 2023.",
+      "start_sec": 325.994,
+      "end_sec": 330.891,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/12d24e33ed1cd5e11b8185803ac4f06cd76de383b407cce95f8cc7abe43d3b1f.wav",
+      "story_index": 3,
+      "sentence_id": "s13"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這是自 2023 年底以來觀察到的最快年增率。",
+      "start_sec": 331.691,
+      "end_sec": 335.922,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/c5c2f4b71b2178ae8857acc57aa5b64fbdfda0ed037938f90690c766cf4ba579.wav",
+      "story_index": 3,
+      "sentence_id": "s13"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "Tariffs and strong AI-driven demand are pushing prices up.",
+      "start_sec": 336.522,
+      "end_sec": 341.256,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/09bb856549a86839caa3b2a52eec3ab00498c55a71a65f38c678a98151efcec6.wav",
+      "story_index": 3,
+      "sentence_id": "s14"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "關稅和強勁的人工智慧驅動需求正在推高物價。",
+      "start_sec": 342.056,
+      "end_sec": 346.726,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9f18ed089a98bd028096b021990de50ff20abea8a90f5c0a9f80f11d7562b356.wav",
+      "story_index": 3,
+      "sentence_id": "s14"
+    },
+    {
+      "type": "vocab_word",
+      "lang": "en",
+      "text": "tariffs",
+      "start_sec": 347.326,
+      "end_sec": 348.655,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f696a33547680d79b3fdc62339952157697dabde30e11df96ea55c5a4eada537.wav",
+      "story_index": 3,
+      "sentence_id": "s14",
+      "word": "tariffs"
+    },
+    {
+      "type": "vocab_spell",
+      "lang": "en",
+      "text": "T, A, R, I, F, F, S",
+      "start_sec": 349.055,
+      "end_sec": 356.34,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/72b90960f518636a28172f9b38167ead5b36ab75280dc6b6668389b61fa9508d.wav",
+      "story_index": 3,
+      "sentence_id": "s14",
+      "word": "tariffs"
+    },
+    {
+      "type": "vocab_word_repeat",
+      "lang": "en",
+      "text": "tariffs",
+      "start_sec": 356.74,
+      "end_sec": 358.069,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f696a33547680d79b3fdc62339952157697dabde30e11df96ea55c5a4eada537.wav",
+      "story_index": 3,
+      "sentence_id": "s14",
+      "word": "tariffs"
+    },
+    {
+      "type": "vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，關稅。",
+      "start_sec": 358.469,
+      "end_sec": 361.199,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5e79f3a5d4d659f5243a2b0ba2332ca7b2651886db96a57df042eb0f2b8c6ce3.wav",
+      "story_index": 3,
+      "sentence_id": "s14",
+      "word": "tariffs"
+    },
+    {
+      "type": "en",
+      "lang": "en",
+      "text": "This indicates that inflation remains persistent, moving further from the Fed's two percent target.",
+      "start_sec": 361.599,
+      "end_sec": 368.954,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/b270e003e19177d7c4fd0355ffafcdcf0e231c8380af211452393447b9e555eb.wav",
+      "story_index": 3,
+      "sentence_id": "s15"
+    },
+    {
+      "type": "zh",
+      "lang": "zh",
+      "text": "這顯示通膨持續存在，進一步偏離聯準會百分之二的目標。",
+      "start_sec": 369.754,
+      "end_sec": 375.075,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/d0ff5fa423f01fed898536ac251674d9346d0a4c993c13dfbf070d8dd8f2c050.wav",
+      "story_index": 3,
+      "sentence_id": "s15"
+    },
+    {
+      "type": "outro",
+      "lang": "zh",
+      "text": "最後讓我們快速複習今天學到的單字。",
+      "start_sec": 376.675,
+      "end_sec": 380.116,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/96a8c12ff414ac63850914dd9f7d466a5ac048c7088759e1aad393a3ce3e5747.wav"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "statistical",
+      "start_sec": 380.616,
+      "end_sec": 382.442,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/84c2deecd34b820aea925e2b1aac401add6ab58e671ffa94e90ed166206f90e7.wav",
+      "word": "statistical"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，統計的。",
+      "start_sec": 382.842,
+      "end_sec": 385.773,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f8f21d6da004089e76a0f878144381ee7da9dac6e944903bb8945179c30f0cf5.wav",
+      "word": "statistical"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "projected",
+      "start_sec": 386.173,
+      "end_sec": 387.81,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/809d65496fecd549b21ba888d25c58a22412f04cb9f85ef89910170ea4ad084b.wav",
+      "word": "projected"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，預計的。",
+      "start_sec": 388.21,
+      "end_sec": 391.29,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/83a96f9405e08db22c4bc84359dc7c4cb144b2b3a4c8c8bc1d68dab5faf04352.wav",
+      "word": "projected"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "semiconductor",
+      "start_sec": 391.69,
+      "end_sec": 393.471,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/ed69311c704728b6013c0bf6f79f9634f0afff7a2494ca0db61255e638ff0d82.wav",
+      "word": "semiconductor"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，半導體。",
+      "start_sec": 393.871,
+      "end_sec": 397.082,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/0ad2dc335e79c22216a5dbdea795b51ebdabbe5bab0ab92674ff4eefe161631f.wav",
+      "word": "semiconductor"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "optimistic",
+      "start_sec": 397.482,
+      "end_sec": 399.024,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/6306472f0e0d2374e293088365a9599d06353064f050965d1d49e29def078c6d.wav",
+      "word": "optimistic"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，樂觀的。",
+      "start_sec": 399.424,
+      "end_sec": 402.235,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f5abe68cf2d2627bf29a699a8fce3818ab86b6af6e8d3800521b4c7606e5169a.wav",
+      "word": "optimistic"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "chipmaker",
+      "start_sec": 402.635,
+      "end_sec": 404.04,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/2762433e8707c46e4ec0100bbbf7205b20027e2112639c79bc205d8b26c1e12b.wav",
+      "word": "chipmaker"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，晶片製造商。",
+      "start_sec": 404.44,
+      "end_sec": 408.561,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/9d66310d73076a89ebfc8f321a9242d4e01280ef2e763b84f48eddc887bb7666.wav",
+      "word": "chipmaker"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "expedite",
+      "start_sec": 408.961,
+      "end_sec": 410.248,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/7a86742af0c1b7d2c8c7de651e4f6dc4902d0eceb208731f18dc606e85a6bb6c.wav",
+      "word": "expedite"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，加速。",
+      "start_sec": 410.648,
+      "end_sec": 413.549,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/7c863145a16549067f78653ae0ce2635aba931466ca6de6a8172681ac257ffe2.wav",
+      "word": "expedite"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "artificial intelligence",
+      "start_sec": 413.949,
+      "end_sec": 416.133,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/40735f6c7b63c4405c1fe9215f23d13d75485eb9ce1e64f4e5cc377e128608de.wav",
+      "word": "artificial intelligence"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，人工智慧。",
+      "start_sec": 416.533,
+      "end_sec": 420.473,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5ee42ee369ed194a18e06e493762091b59db65f9c8af75f93e21a2bc9bf5c9d5.wav",
+      "word": "artificial intelligence"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "efficiency",
+      "start_sec": 420.873,
+      "end_sec": 422.205,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/552186d10f0eae994efed8f93e08a859b2ca925db146d310b195cec547d0962a.wav",
+      "word": "efficiency"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，效率。",
+      "start_sec": 422.605,
+      "end_sec": 425.105,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/1b4432eefef97fbbdd2f6d3a9650b1c0ff560023c905dfbfcc3fd16f05576590.wav",
+      "word": "efficiency"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "Federal Reserve",
+      "start_sec": 425.505,
+      "end_sec": 427.52,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/3abbc1b25ee349dee04315d03ee1fc419a6c456c84d99bbc5470b8b9ef87666e.wav",
+      "word": "Federal Reserve"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，聯邦準備理事會。",
+      "start_sec": 427.92,
+      "end_sec": 432.031,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/3ae07af5fa6b7a9c5acdde5733de83db21c003cbfb50d2f309a7b4ed3bbc0c7e.wav",
+      "word": "Federal Reserve"
+    },
+    {
+      "type": "outro_vocab_en",
+      "lang": "en",
+      "text": "tariffs",
+      "start_sec": 432.431,
+      "end_sec": 433.76,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/f696a33547680d79b3fdc62339952157697dabde30e11df96ea55c5a4eada537.wav",
+      "word": "tariffs"
+    },
+    {
+      "type": "outro_vocab_zh",
+      "lang": "zh",
+      "text": "這個字的中文意思是，關稅。",
+      "start_sec": 434.16,
+      "end_sec": 436.89,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/5e79f3a5d4d659f5243a2b0ba2332ca7b2651886db96a57df042eb0f2b8c6ce3.wav",
+      "word": "tariffs"
+    },
+    {
+      "type": "outro",
+      "lang": "en",
+      "text": "Thanks for listening to NEWS IN 10. See you tomorrow!",
+      "start_sec": 437.29,
+      "end_sec": 441.423,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/8ad249f376a23a4cbbf58f606f65845bb1776f86978a4803799b18a1390cf4d3.wav"
+    },
+    {
+      "type": "outro",
+      "lang": "zh",
+      "text": "感謝收聽 NEWS IN 10，我們明天見。",
+      "start_sec": 441.823,
+      "end_sec": 444.863,
+      "audio_file": "/home/runner/work/daily-news-english/daily-news-english/.tts_cache/dcfa8d1f94019496e8a2ebe1525c7d9693ecc76c8b44fafc49f20caf499d410f.wav"
+    }
+  ]
+}
